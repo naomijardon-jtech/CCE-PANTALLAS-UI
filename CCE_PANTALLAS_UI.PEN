@@ -49,7 +49,7 @@
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                    "url": "LOGO%20CCE%20-%20copia.png",
                     "mode": "fill"
                   },
                   "width": 50,
@@ -8462,7 +8462,7 @@
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                            "url": "LOGO%20CCE%20-%20copia.png",
                             "mode": "fill"
                           },
                           "width": 36,
@@ -19638,7 +19638,7 @@
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                    "url": "LOGO%20CCE%20-%20copia.png",
                     "mode": "fill"
                   },
                   "width": 50,
@@ -20973,7 +20973,7 @@
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                    "url": "LOGO%20CCE%20-%20copia.png",
                     "mode": "fill"
                   },
                   "width": 50,
@@ -26480,7 +26480,7 @@
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                    "url": "LOGO%20CCE%20-%20copia.png",
                     "mode": "fill"
                   },
                   "width": 50,
@@ -27559,7 +27559,7 @@
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                    "url": "LOGO%20CCE%20-%20copia.png",
                     "mode": "fill"
                   },
                   "width": 50,
@@ -28577,7 +28577,7 @@
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                    "url": "LOGO%20CCE%20-%20copia.png",
                     "mode": "fill"
                   },
                   "width": 50,
@@ -30398,7 +30398,7 @@
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                    "url": "LOGO%20CCE%20-%20copia.png",
                     "mode": "fill"
                   },
                   "width": 50,
@@ -32455,7 +32455,7 @@
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
-                                "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                                "url": "LOGO%20CCE%20-%20copia.png",
                                 "mode": "fill"
                               },
                               "width": 20,
@@ -32804,7 +32804,7 @@
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
-                                "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                                "url": "LOGO%20CCE%20-%20copia.png",
                                 "mode": "fill"
                               },
                               "width": 20,
@@ -33517,7 +33517,7 @@
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                            "url": "LOGO%20CCE%20-%20copia.png",
                             "mode": "fill"
                           },
                           "width": 20,
@@ -34466,7 +34466,7 @@
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                            "url": "LOGO%20CCE%20-%20copia.png",
                             "mode": "fill"
                           },
                           "width": 20,
@@ -36090,7 +36090,7 @@
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
-                                "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                                "url": "LOGO%20CCE%20-%20copia.png",
                                 "mode": "fill"
                               },
                               "width": 20,
@@ -39856,7 +39856,7 @@
                                       "fill": {
                                         "type": "image",
                                         "enabled": true,
-                                        "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                                        "url": "LOGO%20CCE%20-%20copia.png",
                                         "mode": "fill"
                                       },
                                       "width": 16,
@@ -41560,15 +41560,6 @@
       ]
     },
     {
-      "type": "prompt",
-      "id": "OaMvt",
-      "x": 4105,
-      "y": 3800,
-      "width": 250,
-      "height": 219,
-      "content": "Podemos cambiar el microcopy a un asistente más humano, no tan robotizado."
-    },
-    {
       "type": "frame",
       "id": "nyWTo",
       "x": 2905,
@@ -41616,7 +41607,7 @@
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                    "url": "LOGO%20CCE%20-%20copia.png",
                     "mode": "fill"
                   },
                   "width": 50,
@@ -43037,7 +43028,7 @@
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                    "url": "LOGO%20CCE%20-%20copia.png",
                     "mode": "fill"
                   },
                   "width": 50,
@@ -44616,7 +44607,7 @@
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                            "url": "LOGO%20CCE%20-%20copia.png",
                             "mode": "fill"
                           },
                           "width": 40,
@@ -45506,7 +45497,7 @@
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                            "url": "LOGO%20CCE%20-%20copia.png",
                             "mode": "fill"
                           },
                           "width": 50,
@@ -45731,7 +45722,7 @@
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                    "url": "LOGO%20CCE%20-%20copia.png",
                     "mode": "fill"
                   },
                   "width": 50,
@@ -47493,7 +47484,7 @@
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                            "url": "LOGO%20CCE%20-%20copia.png",
                             "mode": "fill"
                           },
                           "width": 40,
@@ -47768,7 +47759,7 @@
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                            "url": "LOGO%20CCE%20-%20copia.png",
                             "mode": "fill"
                           },
                           "width": 50,
@@ -48505,7 +48496,7 @@
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                    "url": "LOGO%20CCE%20-%20copia.png",
                     "mode": "fill"
                   },
                   "width": 50,
@@ -50219,7 +50210,7 @@
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                            "url": "LOGO%20CCE%20-%20copia.png",
                             "mode": "fill"
                           },
                           "width": 40,
@@ -51393,7 +51384,7 @@
     {
       "type": "frame",
       "id": "X4mMcu",
-      "x": 18007,
+      "x": 17726,
       "y": 6130,
       "name": "HC — Artículo SFTP",
       "width": 1200,
@@ -51435,7 +51426,7 @@
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                    "url": "LOGO%20CCE%20-%20copia.png",
                     "mode": "fill"
                   },
                   "width": 50,
@@ -53037,7 +53028,7 @@
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                            "url": "LOGO%20CCE%20-%20copia.png",
                             "mode": "fill"
                           },
                           "width": 40,
@@ -53202,7 +53193,7 @@
     {
       "type": "frame",
       "id": "E7LMS0",
-      "x": 19378,
+      "x": 19097,
       "y": 6130,
       "name": "HC — Artículo Variantes",
       "width": 1440,
@@ -54197,7 +54188,7 @@
     {
       "type": "frame",
       "id": "CyGsS",
-      "x": 21027,
+      "x": 20746,
       "y": 6130,
       "name": "HC — Tabla Horarios",
       "width": 1200,
@@ -54239,7 +54230,7 @@
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                    "url": "LOGO%20CCE%20-%20copia.png",
                     "mode": "fill"
                   },
                   "width": 50,
@@ -56673,7 +56664,7 @@
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                            "url": "LOGO%20CCE%20-%20copia.png",
                             "mode": "fill"
                           },
                           "width": 40,
@@ -56838,7 +56829,7 @@
     {
       "type": "frame",
       "id": "odkr1",
-      "x": 22344,
+      "x": 22063,
       "y": 6130,
       "name": "HC — Tabla Variantes",
       "fill": "$color-background",
@@ -57934,7 +57925,7 @@
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                    "url": "LOGO%20CCE%20-%20copia.png",
                     "mode": "fill"
                   },
                   "width": 50,
@@ -59561,7 +59552,7 @@
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                            "url": "LOGO%20CCE%20-%20copia.png",
                             "mode": "fill"
                           },
                           "width": 40,
@@ -60362,7 +60353,7 @@
     {
       "type": "frame",
       "id": "oQkcb",
-      "x": 15073,
+      "x": 14931,
       "y": 6130,
       "name": "HC — Guía Ticket",
       "width": 1200,
@@ -60404,7 +60395,7 @@
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                    "url": "LOGO%20CCE%20-%20copia.png",
                     "mode": "fill"
                   },
                   "width": 50,
@@ -62048,7 +62039,7 @@
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                            "url": "LOGO%20CCE%20-%20copia.png",
                             "mode": "fill"
                           },
                           "width": 40,
@@ -62213,7 +62204,7 @@
     {
       "type": "frame",
       "id": "Cukb4",
-      "x": 16593,
+      "x": 16279,
       "y": 6130,
       "name": "HC — Guía Variantes",
       "width": 1200,
@@ -62845,7 +62836,7 @@
     {
       "type": "frame",
       "id": "fCzdm",
-      "x": 23797,
+      "x": 23516,
       "y": 6130,
       "name": "HC — Reglamento Cheques",
       "width": 1200,
@@ -62887,7 +62878,7 @@
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                    "url": "LOGO%20CCE%20-%20copia.png",
                     "mode": "fill"
                   },
                   "width": 50,
@@ -64448,7 +64439,7 @@
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                            "url": "LOGO%20CCE%20-%20copia.png",
                             "mode": "fill"
                           },
                           "width": 40,
@@ -64613,7 +64604,7 @@
     {
       "type": "frame",
       "id": "mP2m9",
-      "x": 25133,
+      "x": 24852,
       "y": 6130,
       "name": "HC — Reglamento Variantes",
       "width": "fit_content(1270)",
@@ -65307,7 +65298,7 @@
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                    "url": "LOGO%20CCE%20-%20copia.png",
                     "mode": "fill"
                   },
                   "width": 50,
@@ -65863,7 +65854,7 @@
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                            "url": "LOGO%20CCE%20-%20copia.png",
                             "mode": "fill"
                           },
                           "width": 40,
