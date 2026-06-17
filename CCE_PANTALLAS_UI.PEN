@@ -64907,2295 +64907,9 @@
     },
     {
       "type": "frame",
-      "id": "gj3BX",
-      "x": 6329,
-      "y": 9204,
-      "name": "HC — Categoría Comunicaciones CCE",
-      "width": 1200,
-      "fill": "$color-background",
-      "layout": "vertical",
-      "children": [
-        {
-          "type": "frame",
-          "id": "TEATn",
-          "clip": true,
-          "width": "fill_container",
-          "fill": "$color-primary-dark",
-          "cornerRadius": [
-            0,
-            0,
-            10,
-            10
-          ],
-          "gap": 4,
-          "padding": [
-            10,
-            16
-          ],
-          "alignItems": "center",
-          "children": [
-            {
-              "type": "frame",
-              "id": "Lsw23",
-              "gap": 5,
-              "padding": [
-                0,
-                5
-              ],
-              "alignItems": "center",
-              "children": [
-                {
-                  "type": "rectangle",
-                  "id": "m3chAC",
-                  "fill": {
-                    "type": "image",
-                    "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
-                    "mode": "fill"
-                  },
-                  "width": 50,
-                  "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "x5cr8",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
-                }
-              ]
-            },
-            {
-              "type": "frame",
-              "id": "CQZ7w",
-              "width": 150,
-              "height": "fill_container",
-              "fill": "$color-primary",
-              "gap": 10,
-              "padding": [
-                10,
-                20
-              ],
-              "justifyContent": "center",
-              "alignItems": "center",
-              "children": [
-                {
-                  "type": "icon",
-                  "id": "u8LV7o",
-                  "width": 18,
-                  "height": 18,
-                  "icon": "shield",
-                  "library": "lucide",
-                  "fill": "$color-white"
-                },
-                {
-                  "type": "text",
-                  "id": "Dexsf",
-                  "fill": "$color-white",
-                  "content": "Help Center",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "600"
-                }
-              ]
-            },
-            {
-              "type": "frame",
-              "id": "mTBFn",
-              "width": "fill_container",
-              "height": "fill_container",
-              "fill": "#00000000",
-              "cornerRadius": 6,
-              "gap": 10,
-              "padding": [
-                10,
-                20
-              ],
-              "alignItems": "center"
-            },
-            {
-              "type": "frame",
-              "id": "qw2zd",
-              "name": "Frame 42",
-              "gap": 16,
-              "children": [
-                {
-                  "type": "frame",
-                  "id": "PTKrp",
-                  "name": "Search",
-                  "width": 220,
-                  "height": 36,
-                  "fill": "$color-background",
-                  "cornerRadius": 18,
-                  "gap": 8,
-                  "padding": [
-                    0,
-                    14
-                  ],
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "icon",
-                      "id": "Y8plr",
-                      "name": "I",
-                      "width": 14,
-                      "height": 14,
-                      "icon": "search",
-                      "library": "lucide",
-                      "fill": "$color-text-secondary"
-                    },
-                    {
-                      "type": "text",
-                      "id": "qVqMF",
-                      "name": "P",
-                      "fill": "#94A3B8",
-                      "content": "Buscar…",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 13,
-                      "fontWeight": "normal"
-                    }
-                  ]
-                },
-                {
-                  "type": "frame",
-                  "id": "UwXYW",
-                  "width": 160,
-                  "height": "fill_container",
-                  "stroke": "#8bafd4",
-                  "strokeWidth": {
-                    "left": 1
-                  },
-                  "strokeAlignment": "inner",
-                  "gap": 10,
-                  "padding": [
-                    0,
-                    10
-                  ],
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "icon",
-                      "id": "s7RXx",
-                      "width": 18,
-                      "height": 18,
-                      "icon": "log-in",
-                      "library": "lucide",
-                      "fill": "#8BAFD4"
-                    },
-                    {
-                      "type": "text",
-                      "id": "q54nH",
-                      "fill": "$color-white",
-                      "textGrowth": "fixed-width",
-                      "width": "fill_container",
-                      "content": "Iniciar sesión",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 14,
-                      "fontWeight": "600"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "frame",
-          "id": "p9gc6",
-          "name": "Content Area",
-          "width": "fill_container",
-          "layout": "vertical",
-          "gap": 24,
-          "padding": [
-            24,
-            120
-          ],
-          "children": [
-            {
-              "type": "frame",
-              "id": "SIwEk",
-              "name": "Breadcrumb",
-              "gap": 6,
-              "alignItems": "center",
-              "children": [
-                {
-                  "type": "text",
-                  "id": "dySBg",
-                  "name": "Home",
-                  "fill": "$color-primary-medium",
-                  "content": "Inicio",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 13,
-                  "fontWeight": "normal"
-                },
-                {
-                  "type": "text",
-                  "id": "VSD1R",
-                  "name": "Sep",
-                  "fill": "#808080",
-                  "content": ">",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 13,
-                  "fontWeight": "normal"
-                },
-                {
-                  "type": "text",
-                  "id": "R96OF",
-                  "name": "Cur",
-                  "fill": "$color-text",
-                  "content": "Comunicaciones CCE",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 13,
-                  "fontWeight": "500"
-                }
-              ]
-            },
-            {
-              "type": "frame",
-              "id": "EF4yU",
-              "name": "Category Header",
-              "width": "fill_container",
-              "gap": 16,
-              "alignItems": "center",
-              "children": [
-                {
-                  "type": "frame",
-                  "id": "xQ94V",
-                  "name": "Icon Bg",
-                  "width": 56,
-                  "height": 56,
-                  "fill": "$color-primary-pale",
-                  "cornerRadius": 28,
-                  "justifyContent": "center",
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "icon",
-                      "id": "LlMRF",
-                      "name": "I",
-                      "width": 28,
-                      "height": 28,
-                      "icon": "folder-open",
-                      "library": "lucide",
-                      "fill": "$color-primary"
-                    }
-                  ]
-                },
-                {
-                  "type": "frame",
-                  "id": "jZARL",
-                  "name": "Info",
-                  "width": "fill_container",
-                  "layout": "vertical",
-                  "gap": 4,
-                  "children": [
-                    {
-                      "type": "text",
-                      "id": "BbJEy",
-                      "name": "H1",
-                      "fill": "$color-text",
-                      "content": "Comunicaciones CCE",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 28,
-                      "fontWeight": "600"
-                    },
-                    {
-                      "type": "text",
-                      "id": "Qajgi",
-                      "name": "Desc",
-                      "fill": "$color-text-secondary",
-                      "textGrowth": "fixed-width",
-                      "width": "fill_container",
-                      "content": "Comunicados oficiales, actualizaciones de los servicios, manuales y documentos",
-                      "lineHeight": 1.4,
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 14,
-                      "fontWeight": "normal"
-                    },
-                    {
-                      "type": "text",
-                      "id": "EssOk",
-                      "name": "Meta",
-                      "fill": "$color-text-secondary",
-                      "content": "X artículos en 7 secciones",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 12,
-                      "fontWeight": "normal"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "frame",
-              "id": "Ygke7",
-              "name": "Columns",
-              "width": "fill_container",
-              "gap": 40,
-              "children": [
-                {
-                  "type": "frame",
-                  "id": "XjQd7",
-                  "name": "Main",
-                  "width": "fill_container",
-                  "layout": "vertical",
-                  "gap": 24,
-                  "children": [
-                    {
-                      "type": "frame",
-                      "id": "Yt0i8",
-                      "name": "Sec Acerca de la CC",
-                      "width": "fill_container",
-                      "fill": "$color-white",
-                      "cornerRadius": 12,
-                      "stroke": "$color-primary-pale",
-                      "strokeWidth": 1,
-                      "strokeAlignment": "inner",
-                      "layout": "vertical",
-                      "gap": 12,
-                      "padding": 20,
-                      "children": [
-                        {
-                          "type": "frame",
-                          "id": "H0N35Z",
-                          "name": "Hdr",
-                          "width": "fill_container",
-                          "justifyContent": "space_between",
-                          "alignItems": "center",
-                          "children": [
-                            {
-                              "type": "text",
-                              "id": "zYRBU",
-                              "name": "T",
-                              "fill": "$color-primary-dark",
-                              "content": "Comunicados Oficiales",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 16,
-                              "fontWeight": "600"
-                            },
-                            {
-                              "type": "text",
-                              "id": "Hz15x",
-                              "name": "C",
-                              "fill": "$color-text-secondary",
-                              "content": "2 artículos",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 12,
-                              "fontWeight": "normal"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "cLECU",
-                          "name": "List",
-                          "width": "fill_container",
-                          "layout": "vertical",
-                          "children": [
-                            {
-                              "type": "frame",
-                              "id": "UQrnE",
-                              "name": "¿Qué es la Cámara ",
-                              "width": "fill_container",
-                              "cornerRadius": 8,
-                              "gap": 10,
-                              "padding": [
-                                10,
-                                14
-                              ],
-                              "alignItems": "center",
-                              "children": [
-                                {
-                                  "type": "icon",
-                                  "id": "vdkqS",
-                                  "name": "I",
-                                  "width": 16,
-                                  "height": 16,
-                                  "icon": "file-text",
-                                  "library": "lucide",
-                                  "fill": "#808080"
-                                },
-                                {
-                                  "type": "text",
-                                  "id": "gao8A",
-                                  "name": "T",
-                                  "fill": "$color-primary-medium",
-                                  "textGrowth": "fixed-width",
-                                  "width": "fill_container",
-                                  "content": "Comunicado Oficial CCE, 01/Jun/2026 ",
-                                  "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 14,
-                                  "fontWeight": "normal"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "sqSVE",
-                                  "name": "Tp",
-                                  "fill": "#EFF6FF",
-                                  "cornerRadius": 6,
-                                  "padding": [
-                                    2,
-                                    8
-                                  ],
-                                  "children": [
-                                    {
-                                      "type": "text",
-                                      "id": "VSPSq",
-                                      "name": "L",
-                                      "fill": "#1A6CB5",
-                                      "content": "Informativo",
-                                      "fontFamily": "IBM Plex Sans",
-                                      "fontSize": 10,
-                                      "fontWeight": "500"
-                                    }
-                                  ]
-                                }
-                              ]
-                            },
-                            {
-                              "type": "frame",
-                              "id": "oDe21",
-                              "name": "Directorio CCE: qu",
-                              "width": "fill_container",
-                              "cornerRadius": 8,
-                              "gap": 10,
-                              "padding": [
-                                10,
-                                14
-                              ],
-                              "alignItems": "center",
-                              "children": [
-                                {
-                                  "type": "icon",
-                                  "id": "jSxng",
-                                  "name": "I",
-                                  "width": 16,
-                                  "height": 16,
-                                  "icon": "file-text",
-                                  "library": "lucide",
-                                  "fill": "#808080"
-                                },
-                                {
-                                  "type": "text",
-                                  "id": "YDSA6",
-                                  "name": "T",
-                                  "fill": "$color-primary-medium",
-                                  "textGrowth": "fixed-width",
-                                  "width": "fill_container",
-                                  "content": "Comunicado Oficial CCE, 01/Abr/2026",
-                                  "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 14,
-                                  "fontWeight": "normal"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "B02faS",
-                                  "name": "Tp",
-                                  "fill": "#EFF6FF",
-                                  "cornerRadius": 6,
-                                  "padding": [
-                                    2,
-                                    8
-                                  ],
-                                  "children": [
-                                    {
-                                      "type": "text",
-                                      "id": "OcOAQ",
-                                      "name": "L",
-                                      "fill": "#1A6CB5",
-                                      "content": "Informativo",
-                                      "fontFamily": "IBM Plex Sans",
-                                      "fontSize": 10,
-                                      "fontWeight": "500"
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "VlBOf",
-                      "name": "Sec Acerca de la CC",
-                      "width": "fill_container",
-                      "fill": "$color-white",
-                      "cornerRadius": 12,
-                      "stroke": "$color-primary-pale",
-                      "strokeWidth": 1,
-                      "strokeAlignment": "inner",
-                      "layout": "vertical",
-                      "gap": 12,
-                      "padding": 20,
-                      "children": [
-                        {
-                          "type": "frame",
-                          "id": "X91Ik",
-                          "name": "Hdr",
-                          "width": "fill_container",
-                          "justifyContent": "space_between",
-                          "alignItems": "center",
-                          "children": [
-                            {
-                              "type": "text",
-                              "id": "oEWOI",
-                              "name": "T",
-                              "fill": "$color-primary-dark",
-                              "content": "Cambios Operativos o Normativos",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 16,
-                              "fontWeight": "600"
-                            },
-                            {
-                              "type": "text",
-                              "id": "Z1ZEH",
-                              "name": "C",
-                              "fill": "$color-text-secondary",
-                              "content": "2 artículos",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 12,
-                              "fontWeight": "normal"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "l7riQ",
-                          "name": "List",
-                          "width": "fill_container",
-                          "layout": "vertical",
-                          "children": [
-                            {
-                              "type": "frame",
-                              "id": "xesZ2",
-                              "name": "Directorio CCE: qu",
-                              "width": "fill_container",
-                              "cornerRadius": 8,
-                              "gap": 10,
-                              "padding": [
-                                10,
-                                14
-                              ],
-                              "alignItems": "center",
-                              "children": [
-                                {
-                                  "type": "icon",
-                                  "id": "RRrvC",
-                                  "name": "I",
-                                  "width": 16,
-                                  "height": 16,
-                                  "icon": "file-text",
-                                  "library": "lucide",
-                                  "fill": "#808080"
-                                },
-                                {
-                                  "type": "text",
-                                  "id": "QsWy0",
-                                  "name": "T",
-                                  "fill": "$color-primary-medium",
-                                  "textGrowth": "fixed-width",
-                                  "width": "fill_container",
-                                  "content": "Cambio Mayo 2026",
-                                  "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 14,
-                                  "fontWeight": "normal"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "WRIw7",
-                                  "name": "Type",
-                                  "fill": "#F1F5F9",
-                                  "cornerRadius": 8,
-                                  "padding": [
-                                    3,
-                                    8
-                                  ],
-                                  "children": [
-                                    {
-                                      "type": "text",
-                                      "id": "y2IdYA",
-                                      "name": "L",
-                                      "fill": "#64748B",
-                                      "content": "Normativa",
-                                      "fontFamily": "IBM Plex Sans",
-                                      "fontSize": 10,
-                                      "fontWeight": "500"
-                                    }
-                                  ]
-                                }
-                              ]
-                            },
-                            {
-                              "type": "frame",
-                              "id": "saZOG",
-                              "name": "¿Qué es la Cámara ",
-                              "width": "fill_container",
-                              "cornerRadius": 8,
-                              "gap": 10,
-                              "padding": [
-                                10,
-                                14
-                              ],
-                              "alignItems": "center",
-                              "children": [
-                                {
-                                  "type": "icon",
-                                  "id": "pLIZt",
-                                  "name": "I",
-                                  "width": 16,
-                                  "height": 16,
-                                  "icon": "file-text",
-                                  "library": "lucide",
-                                  "fill": "#808080"
-                                },
-                                {
-                                  "type": "text",
-                                  "id": "Nz6nR",
-                                  "name": "T",
-                                  "fill": "$color-primary-medium",
-                                  "textGrowth": "fixed-width",
-                                  "width": "fill_container",
-                                  "content": "Cambio Agosto 2025",
-                                  "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 14,
-                                  "fontWeight": "normal"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "RLRzs",
-                                  "name": "Type",
-                                  "fill": "#F1F5F9",
-                                  "cornerRadius": 8,
-                                  "padding": [
-                                    3,
-                                    8
-                                  ],
-                                  "children": [
-                                    {
-                                      "type": "text",
-                                      "id": "eyHOU",
-                                      "name": "L",
-                                      "fill": "#64748B",
-                                      "content": "Normativa",
-                                      "fontFamily": "IBM Plex Sans",
-                                      "fontSize": 10,
-                                      "fontWeight": "500"
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "T82V9e",
-                      "name": "Sec Soporte",
-                      "width": "fill_container",
-                      "fill": "$color-white",
-                      "cornerRadius": 12,
-                      "stroke": "$color-primary-pale",
-                      "strokeWidth": 1,
-                      "strokeAlignment": "inner",
-                      "layout": "vertical",
-                      "gap": 12,
-                      "padding": 20,
-                      "children": [
-                        {
-                          "type": "frame",
-                          "id": "V3Ypo",
-                          "name": "Hdr",
-                          "width": "fill_container",
-                          "justifyContent": "space_between",
-                          "alignItems": "center",
-                          "children": [
-                            {
-                              "type": "text",
-                              "id": "e3aJQ",
-                              "name": "T",
-                              "fill": "$color-primary-dark",
-                              "content": "Actualizaciones de los Servicios",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 16,
-                              "fontWeight": "600"
-                            },
-                            {
-                              "type": "text",
-                              "id": "asRiG",
-                              "name": "C",
-                              "fill": "$color-text-secondary",
-                              "content": "1 artículo",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 12,
-                              "fontWeight": "normal"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "Hodil",
-                          "name": "List",
-                          "width": "fill_container",
-                          "layout": "vertical",
-                          "children": [
-                            {
-                              "type": "frame",
-                              "id": "l23B0",
-                              "name": "Contacto y horario",
-                              "width": "fill_container",
-                              "cornerRadius": 8,
-                              "gap": 10,
-                              "padding": [
-                                10,
-                                14
-                              ],
-                              "alignItems": "center",
-                              "children": [
-                                {
-                                  "type": "icon",
-                                  "id": "rHStn",
-                                  "name": "I",
-                                  "width": 16,
-                                  "height": 16,
-                                  "icon": "file-text",
-                                  "library": "lucide",
-                                  "fill": "#808080"
-                                },
-                                {
-                                  "type": "text",
-                                  "id": "qvuSD",
-                                  "name": "T",
-                                  "fill": "$color-primary-medium",
-                                  "textGrowth": "fixed-width",
-                                  "width": "fill_container",
-                                  "content": "Actualización 2.0 ",
-                                  "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 14,
-                                  "fontWeight": "normal"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "aCt9b",
-                                  "name": "Badges",
-                                  "gap": 6,
-                                  "children": [
-                                    {
-                                      "type": "frame",
-                                      "id": "R4EBmd",
-                                      "name": "Type",
-                                      "fill": "$color-background",
-                                      "cornerRadius": 8,
-                                      "padding": [
-                                        3,
-                                        8
-                                      ],
-                                      "children": [
-                                        {
-                                          "type": "text",
-                                          "id": "xDCQT",
-                                          "name": "L",
-                                          "fill": "$color-primary-medium",
-                                          "content": "Informativo",
-                                          "fontFamily": "IBM Plex Sans",
-                                          "fontSize": 10,
-                                          "fontWeight": "500"
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "TZlr2",
-                      "name": "Sec Soporte",
-                      "width": "fill_container",
-                      "fill": "$color-white",
-                      "cornerRadius": 12,
-                      "stroke": "$color-primary-pale",
-                      "strokeWidth": 1,
-                      "strokeAlignment": "inner",
-                      "layout": "vertical",
-                      "gap": 12,
-                      "padding": 20,
-                      "children": [
-                        {
-                          "type": "frame",
-                          "id": "r1u5Td",
-                          "name": "Hdr",
-                          "width": "fill_container",
-                          "justifyContent": "space_between",
-                          "alignItems": "center",
-                          "children": [
-                            {
-                              "type": "text",
-                              "id": "Jvd94",
-                              "name": "T",
-                              "fill": "$color-primary-dark",
-                              "content": "Cronogramas de Implementación",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 16,
-                              "fontWeight": "600"
-                            },
-                            {
-                              "type": "text",
-                              "id": "rOOL7",
-                              "name": "C",
-                              "fill": "$color-text-secondary",
-                              "content": "2 artículos",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 12,
-                              "fontWeight": "normal"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "we4yJ",
-                          "name": "List",
-                          "width": "fill_container",
-                          "layout": "vertical",
-                          "children": [
-                            {
-                              "type": "frame",
-                              "id": "GH3IM",
-                              "name": "Cómo crear un tick",
-                              "width": "fill_container",
-                              "cornerRadius": 8,
-                              "gap": 10,
-                              "padding": [
-                                10,
-                                14
-                              ],
-                              "alignItems": "center",
-                              "children": [
-                                {
-                                  "type": "icon",
-                                  "id": "vNks7",
-                                  "name": "I",
-                                  "width": 16,
-                                  "height": 16,
-                                  "icon": "file-text",
-                                  "library": "lucide",
-                                  "fill": "#808080"
-                                },
-                                {
-                                  "type": "text",
-                                  "id": "v2FWf",
-                                  "name": "T",
-                                  "fill": "$color-primary-medium",
-                                  "textGrowth": "fixed-width",
-                                  "width": "fill_container",
-                                  "content": "Cronograma A",
-                                  "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 14,
-                                  "fontWeight": "normal"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "T39OK",
-                                  "name": "Tp",
-                                  "fill": "#FFFBEB",
-                                  "cornerRadius": 6,
-                                  "padding": [
-                                    2,
-                                    8
-                                  ],
-                                  "children": [
-                                    {
-                                      "type": "text",
-                                      "id": "GgoAi",
-                                      "name": "L",
-                                      "fill": "#B45309",
-                                      "content": "Referencia",
-                                      "fontFamily": "IBM Plex Sans",
-                                      "fontSize": 10,
-                                      "fontWeight": "500"
-                                    }
-                                  ]
-                                }
-                              ]
-                            },
-                            {
-                              "type": "frame",
-                              "id": "AOWL9",
-                              "name": "Contacto y horario",
-                              "width": "fill_container",
-                              "cornerRadius": 8,
-                              "gap": 10,
-                              "padding": [
-                                10,
-                                14
-                              ],
-                              "alignItems": "center",
-                              "children": [
-                                {
-                                  "type": "icon",
-                                  "id": "YSwYj",
-                                  "name": "I",
-                                  "width": 16,
-                                  "height": 16,
-                                  "icon": "file-text",
-                                  "library": "lucide",
-                                  "fill": "#808080"
-                                },
-                                {
-                                  "type": "text",
-                                  "id": "W58Z8",
-                                  "name": "T",
-                                  "fill": "$color-primary-medium",
-                                  "textGrowth": "fixed-width",
-                                  "width": "fill_container",
-                                  "content": "Cronograma B",
-                                  "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 14,
-                                  "fontWeight": "normal"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "WqUXX",
-                                  "name": "Tp",
-                                  "fill": "#FFFBEB",
-                                  "cornerRadius": 6,
-                                  "padding": [
-                                    2,
-                                    8
-                                  ],
-                                  "children": [
-                                    {
-                                      "type": "text",
-                                      "id": "g2A3gt",
-                                      "name": "L",
-                                      "fill": "#B45309",
-                                      "content": "Referencia",
-                                      "fontFamily": "IBM Plex Sans",
-                                      "fontSize": 10,
-                                      "fontWeight": "500"
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "kq25C",
-                      "name": "Sec Preguntas Frecu",
-                      "width": "fill_container",
-                      "fill": "$color-white",
-                      "cornerRadius": 12,
-                      "stroke": "$color-primary-pale",
-                      "strokeWidth": 1,
-                      "strokeAlignment": "inner",
-                      "layout": "vertical",
-                      "gap": 12,
-                      "padding": 20,
-                      "children": [
-                        {
-                          "type": "frame",
-                          "id": "zQY6X",
-                          "name": "Hdr",
-                          "width": "fill_container",
-                          "justifyContent": "space_between",
-                          "alignItems": "center",
-                          "children": [
-                            {
-                              "type": "text",
-                              "id": "B7HUK",
-                              "name": "T",
-                              "fill": "$color-primary-dark",
-                              "content": "Ventanas de Mantenimiento",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 16,
-                              "fontWeight": "600"
-                            },
-                            {
-                              "type": "text",
-                              "id": "X7WnqL",
-                              "name": "C",
-                              "fill": "$color-text-secondary",
-                              "content": "2 artículos",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 12,
-                              "fontWeight": "normal"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "V9rNDv",
-                          "name": "List",
-                          "width": "fill_container",
-                          "layout": "vertical",
-                          "children": [
-                            {
-                              "type": "frame",
-                              "id": "N9WUKP",
-                              "name": "Preguntas Frecuent",
-                              "width": "fill_container",
-                              "cornerRadius": 8,
-                              "gap": 10,
-                              "padding": [
-                                10,
-                                14
-                              ],
-                              "alignItems": "center",
-                              "children": [
-                                {
-                                  "type": "icon",
-                                  "id": "G4EdTO",
-                                  "name": "I",
-                                  "width": 16,
-                                  "height": 16,
-                                  "icon": "message-circle",
-                                  "library": "lucide",
-                                  "fill": "#808080"
-                                },
-                                {
-                                  "type": "text",
-                                  "id": "hXDZl",
-                                  "name": "T",
-                                  "fill": "$color-primary-medium",
-                                  "textGrowth": "fixed-width",
-                                  "width": "fill_container",
-                                  "content": "Ventana de mantenimiento 2026",
-                                  "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 14,
-                                  "fontWeight": "normal"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "W0R10",
-                                  "name": "Badges",
-                                  "gap": 6,
-                                  "children": [
-                                    {
-                                      "type": "frame",
-                                      "id": "TUEyD",
-                                      "name": "Type",
-                                      "fill": "$color-background",
-                                      "cornerRadius": 8,
-                                      "padding": [
-                                        3,
-                                        8
-                                      ],
-                                      "children": [
-                                        {
-                                          "type": "text",
-                                          "id": "ZWHpg",
-                                          "name": "L",
-                                          "fill": "$color-primary-medium",
-                                          "content": "Informativo",
-                                          "fontFamily": "IBM Plex Sans",
-                                          "fontSize": 10,
-                                          "fontWeight": "500"
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "btM3l",
-                          "name": "List",
-                          "width": "fill_container",
-                          "layout": "vertical",
-                          "children": [
-                            {
-                              "type": "frame",
-                              "id": "QAEHT",
-                              "name": "Preguntas Frecuent",
-                              "width": "fill_container",
-                              "cornerRadius": 8,
-                              "gap": 10,
-                              "padding": [
-                                10,
-                                14
-                              ],
-                              "alignItems": "center",
-                              "children": [
-                                {
-                                  "type": "icon",
-                                  "id": "nj3ux",
-                                  "name": "I",
-                                  "width": 16,
-                                  "height": 16,
-                                  "icon": "message-circle",
-                                  "library": "lucide",
-                                  "fill": "#808080"
-                                },
-                                {
-                                  "type": "text",
-                                  "id": "HDEve",
-                                  "name": "T",
-                                  "fill": "$color-primary-medium",
-                                  "textGrowth": "fixed-width",
-                                  "width": "fill_container",
-                                  "content": "Ventana de mantenimiento 2025",
-                                  "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 14,
-                                  "fontWeight": "normal"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "DR8Hb",
-                                  "name": "Badges",
-                                  "gap": 6,
-                                  "children": [
-                                    {
-                                      "type": "frame",
-                                      "id": "n7Is7",
-                                      "name": "Type",
-                                      "fill": "$color-background",
-                                      "cornerRadius": 8,
-                                      "padding": [
-                                        3,
-                                        8
-                                      ],
-                                      "children": [
-                                        {
-                                          "type": "text",
-                                          "id": "r0WuNZ",
-                                          "name": "L",
-                                          "fill": "$color-primary-medium",
-                                          "content": "Informativo",
-                                          "fontFamily": "IBM Plex Sans",
-                                          "fontSize": 10,
-                                          "fontWeight": "500"
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "s7a7I",
-                      "name": "Sec Preguntas Frecu",
-                      "width": "fill_container",
-                      "fill": "$color-white",
-                      "cornerRadius": 12,
-                      "stroke": "$color-primary-pale",
-                      "strokeWidth": 1,
-                      "strokeAlignment": "inner",
-                      "layout": "vertical",
-                      "gap": 12,
-                      "padding": 20,
-                      "children": [
-                        {
-                          "type": "frame",
-                          "id": "SxpHD",
-                          "name": "Hdr",
-                          "width": "fill_container",
-                          "justifyContent": "space_between",
-                          "alignItems": "center",
-                          "children": [
-                            {
-                              "type": "text",
-                              "id": "L1Cnbo",
-                              "name": "T",
-                              "fill": "$color-primary-dark",
-                              "content": "Documentos Técnicos",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 16,
-                              "fontWeight": "600"
-                            },
-                            {
-                              "type": "text",
-                              "id": "e6po4f",
-                              "name": "C",
-                              "fill": "$color-text-secondary",
-                              "content": "3 artículos",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 12,
-                              "fontWeight": "normal"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "iM0iv",
-                          "name": "List",
-                          "width": "fill_container",
-                          "layout": "vertical",
-                          "children": [
-                            {
-                              "type": "frame",
-                              "id": "BP1lD",
-                              "name": "Preguntas Frecuent",
-                              "width": "fill_container",
-                              "cornerRadius": 8,
-                              "gap": 10,
-                              "padding": [
-                                10,
-                                14
-                              ],
-                              "alignItems": "center",
-                              "children": [
-                                {
-                                  "type": "icon",
-                                  "id": "V7Vea",
-                                  "name": "I",
-                                  "width": 16,
-                                  "height": 16,
-                                  "icon": "file-text",
-                                  "library": "lucide",
-                                  "fill": "#808080"
-                                },
-                                {
-                                  "type": "text",
-                                  "id": "MxkSC",
-                                  "name": "T",
-                                  "fill": "$color-primary-medium",
-                                  "textGrowth": "fixed-width",
-                                  "width": "fill_container",
-                                  "content": "Documento",
-                                  "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 14,
-                                  "fontWeight": "normal"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "v6pw3",
-                                  "name": "Badges",
-                                  "gap": 6,
-                                  "children": [
-                                    {
-                                      "type": "frame",
-                                      "id": "dIOyO",
-                                      "name": "Type",
-                                      "fill": "$color-background",
-                                      "cornerRadius": 8,
-                                      "padding": [
-                                        3,
-                                        8
-                                      ],
-                                      "children": [
-                                        {
-                                          "type": "text",
-                                          "id": "McqYI",
-                                          "name": "L",
-                                          "fill": "$color-primary-medium",
-                                          "content": "Informativo",
-                                          "fontFamily": "IBM Plex Sans",
-                                          "fontSize": 10,
-                                          "fontWeight": "500"
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            },
-                            {
-                              "type": "frame",
-                              "id": "MpAxN",
-                              "name": "Preguntas Frecuent",
-                              "width": "fill_container",
-                              "cornerRadius": 8,
-                              "gap": 10,
-                              "padding": [
-                                10,
-                                14
-                              ],
-                              "alignItems": "center",
-                              "children": [
-                                {
-                                  "type": "icon",
-                                  "id": "ZMnyf",
-                                  "name": "I",
-                                  "width": 16,
-                                  "height": 16,
-                                  "icon": "file-text",
-                                  "library": "lucide",
-                                  "fill": "#808080"
-                                },
-                                {
-                                  "type": "text",
-                                  "id": "pPmdv",
-                                  "name": "T",
-                                  "fill": "$color-primary-medium",
-                                  "textGrowth": "fixed-width",
-                                  "width": "fill_container",
-                                  "content": "Documento",
-                                  "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 14,
-                                  "fontWeight": "normal"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "E85eTV",
-                                  "name": "Badges",
-                                  "gap": 6,
-                                  "children": [
-                                    {
-                                      "type": "frame",
-                                      "id": "n8AKR0",
-                                      "name": "Type",
-                                      "fill": "$color-background",
-                                      "cornerRadius": 8,
-                                      "padding": [
-                                        3,
-                                        8
-                                      ],
-                                      "children": [
-                                        {
-                                          "type": "text",
-                                          "id": "eRgam",
-                                          "name": "L",
-                                          "fill": "$color-primary-medium",
-                                          "content": "Informativo",
-                                          "fontFamily": "IBM Plex Sans",
-                                          "fontSize": 10,
-                                          "fontWeight": "500"
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            },
-                            {
-                              "type": "frame",
-                              "id": "sktRR",
-                              "name": "Preguntas Frecuent",
-                              "width": "fill_container",
-                              "cornerRadius": 8,
-                              "gap": 10,
-                              "padding": [
-                                10,
-                                14
-                              ],
-                              "alignItems": "center",
-                              "children": [
-                                {
-                                  "type": "icon",
-                                  "id": "pQ9aS",
-                                  "name": "I",
-                                  "width": 16,
-                                  "height": 16,
-                                  "icon": "file-text",
-                                  "library": "lucide",
-                                  "fill": "#808080"
-                                },
-                                {
-                                  "type": "text",
-                                  "id": "rvZJf",
-                                  "name": "T",
-                                  "fill": "$color-primary-medium",
-                                  "textGrowth": "fixed-width",
-                                  "width": "fill_container",
-                                  "content": "Documento",
-                                  "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 14,
-                                  "fontWeight": "normal"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "CbB0N",
-                                  "name": "Badges",
-                                  "gap": 6,
-                                  "children": [
-                                    {
-                                      "type": "frame",
-                                      "id": "B9DKi",
-                                      "name": "Type",
-                                      "fill": "$color-background",
-                                      "cornerRadius": 8,
-                                      "padding": [
-                                        3,
-                                        8
-                                      ],
-                                      "children": [
-                                        {
-                                          "type": "text",
-                                          "id": "wZ13p",
-                                          "name": "L",
-                                          "fill": "$color-primary-medium",
-                                          "content": "Informativo",
-                                          "fontFamily": "IBM Plex Sans",
-                                          "fontSize": 10,
-                                          "fontWeight": "500"
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "gADuI",
-                      "name": "Sec Preguntas Frecu",
-                      "width": "fill_container",
-                      "fill": "$color-white",
-                      "cornerRadius": 12,
-                      "stroke": "$color-primary-pale",
-                      "strokeWidth": 1,
-                      "strokeAlignment": "inner",
-                      "layout": "vertical",
-                      "gap": 12,
-                      "padding": 20,
-                      "children": [
-                        {
-                          "type": "frame",
-                          "id": "U8cUI",
-                          "name": "Hdr",
-                          "width": "fill_container",
-                          "justifyContent": "space_between",
-                          "alignItems": "center",
-                          "children": [
-                            {
-                              "type": "text",
-                              "id": "RCXOP",
-                              "name": "T",
-                              "fill": "$color-primary-dark",
-                              "content": "Manuales, Procedimientos y Preguntas Frecuentes",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 16,
-                              "fontWeight": "600"
-                            },
-                            {
-                              "type": "text",
-                              "id": "pOucC",
-                              "name": "C",
-                              "fill": "$color-text-secondary",
-                              "content": "3 artículos",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 12,
-                              "fontWeight": "normal"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "v8diJt",
-                          "name": "List",
-                          "width": "fill_container",
-                          "layout": "vertical",
-                          "children": [
-                            {
-                              "type": "frame",
-                              "id": "d5uQtN",
-                              "name": "Preguntas Frecuent",
-                              "width": "fill_container",
-                              "cornerRadius": 8,
-                              "gap": 10,
-                              "padding": [
-                                10,
-                                14
-                              ],
-                              "alignItems": "center",
-                              "children": [
-                                {
-                                  "type": "icon",
-                                  "id": "qbwxF",
-                                  "name": "I",
-                                  "width": 16,
-                                  "height": 16,
-                                  "icon": "book-open",
-                                  "library": "lucide",
-                                  "fill": "#808080"
-                                },
-                                {
-                                  "type": "text",
-                                  "id": "wVH66",
-                                  "name": "T",
-                                  "fill": "$color-primary-medium",
-                                  "textGrowth": "fixed-width",
-                                  "width": "fill_container",
-                                  "content": "Manuales",
-                                  "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 14,
-                                  "fontWeight": "normal"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "IyyKz",
-                                  "name": "Tp",
-                                  "fill": "#F0FDF4",
-                                  "cornerRadius": 6,
-                                  "padding": [
-                                    2,
-                                    8
-                                  ],
-                                  "children": [
-                                    {
-                                      "type": "text",
-                                      "id": "nbA5l",
-                                      "name": "L",
-                                      "fill": "#15803D",
-                                      "content": "Guía paso a paso",
-                                      "fontFamily": "IBM Plex Sans",
-                                      "fontSize": 10,
-                                      "fontWeight": "500"
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "X6fTWG",
-                          "name": "List",
-                          "width": "fill_container",
-                          "layout": "vertical",
-                          "children": [
-                            {
-                              "type": "frame",
-                              "id": "BOHqb",
-                              "name": "Preguntas Frecuent",
-                              "width": "fill_container",
-                              "cornerRadius": 8,
-                              "gap": 10,
-                              "padding": [
-                                10,
-                                14
-                              ],
-                              "alignItems": "center",
-                              "children": [
-                                {
-                                  "type": "icon",
-                                  "id": "FIAj3",
-                                  "name": "I",
-                                  "width": 16,
-                                  "height": 16,
-                                  "icon": "book-open",
-                                  "library": "lucide",
-                                  "fill": "#808080"
-                                },
-                                {
-                                  "type": "text",
-                                  "id": "A2LUd",
-                                  "name": "T",
-                                  "fill": "$color-primary-medium",
-                                  "textGrowth": "fixed-width",
-                                  "width": "fill_container",
-                                  "content": "Procedimientos",
-                                  "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 14,
-                                  "fontWeight": "normal"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "eKut8",
-                                  "name": "Tp",
-                                  "fill": "#F5F3FF",
-                                  "cornerRadius": 6,
-                                  "padding": [
-                                    3,
-                                    8
-                                  ],
-                                  "children": [
-                                    {
-                                      "type": "text",
-                                      "id": "DgyKT",
-                                      "name": "L",
-                                      "fill": "#7C3AED",
-                                      "content": "Guía técnica",
-                                      "fontFamily": "IBM Plex Sans",
-                                      "fontSize": 10,
-                                      "fontWeight": "500"
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "RRsm9",
-                          "name": "List",
-                          "width": "fill_container",
-                          "layout": "vertical",
-                          "children": [
-                            {
-                              "type": "frame",
-                              "id": "y7WyZ",
-                              "name": "Preguntas Frecuent",
-                              "width": "fill_container",
-                              "cornerRadius": 8,
-                              "gap": 10,
-                              "padding": [
-                                10,
-                                14
-                              ],
-                              "alignItems": "center",
-                              "children": [
-                                {
-                                  "type": "icon",
-                                  "id": "nXiRs",
-                                  "name": "I",
-                                  "width": 16,
-                                  "height": 16,
-                                  "icon": "message-circle",
-                                  "library": "lucide",
-                                  "fill": "#808080"
-                                },
-                                {
-                                  "type": "text",
-                                  "id": "H2cvb",
-                                  "name": "T",
-                                  "fill": "$color-primary-medium",
-                                  "textGrowth": "fixed-width",
-                                  "width": "fill_container",
-                                  "content": "Preguntas Frecuentes",
-                                  "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 14,
-                                  "fontWeight": "normal"
-                                },
-                                {
-                                  "type": "frame",
-                                  "id": "feuGR",
-                                  "name": "Tp",
-                                  "fill": "#EFF6FF",
-                                  "cornerRadius": 6,
-                                  "padding": [
-                                    2,
-                                    8
-                                  ],
-                                  "children": [
-                                    {
-                                      "type": "text",
-                                      "id": "zx0lE",
-                                      "name": "L",
-                                      "fill": "#1A6CB5",
-                                      "content": "FAQ",
-                                      "fontFamily": "IBM Plex Sans",
-                                      "fontSize": 10,
-                                      "fontWeight": "500"
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "frame",
-                  "id": "F2NIs",
-                  "name": "Sidebar",
-                  "width": 320,
-                  "layout": "vertical",
-                  "gap": 20,
-                  "children": [
-                    {
-                      "type": "frame",
-                      "id": "YRVyB",
-                      "name": "Cat Nav",
-                      "width": "fill_container",
-                      "fill": "$color-white",
-                      "cornerRadius": 12,
-                      "stroke": "#E2E8F0",
-                      "strokeWidth": 1,
-                      "strokeAlignment": "inner",
-                      "layout": "vertical",
-                      "gap": 4,
-                      "padding": [
-                        16,
-                        12
-                      ],
-                      "children": [
-                        {
-                          "type": "text",
-                          "id": "Wg4Am",
-                          "name": "H",
-                          "fill": "$color-text",
-                          "content": "Categorías",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 12,
-                          "fontWeight": "600"
-                        },
-                        {
-                          "type": "frame",
-                          "id": "RUlNT",
-                          "name": "IPS",
-                          "width": "fill_container",
-                          "cornerRadius": 8,
-                          "gap": 8,
-                          "padding": [
-                            10,
-                            12
-                          ],
-                          "alignItems": "center",
-                          "children": [
-                            {
-                              "type": "icon",
-                              "id": "dDFTg",
-                              "name": "I",
-                              "width": 16,
-                              "height": 16,
-                              "icon": "info",
-                              "library": "lucide",
-                              "fill": "$color-text-secondary"
-                            },
-                            {
-                              "type": "text",
-                              "id": "Ts5nh",
-                              "name": "N",
-                              "fill": "$color-text",
-                              "textGrowth": "fixed-width",
-                              "width": "fill_container",
-                              "content": "General",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 13,
-                              "fontWeight": "normal"
-                            },
-                            {
-                              "type": "text",
-                              "id": "stuvS",
-                              "name": "C",
-                              "fill": "$color-text-secondary",
-                              "content": "20",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 11,
-                              "fontWeight": "normal"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "OhDiv",
-                          "name": "IPS",
-                          "width": "fill_container",
-                          "cornerRadius": 8,
-                          "gap": 8,
-                          "padding": [
-                            10,
-                            12
-                          ],
-                          "alignItems": "center",
-                          "children": [
-                            {
-                              "type": "icon",
-                              "id": "OUFDi",
-                              "name": "I",
-                              "width": 16,
-                              "height": 16,
-                              "icon": "zap",
-                              "library": "lucide",
-                              "fill": "$color-text-secondary"
-                            },
-                            {
-                              "type": "text",
-                              "id": "WXXRu",
-                              "name": "N",
-                              "fill": "$color-text",
-                              "textGrowth": "fixed-width",
-                              "width": "fill_container",
-                              "content": "IPS",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 13,
-                              "fontWeight": "normal"
-                            },
-                            {
-                              "type": "text",
-                              "id": "vlObF",
-                              "name": "C",
-                              "fill": "$color-text-secondary",
-                              "content": "5",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 11,
-                              "fontWeight": "normal"
-                            },
-                            {
-                              "type": "icon",
-                              "id": "RkSzN",
-                              "name": "Lk",
-                              "width": 11,
-                              "height": 11,
-                              "icon": "lock",
-                              "library": "lucide",
-                              "fill": "$color-text-secondary"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "X8ZcBW",
-                          "name": "BPS",
-                          "width": "fill_container",
-                          "cornerRadius": 8,
-                          "gap": 8,
-                          "padding": [
-                            10,
-                            12
-                          ],
-                          "alignItems": "center",
-                          "children": [
-                            {
-                              "type": "icon",
-                              "id": "tBzkY",
-                              "name": "I",
-                              "width": 16,
-                              "height": 16,
-                              "icon": "file-text",
-                              "library": "lucide",
-                              "fill": "$color-text-secondary"
-                            },
-                            {
-                              "type": "text",
-                              "id": "ZxZXi",
-                              "name": "N",
-                              "fill": "$color-text",
-                              "textGrowth": "fixed-width",
-                              "width": "fill_container",
-                              "content": "BPS",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 13,
-                              "fontWeight": "normal"
-                            },
-                            {
-                              "type": "text",
-                              "id": "Umcm4",
-                              "name": "C",
-                              "fill": "$color-text-secondary",
-                              "content": "9",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 11,
-                              "fontWeight": "normal"
-                            },
-                            {
-                              "type": "icon",
-                              "id": "T9pPh",
-                              "name": "Lk",
-                              "width": 11,
-                              "height": 11,
-                              "icon": "lock",
-                              "library": "lucide",
-                              "fill": "$color-text-secondary"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "L3uqs",
-                          "name": "Incorporación",
-                          "width": "fill_container",
-                          "cornerRadius": 8,
-                          "gap": 8,
-                          "padding": [
-                            10,
-                            12
-                          ],
-                          "alignItems": "center",
-                          "children": [
-                            {
-                              "type": "icon",
-                              "id": "N0QAm5",
-                              "name": "I",
-                              "width": 16,
-                              "height": 16,
-                              "icon": "flag",
-                              "library": "lucide",
-                              "fill": "$color-text-secondary"
-                            },
-                            {
-                              "type": "text",
-                              "id": "T7HGZ",
-                              "name": "N",
-                              "fill": "$color-text",
-                              "textGrowth": "fixed-width",
-                              "width": "fill_container",
-                              "content": "Incorporación",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 13,
-                              "fontWeight": "normal"
-                            },
-                            {
-                              "type": "text",
-                              "id": "mcC0R",
-                              "name": "C",
-                              "fill": "$color-text-secondary",
-                              "content": "3",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 11,
-                              "fontWeight": "normal"
-                            },
-                            {
-                              "type": "icon",
-                              "id": "sJGWO",
-                              "name": "Lk",
-                              "width": 11,
-                              "height": 11,
-                              "icon": "lock",
-                              "library": "lucide",
-                              "fill": "$color-text-secondary"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "frame",
-                          "id": "T5IVqa",
-                          "name": "General",
-                          "width": "fill_container",
-                          "fill": "$color-primary-pale",
-                          "cornerRadius": 8,
-                          "stroke": "$color-primary",
-                          "strokeWidth": {
-                            "left": 3
-                          },
-                          "strokeAlignment": "inner",
-                          "gap": 8,
-                          "padding": [
-                            10,
-                            12
-                          ],
-                          "alignItems": "center",
-                          "children": [
-                            {
-                              "type": "icon",
-                              "id": "HaR03",
-                              "name": "I",
-                              "width": 16,
-                              "height": 16,
-                              "icon": "folder-open",
-                              "library": "lucide",
-                              "fill": "$color-primary"
-                            },
-                            {
-                              "type": "text",
-                              "id": "Gcpwp",
-                              "name": "N",
-                              "fill": "$color-primary",
-                              "textGrowth": "fixed-width",
-                              "width": "fill_container",
-                              "content": "Comunicaciones CCE",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 13,
-                              "fontWeight": "600"
-                            },
-                            {
-                              "type": "text",
-                              "id": "Xer3J",
-                              "name": "C",
-                              "fill": "$color-text-secondary",
-                              "content": "20",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 11,
-                              "fontWeight": "normal"
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "U4pCNV",
-                      "name": "Mini CTA",
-                      "width": "fill_container",
-                      "fill": "$color-white",
-                      "cornerRadius": 12,
-                      "stroke": "#E2E8F0",
-                      "strokeWidth": 1,
-                      "strokeAlignment": "inner",
-                      "layout": "vertical",
-                      "gap": 10,
-                      "padding": 16,
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "text",
-                          "id": "Z6j5jJ",
-                          "name": "Q",
-                          "fill": "$color-text",
-                          "textGrowth": "fixed-width",
-                          "width": "fill_container",
-                          "content": "¿No encontraste lo que buscas?",
-                          "textAlign": "center",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 13,
-                          "fontWeight": "500"
-                        },
-                        {
-                          "type": "frame",
-                          "id": "Z3QFi6",
-                          "name": "Btn",
-                          "width": "fill_container",
-                          "fill": "$color-primary",
-                          "cornerRadius": 8,
-                          "padding": [
-                            8,
-                            16
-                          ],
-                          "justifyContent": "center",
-                          "alignItems": "center",
-                          "children": [
-                            {
-                              "type": "text",
-                              "id": "w0Kan",
-                              "name": "L",
-                              "fill": "$color-white",
-                              "content": "Crear un ticket",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 13,
-                              "fontWeight": "500"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "id": "z8pxv",
-              "type": "ref",
-              "ref": "I0bheJ",
-              "name": "FAB",
-              "layoutPosition": "absolute",
-              "x": 1094,
-              "y": 958
-            }
-          ]
-        },
-        {
-          "type": "frame",
-          "id": "x0AVUf",
-          "name": "Footer",
-          "width": "fill_container",
-          "fill": "$color-primary-dark",
-          "layout": "vertical",
-          "gap": 28,
-          "padding": [
-            40,
-            120
-          ],
-          "children": [
-            {
-              "type": "frame",
-              "id": "XvufR",
-              "name": "Top",
-              "width": "fill_container",
-              "gap": 80,
-              "children": [
-                {
-                  "type": "frame",
-                  "id": "ALy4Z",
-                  "name": "Frame 41",
-                  "layout": "vertical",
-                  "gap": 5,
-                  "children": [
-                    {
-                      "type": "frame",
-                      "id": "VDYe3",
-                      "gap": 5,
-                      "padding": [
-                        0,
-                        5
-                      ],
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "rectangle",
-                          "id": "lcDwA",
-                          "fill": {
-                            "type": "image",
-                            "enabled": true,
-                            "url": "LOGO%20CCE%20-%20copia.png",
-                            "mode": "fill"
-                          },
-                          "width": 40,
-                          "height": 35
-                        },
-                        {
-                          "type": "text",
-                          "id": "Bet6d",
-                          "fill": "$color-white",
-                          "textGrowth": "fixed-width",
-                          "width": 172,
-                          "content": "Cámara de \nCompensación Electrónica",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 11,
-                          "fontWeight": "500"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "id": "YXB9i",
-                      "name": "Sub",
-                      "opacity": 0.6,
-                      "fill": "$color-white",
-                      "textGrowth": "fixed-width",
-                      "width": 170,
-                      "content": "Help Center",
-                      "textAlign": "center",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 13,
-                      "fontWeight": "normal"
-                    }
-                  ]
-                },
-                {
-                  "type": "frame",
-                  "id": "ciKDb",
-                  "name": "Categorías",
-                  "layout": "vertical",
-                  "gap": 10,
-                  "children": [
-                    {
-                      "type": "text",
-                      "id": "O1MFOi",
-                      "name": "H",
-                      "opacity": 0.5,
-                      "fill": "$color-white",
-                      "content": "Categorías",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 13,
-                      "fontWeight": "600"
-                    },
-                    {
-                      "type": "text",
-                      "id": "NWVIF",
-                      "name": "General",
-                      "fill": "$color-white",
-                      "content": "General",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 13,
-                      "fontWeight": "normal"
-                    },
-                    {
-                      "type": "text",
-                      "id": "kmXuW",
-                      "name": "IPS",
-                      "fill": "$color-white",
-                      "content": "IPS",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 13,
-                      "fontWeight": "normal"
-                    },
-                    {
-                      "type": "text",
-                      "id": "S3pZMr",
-                      "name": "BPS",
-                      "fill": "$color-white",
-                      "content": "BPS",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 13,
-                      "fontWeight": "normal"
-                    },
-                    {
-                      "type": "text",
-                      "id": "dh3a5",
-                      "name": "Incorporación",
-                      "fill": "$color-white",
-                      "content": "Incorporación",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 13,
-                      "fontWeight": "normal"
-                    }
-                  ]
-                },
-                {
-                  "type": "frame",
-                  "id": "QZNrs",
-                  "name": "Soporte",
-                  "layout": "vertical",
-                  "gap": 10,
-                  "children": [
-                    {
-                      "type": "text",
-                      "id": "Zp0dT",
-                      "name": "H",
-                      "opacity": 0.5,
-                      "fill": "$color-white",
-                      "content": "Soporte",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 13,
-                      "fontWeight": "600"
-                    },
-                    {
-                      "type": "text",
-                      "id": "N0qx5",
-                      "name": "T1",
-                      "fill": "$color-white",
-                      "content": "Crear un ticket",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 13,
-                      "fontWeight": "normal"
-                    },
-                    {
-                      "type": "text",
-                      "id": "T18Jz",
-                      "name": "T2",
-                      "opacity": 0.7,
-                      "fill": "$color-white",
-                      "content": "Horario: Lun–Vie, 9:00–18:00",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 13,
-                      "fontWeight": "normal"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "rectangle",
-              "id": "FhSW6",
-              "name": "Div",
-              "opacity": 0.12,
-              "fill": "$color-white",
-              "width": "fill_container",
-              "height": 1
-            },
-            {
-              "type": "text",
-              "id": "uC9wL",
-              "name": "Legal",
-              "opacity": 0.4,
-              "fill": "$color-white",
-              "content": "© 2026 Cámara de Compensación Electrónica S.A. Todos los derechos reservados.",
-              "fontFamily": "IBM Plex Sans",
-              "fontSize": 11,
-              "fontWeight": "normal"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "frame",
       "id": "l7RNM",
-      "x": 7902,
-      "y": 9204,
+      "x": 4201,
+      "y": 8419,
       "name": "HC — Comunicaciones CCE V2",
       "clip": true,
       "width": 1200,
@@ -67446,8 +65160,8 @@
               "id": "SNxgo",
               "name": "Category Banner",
               "width": "fill_container",
-              "fill": "$color-primary-pale",
-              "cornerRadius": 16,
+              "fill": "$color-primary-dark",
+              "cornerRadius": 10,
               "gap": 20,
               "padding": [
                 28,
@@ -67461,7 +65175,7 @@
                   "name": "Icon Bg",
                   "width": 64,
                   "height": 64,
-                  "fill": "$color-white",
+                  "fill": "$color-primary",
                   "cornerRadius": 32,
                   "justifyContent": "center",
                   "alignItems": "center",
@@ -67474,7 +65188,7 @@
                       "height": 32,
                       "icon": "folder-open",
                       "library": "lucide",
-                      "fill": "$color-primary"
+                      "fill": "$color-white"
                     }
                   ]
                 },
@@ -67490,7 +65204,7 @@
                       "type": "text",
                       "id": "C7FgZc",
                       "name": "Title",
-                      "fill": "$color-primary-dark",
+                      "fill": "$color-white",
                       "content": "Comunicaciones CCE",
                       "fontFamily": "IBM Plex Sans",
                       "fontSize": 26,
@@ -67500,7 +65214,7 @@
                       "type": "text",
                       "id": "DJkdq",
                       "name": "Desc",
-                      "fill": "$color-text-secondary",
+                      "fill": "$color-white",
                       "textGrowth": "fixed-width",
                       "width": "fill_container",
                       "content": "Comunicados oficiales, actualizaciones de los servicios, manuales y documentos técnicos de la CCE.",
@@ -67513,7 +65227,7 @@
                       "type": "text",
                       "id": "u9hiU",
                       "name": "Meta",
-                      "fill": "$color-text-secondary",
+                      "fill": "$color-white",
                       "content": "15 artículos · 7 secciones",
                       "fontFamily": "IBM Plex Sans",
                       "fontSize": 12,
@@ -67801,8 +65515,37 @@
               ]
             },
             {
+              "id": "cLY3f",
+              "type": "ref",
+              "ref": "I0bheJ",
+              "name": "FAB",
+              "layoutPosition": "absolute",
+              "x": 1094,
+              "y": 920
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "UjJkF",
+          "name": "Frame 49",
+          "width": "fill_container",
+          "fill": "$color-background",
+          "stroke": "$color-primary-dark",
+          "strokeWidth": {
+            "top": 2
+          },
+          "strokeAlignment": "inner",
+          "layout": "vertical",
+          "gap": 28,
+          "padding": [
+            40,
+            120
+          ],
+          "children": [
+            {
               "type": "text",
-              "id": "X1hTs",
+              "id": "MlKbE",
               "name": "Sections Title",
               "fill": "$color-text",
               "content": "Explorar por Sección",
@@ -67812,7 +65555,7 @@
             },
             {
               "type": "frame",
-              "id": "yB9k2",
+              "id": "ilX5K",
               "name": "Category Grid",
               "width": "fill_container",
               "layout": "vertical",
@@ -67820,14 +65563,14 @@
               "children": [
                 {
                   "type": "frame",
-                  "id": "UGgGx",
+                  "id": "CQDWP",
                   "name": "Row 1",
                   "width": "fill_container",
                   "gap": 16,
                   "children": [
                     {
                       "type": "frame",
-                      "id": "mNmeF",
+                      "id": "WJVVw",
                       "name": "Comunicados Oficiales",
                       "width": "fill_container",
                       "fill": "$color-white",
@@ -67841,7 +65584,7 @@
                       "children": [
                         {
                           "type": "frame",
-                          "id": "UiiAV",
+                          "id": "u4Tml6",
                           "name": "Top",
                           "width": "fill_container",
                           "justifyContent": "space_between",
@@ -67849,7 +65592,7 @@
                           "children": [
                             {
                               "type": "frame",
-                              "id": "LQk4v",
+                              "id": "qCUQx",
                               "name": "Icon Bg",
                               "width": 40,
                               "height": 40,
@@ -67860,7 +65603,7 @@
                               "children": [
                                 {
                                   "type": "icon",
-                                  "id": "cF3BV",
+                                  "id": "hYwDj",
                                   "name": "Icon",
                                   "width": 20,
                                   "height": 20,
@@ -67872,7 +65615,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "SfBl6",
+                              "id": "Izir1",
                               "name": "Count",
                               "fill": "$color-text-secondary",
                               "content": "2 artículos",
@@ -67884,7 +65627,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "TG3bf",
+                          "id": "alD1r",
                           "name": "Title",
                           "fill": "$color-primary-dark",
                           "textGrowth": "fixed-width",
@@ -67896,7 +65639,7 @@
                         },
                         {
                           "type": "rectangle",
-                          "id": "E4MUo",
+                          "id": "s2R2Qq",
                           "name": "Divider",
                           "fill": "#F1F5F9",
                           "width": "fill_container",
@@ -67904,7 +65647,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "z1xs2b",
+                          "id": "sQQ0I",
                           "name": "Latest",
                           "width": "fill_container",
                           "gap": 8,
@@ -67912,7 +65655,7 @@
                           "children": [
                             {
                               "type": "icon",
-                              "id": "XsX5J",
+                              "id": "xllYT",
                               "name": "I",
                               "width": 14,
                               "height": 14,
@@ -67922,7 +65665,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "lqfBu",
+                              "id": "BrG4c",
                               "name": "T",
                               "fill": "$color-primary-medium",
                               "textGrowth": "fixed-width",
@@ -67934,7 +65677,7 @@
                             },
                             {
                               "type": "icon",
-                              "id": "URE2K",
+                              "id": "PUBWE",
                               "name": "Arrow",
                               "width": 14,
                               "height": 14,
@@ -67948,7 +65691,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "RZHXT",
+                      "id": "CxNCp",
                       "name": "Cambios Operativos o Normativos",
                       "width": "fill_container",
                       "fill": "$color-white",
@@ -67972,7 +65715,7 @@
                       "children": [
                         {
                           "type": "frame",
-                          "id": "LoRMc",
+                          "id": "l9deb5",
                           "name": "Top",
                           "width": "fill_container",
                           "justifyContent": "space_between",
@@ -67980,7 +65723,7 @@
                           "children": [
                             {
                               "type": "frame",
-                              "id": "t7EVh4",
+                              "id": "p3ctK",
                               "name": "Icon Bg",
                               "width": 40,
                               "height": 40,
@@ -67991,7 +65734,7 @@
                               "children": [
                                 {
                                   "type": "icon",
-                                  "id": "Og9gC",
+                                  "id": "CxSio",
                                   "name": "Icon",
                                   "width": 20,
                                   "height": 20,
@@ -68003,7 +65746,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "cgl6C",
+                              "id": "v9TJD",
                               "name": "Count",
                               "fill": "$color-text-secondary",
                               "content": "2 artículos",
@@ -68015,7 +65758,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "F2qDC",
+                          "id": "k7dwEY",
                           "name": "Title",
                           "fill": "$color-primary-dark",
                           "textGrowth": "fixed-width",
@@ -68027,7 +65770,7 @@
                         },
                         {
                           "type": "rectangle",
-                          "id": "L0pBmj",
+                          "id": "Lh4lz",
                           "name": "Divider",
                           "fill": "#F1F5F9",
                           "width": "fill_container",
@@ -68035,7 +65778,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "H91ncM",
+                          "id": "H7ho85",
                           "name": "Latest",
                           "width": "fill_container",
                           "gap": 8,
@@ -68043,7 +65786,7 @@
                           "children": [
                             {
                               "type": "icon",
-                              "id": "T5qcJg",
+                              "id": "bPjwA",
                               "name": "I",
                               "width": 14,
                               "height": 14,
@@ -68053,7 +65796,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "R2Jtfo",
+                              "id": "gE1Qu",
                               "name": "T",
                               "fill": "$color-primary-medium",
                               "textGrowth": "fixed-width",
@@ -68065,7 +65808,7 @@
                             },
                             {
                               "type": "icon",
-                              "id": "fN5QQ",
+                              "id": "C1thPE",
                               "name": "Arrow",
                               "width": 14,
                               "height": 14,
@@ -68081,14 +65824,14 @@
                 },
                 {
                   "type": "frame",
-                  "id": "sTblY",
+                  "id": "ldnMp",
                   "name": "Row 2",
                   "width": "fill_container",
                   "gap": 16,
                   "children": [
                     {
                       "type": "frame",
-                      "id": "d2YmEw",
+                      "id": "MEp4v",
                       "name": "Actualizaciones de los Servicios",
                       "width": "fill_container",
                       "fill": "$color-white",
@@ -68102,7 +65845,7 @@
                       "children": [
                         {
                           "type": "frame",
-                          "id": "y9Vzl8",
+                          "id": "j0yKIk",
                           "name": "Top",
                           "width": "fill_container",
                           "justifyContent": "space_between",
@@ -68110,7 +65853,7 @@
                           "children": [
                             {
                               "type": "frame",
-                              "id": "PPvQE",
+                              "id": "u3a1H3",
                               "name": "Icon Bg",
                               "width": 40,
                               "height": 40,
@@ -68121,7 +65864,7 @@
                               "children": [
                                 {
                                   "type": "icon",
-                                  "id": "HQ8Mp",
+                                  "id": "JJpfz",
                                   "name": "Icon",
                                   "width": 20,
                                   "height": 20,
@@ -68133,7 +65876,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "gZeS7",
+                              "id": "xJ09U",
                               "name": "Count",
                               "fill": "$color-text-secondary",
                               "content": "1 artículos",
@@ -68145,7 +65888,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "e8Z3OY",
+                          "id": "wd7sl",
                           "name": "Title",
                           "fill": "$color-primary-dark",
                           "textGrowth": "fixed-width",
@@ -68157,7 +65900,7 @@
                         },
                         {
                           "type": "rectangle",
-                          "id": "gGgoJ",
+                          "id": "H0gN5O",
                           "name": "Divider",
                           "fill": "#F1F5F9",
                           "width": "fill_container",
@@ -68165,7 +65908,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "zBCmd",
+                          "id": "GDCMR",
                           "name": "Latest",
                           "width": "fill_container",
                           "gap": 8,
@@ -68173,7 +65916,7 @@
                           "children": [
                             {
                               "type": "icon",
-                              "id": "H9MHN",
+                              "id": "J0Gr3",
                               "name": "I",
                               "width": 14,
                               "height": 14,
@@ -68183,7 +65926,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "GIUAs",
+                              "id": "rOWm1",
                               "name": "T",
                               "fill": "$color-primary-medium",
                               "textGrowth": "fixed-width",
@@ -68195,7 +65938,7 @@
                             },
                             {
                               "type": "icon",
-                              "id": "vOEAi",
+                              "id": "VM1db",
                               "name": "Arrow",
                               "width": 14,
                               "height": 14,
@@ -68209,7 +65952,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "gsBhq",
+                      "id": "Ot2JI",
                       "name": "Cronogramas de Implementación",
                       "width": "fill_container",
                       "fill": "$color-white",
@@ -68223,7 +65966,7 @@
                       "children": [
                         {
                           "type": "frame",
-                          "id": "QIebL",
+                          "id": "y9KRH8",
                           "name": "Top",
                           "width": "fill_container",
                           "justifyContent": "space_between",
@@ -68231,7 +65974,7 @@
                           "children": [
                             {
                               "type": "frame",
-                              "id": "A6SbC",
+                              "id": "pO6Iq",
                               "name": "Icon Bg",
                               "width": 40,
                               "height": 40,
@@ -68242,7 +65985,7 @@
                               "children": [
                                 {
                                   "type": "icon",
-                                  "id": "FveTS",
+                                  "id": "x1LAcy",
                                   "name": "Icon",
                                   "width": 20,
                                   "height": 20,
@@ -68254,7 +65997,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "b54p8W",
+                              "id": "JK3x6",
                               "name": "Count",
                               "fill": "$color-text-secondary",
                               "content": "2 artículos",
@@ -68266,7 +66009,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "lAk8e",
+                          "id": "ugFCY",
                           "name": "Title",
                           "fill": "$color-primary-dark",
                           "textGrowth": "fixed-width",
@@ -68278,7 +66021,7 @@
                         },
                         {
                           "type": "rectangle",
-                          "id": "oEm2f",
+                          "id": "MY5gP",
                           "name": "Divider",
                           "fill": "#F1F5F9",
                           "width": "fill_container",
@@ -68286,7 +66029,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "w453c",
+                          "id": "OCY7G",
                           "name": "Latest",
                           "width": "fill_container",
                           "gap": 8,
@@ -68294,7 +66037,7 @@
                           "children": [
                             {
                               "type": "icon",
-                              "id": "U8nm6",
+                              "id": "G2vFPg",
                               "name": "I",
                               "width": 14,
                               "height": 14,
@@ -68304,7 +66047,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "f3fKmH",
+                              "id": "UFbp4",
                               "name": "T",
                               "fill": "$color-primary-medium",
                               "textGrowth": "fixed-width",
@@ -68316,7 +66059,7 @@
                             },
                             {
                               "type": "icon",
-                              "id": "m9m1f",
+                              "id": "opytD",
                               "name": "Arrow",
                               "width": 14,
                               "height": 14,
@@ -68332,14 +66075,14 @@
                 },
                 {
                   "type": "frame",
-                  "id": "Afsq6",
+                  "id": "GUzbP",
                   "name": "Row 3",
                   "width": "fill_container",
                   "gap": 16,
                   "children": [
                     {
                       "type": "frame",
-                      "id": "Gn1Ki",
+                      "id": "kcymN",
                       "name": "Ventanas de Mantenimiento",
                       "width": "fill_container",
                       "fill": "$color-white",
@@ -68353,7 +66096,7 @@
                       "children": [
                         {
                           "type": "frame",
-                          "id": "UEByo",
+                          "id": "niKYQ",
                           "name": "Top",
                           "width": "fill_container",
                           "justifyContent": "space_between",
@@ -68361,7 +66104,7 @@
                           "children": [
                             {
                               "type": "frame",
-                              "id": "AC09I",
+                              "id": "eCZBm",
                               "name": "Icon Bg",
                               "width": 40,
                               "height": 40,
@@ -68372,7 +66115,7 @@
                               "children": [
                                 {
                                   "type": "icon",
-                                  "id": "EUIFR",
+                                  "id": "ipQI3",
                                   "name": "Icon",
                                   "width": 20,
                                   "height": 20,
@@ -68384,7 +66127,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "BMb6B",
+                              "id": "DdwjX",
                               "name": "Count",
                               "fill": "$color-text-secondary",
                               "content": "2 artículos",
@@ -68396,7 +66139,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "rIFKp",
+                          "id": "QxI6i",
                           "name": "Title",
                           "fill": "$color-primary-dark",
                           "textGrowth": "fixed-width",
@@ -68408,7 +66151,7 @@
                         },
                         {
                           "type": "rectangle",
-                          "id": "VIoXD",
+                          "id": "FLQ24",
                           "name": "Divider",
                           "fill": "#F1F5F9",
                           "width": "fill_container",
@@ -68416,7 +66159,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "fGyvA",
+                          "id": "NgUVP",
                           "name": "Latest",
                           "width": "fill_container",
                           "gap": 8,
@@ -68424,7 +66167,7 @@
                           "children": [
                             {
                               "type": "icon",
-                              "id": "GrH8a",
+                              "id": "b4qE1",
                               "name": "I",
                               "width": 14,
                               "height": 14,
@@ -68434,7 +66177,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "jdvUn",
+                              "id": "Nt4HH",
                               "name": "T",
                               "fill": "$color-primary-medium",
                               "textGrowth": "fixed-width",
@@ -68446,7 +66189,7 @@
                             },
                             {
                               "type": "icon",
-                              "id": "vADO9",
+                              "id": "VbBmp",
                               "name": "Arrow",
                               "width": 14,
                               "height": 14,
@@ -68460,7 +66203,7 @@
                     },
                     {
                       "type": "frame",
-                      "id": "Q73Cs",
+                      "id": "XlkfF",
                       "name": "Documentos Técnicos",
                       "width": "fill_container",
                       "fill": "$color-white",
@@ -68474,7 +66217,7 @@
                       "children": [
                         {
                           "type": "frame",
-                          "id": "ZIkMJ",
+                          "id": "a7HqjI",
                           "name": "Top",
                           "width": "fill_container",
                           "justifyContent": "space_between",
@@ -68482,7 +66225,7 @@
                           "children": [
                             {
                               "type": "frame",
-                              "id": "jzCWR",
+                              "id": "BQYrs",
                               "name": "Icon Bg",
                               "width": 40,
                               "height": 40,
@@ -68493,7 +66236,7 @@
                               "children": [
                                 {
                                   "type": "icon",
-                                  "id": "wjTe4",
+                                  "id": "YkPmD",
                                   "name": "Icon",
                                   "width": 20,
                                   "height": 20,
@@ -68505,7 +66248,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "ZEFz1",
+                              "id": "N3IVpa",
                               "name": "Count",
                               "fill": "$color-text-secondary",
                               "content": "3 artículos",
@@ -68517,7 +66260,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "VZUrl",
+                          "id": "aN531",
                           "name": "Title",
                           "fill": "$color-primary-dark",
                           "textGrowth": "fixed-width",
@@ -68529,7 +66272,7 @@
                         },
                         {
                           "type": "rectangle",
-                          "id": "hYquO",
+                          "id": "Ui6bw",
                           "name": "Divider",
                           "fill": "#F1F5F9",
                           "width": "fill_container",
@@ -68537,7 +66280,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "uDRkW",
+                          "id": "q8T4SQ",
                           "name": "Latest",
                           "width": "fill_container",
                           "gap": 8,
@@ -68545,7 +66288,7 @@
                           "children": [
                             {
                               "type": "icon",
-                              "id": "okg2I",
+                              "id": "CFpH5",
                               "name": "I",
                               "width": 14,
                               "height": 14,
@@ -68555,7 +66298,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "tqZPy",
+                              "id": "NRs2z",
                               "name": "T",
                               "fill": "$color-primary-medium",
                               "textGrowth": "fixed-width",
@@ -68567,7 +66310,7 @@
                             },
                             {
                               "type": "icon",
-                              "id": "IgVpK",
+                              "id": "vOmDy",
                               "name": "Arrow",
                               "width": 14,
                               "height": 14,
@@ -68583,14 +66326,14 @@
                 },
                 {
                   "type": "frame",
-                  "id": "igHGL",
+                  "id": "Aj5ps",
                   "name": "Row 4",
                   "width": "fill_container",
                   "gap": 16,
                   "children": [
                     {
                       "type": "frame",
-                      "id": "B5hEOM",
+                      "id": "vNs0K",
                       "name": "Manuales, Procedimientos y FAQ",
                       "width": "fill_container",
                       "fill": "$color-white",
@@ -68604,7 +66347,7 @@
                       "children": [
                         {
                           "type": "frame",
-                          "id": "vTOCh",
+                          "id": "x34Z5",
                           "name": "Top",
                           "width": "fill_container",
                           "justifyContent": "space_between",
@@ -68612,7 +66355,7 @@
                           "children": [
                             {
                               "type": "frame",
-                              "id": "HbRlI",
+                              "id": "ZKyQU",
                               "name": "Icon Bg",
                               "width": 40,
                               "height": 40,
@@ -68623,7 +66366,7 @@
                               "children": [
                                 {
                                   "type": "icon",
-                                  "id": "dJiYz",
+                                  "id": "tV3P0",
                                   "name": "Icon",
                                   "width": 20,
                                   "height": 20,
@@ -68635,7 +66378,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "JaVox",
+                              "id": "sZbfw",
                               "name": "Count",
                               "fill": "$color-text-secondary",
                               "content": "3 artículos",
@@ -68647,7 +66390,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "qqAhc",
+                          "id": "pUaRR",
                           "name": "Title",
                           "fill": "$color-primary-dark",
                           "textGrowth": "fixed-width",
@@ -68659,7 +66402,7 @@
                         },
                         {
                           "type": "rectangle",
-                          "id": "jUIyi",
+                          "id": "zO5jX",
                           "name": "Divider",
                           "fill": "#F1F5F9",
                           "width": "fill_container",
@@ -68667,7 +66410,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "TGL1e",
+                          "id": "j3H61R",
                           "name": "Latest",
                           "width": "fill_container",
                           "gap": 8,
@@ -68675,7 +66418,7 @@
                           "children": [
                             {
                               "type": "icon",
-                              "id": "ZWvWl",
+                              "id": "Bq2ZQ",
                               "name": "I",
                               "width": 14,
                               "height": 14,
@@ -68685,7 +66428,7 @@
                             },
                             {
                               "type": "text",
-                              "id": "BMPTG",
+                              "id": "zolj5",
                               "name": "T",
                               "fill": "$color-primary-medium",
                               "textGrowth": "fixed-width",
@@ -68697,7 +66440,7 @@
                             },
                             {
                               "type": "icon",
-                              "id": "ki9yz",
+                              "id": "lQTGc",
                               "name": "Arrow",
                               "width": 14,
                               "height": 14,
@@ -68711,9 +66454,10 @@
                     },
                     {
                       "type": "frame",
-                      "id": "aN3iJ",
+                      "id": "ItVhh",
                       "name": "Support CTA",
                       "width": "fill_container",
+                      "height": "fill_container",
                       "fill": "$color-primary-dark",
                       "cornerRadius": 12,
                       "layout": "vertical",
@@ -68723,18 +66467,8 @@
                       "alignItems": "center",
                       "children": [
                         {
-                          "type": "icon",
-                          "id": "D0KJ0H",
-                          "name": "CTA Icon",
-                          "width": 32,
-                          "height": 32,
-                          "icon": "life-buoy",
-                          "library": "lucide",
-                          "fill": "$color-white"
-                        },
-                        {
                           "type": "text",
-                          "id": "Bu3Qs",
+                          "id": "jQ1xz",
                           "name": "CTA Title",
                           "fill": "$color-white",
                           "textGrowth": "fixed-width",
@@ -68747,7 +66481,7 @@
                         },
                         {
                           "type": "text",
-                          "id": "d159ja",
+                          "id": "rCivc",
                           "name": "CTA Subtitle",
                           "opacity": 0.7,
                           "fill": "$color-white",
@@ -68761,7 +66495,7 @@
                         },
                         {
                           "type": "frame",
-                          "id": "d5C5K",
+                          "id": "UjBPR",
                           "name": "CTA Btn",
                           "fill": "$color-white",
                           "cornerRadius": 8,
@@ -68774,7 +66508,7 @@
                           "children": [
                             {
                               "type": "text",
-                              "id": "NvcLO",
+                              "id": "laRmy",
                               "name": "CTA Label",
                               "fill": "$color-primary-dark",
                               "content": "Crear un ticket",
@@ -68791,13 +66525,13 @@
               ]
             },
             {
-              "id": "cLY3f",
+              "id": "PVzry",
               "type": "ref",
               "ref": "I0bheJ",
               "name": "FAB",
               "layoutPosition": "absolute",
-              "x": 1094,
-              "y": 920
+              "x": 1108,
+              "y": 701
             }
           ]
         },
@@ -71771,8 +69505,8 @@
     {
       "type": "frame",
       "id": "Oq0r9",
-      "x": 9273,
-      "y": 9204,
+      "x": 5715,
+      "y": 8419,
       "name": "HC — Artículo de Comunicaciones CCE",
       "width": 1200,
       "fill": "$color-white",
@@ -72089,6 +69823,7 @@
           "id": "lG5Yo",
           "name": "Content",
           "width": "fill_container",
+          "fill": "$color-white",
           "layout": "vertical",
           "gap": 24,
           "padding": [
@@ -72180,15 +69915,26 @@
               "id": "arpsP",
               "name": "Art Header",
               "width": "fill_container",
-              "stroke": "$color-primary-light",
+              "fill": "$color-white",
+              "stroke": "$color-primary-dark",
               "strokeWidth": {
                 "left": 3
               },
               "strokeAlignment": "inner",
+              "effect": {
+                "type": "shadow",
+                "shadowType": "outer",
+                "color": "#00509D18",
+                "offset": {
+                  "x": 0,
+                  "y": 4
+                },
+                "blur": 16
+              },
               "layout": "vertical",
               "gap": 10,
               "padding": [
-                0,
+                20,
                 15
               ],
               "children": [
@@ -72196,7 +69942,7 @@
                   "type": "text",
                   "id": "rjYWd",
                   "name": "H1",
-                  "fill": "$color-text",
+                  "fill": "$color-primary-dark",
                   "content": "Cambios Mayo 2026",
                   "fontFamily": "IBM Plex Sans",
                   "fontSize": 26,
@@ -72305,302 +70051,13 @@
               ]
             },
             {
-              "type": "frame",
-              "id": "Lfj7D",
-              "name": "Main Card",
-              "width": "fill_container",
-              "fill": "$color-background",
-              "cornerRadius": 16,
-              "gap": 40,
-              "padding": 32,
-              "children": [
-                {
-                  "type": "frame",
-                  "id": "U6ZnGO",
-                  "name": "Metadata",
-                  "width": "fill_container",
-                  "layout": "vertical",
-                  "gap": 12,
-                  "children": [
-                    {
-                      "type": "frame",
-                      "id": "ACaYH",
-                      "name": "Versión",
-                      "width": "fill_container",
-                      "gap": 12,
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "text",
-                          "id": "E7JGXJ",
-                          "name": "K",
-                          "fill": "$color-text-secondary",
-                          "textGrowth": "fixed-width",
-                          "width": 130,
-                          "content": "Versión",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 13,
-                          "fontWeight": "normal"
-                        },
-                        {
-                          "type": "text",
-                          "id": "AEbU8",
-                          "name": "V",
-                          "fill": "$color-text",
-                          "content": "2.4",
-                          "fontFamily": "IBM Plex Mono",
-                          "fontSize": 13,
-                          "fontWeight": "500"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "SC61U",
-                      "name": "Fecha de emisión",
-                      "width": "fill_container",
-                      "gap": 12,
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "text",
-                          "id": "GBKJt",
-                          "name": "K",
-                          "fill": "$color-text-secondary",
-                          "textGrowth": "fixed-width",
-                          "width": 130,
-                          "content": "Fecha de emisión",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 13,
-                          "fontWeight": "normal"
-                        },
-                        {
-                          "type": "text",
-                          "id": "Cjlgf",
-                          "name": "V",
-                          "fill": "$color-text",
-                          "content": "15/05/2026",
-                          "fontFamily": "IBM Plex Mono",
-                          "fontSize": 13,
-                          "fontWeight": "500"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "pdQDQ",
-                      "name": "Área responsable",
-                      "width": "fill_container",
-                      "gap": 12,
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "text",
-                          "id": "z4HFmj",
-                          "name": "K",
-                          "fill": "$color-text-secondary",
-                          "textGrowth": "fixed-width",
-                          "width": 130,
-                          "content": "Área responsable",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 13,
-                          "fontWeight": "normal"
-                        },
-                        {
-                          "type": "text",
-                          "id": "S95qC",
-                          "name": "V",
-                          "fill": "$color-text",
-                          "content": "Comunicaciones CCE",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 13,
-                          "fontWeight": "normal"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "I6evW",
-                      "name": "Formato",
-                      "width": "fill_container",
-                      "gap": 12,
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "text",
-                          "id": "tLC2d",
-                          "name": "K",
-                          "fill": "$color-text-secondary",
-                          "textGrowth": "fixed-width",
-                          "width": 130,
-                          "content": "Formato",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 13,
-                          "fontWeight": "normal"
-                        },
-                        {
-                          "type": "text",
-                          "id": "kc9wd",
-                          "name": "V",
-                          "fill": "$color-text",
-                          "content": "PDF · 1.8 MB",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 13,
-                          "fontWeight": "normal"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "pbtWT",
-                      "name": "Estado",
-                      "width": "fill_container",
-                      "gap": 12,
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "text",
-                          "id": "rAiVA",
-                          "name": "K",
-                          "fill": "$color-text-secondary",
-                          "textGrowth": "fixed-width",
-                          "width": 130,
-                          "content": "Estado",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 13,
-                          "fontWeight": "normal"
-                        },
-                        {
-                          "type": "frame",
-                          "id": "yQ6Jk",
-                          "name": "Badge",
-                          "fill": "#F0FDF4",
-                          "cornerRadius": 10,
-                          "gap": 4,
-                          "padding": [
-                            3,
-                            8
-                          ],
-                          "alignItems": "center",
-                          "children": [
-                            {
-                              "type": "ellipse",
-                              "id": "MjRgt",
-                              "name": "D",
-                              "fill": "$color-success",
-                              "width": 6,
-                              "height": 6
-                            },
-                            {
-                              "type": "text",
-                              "id": "Lziyw",
-                              "name": "L",
-                              "fill": "$color-success",
-                              "content": "Vigente",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 12,
-                              "fontWeight": "500"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "frame",
-                  "id": "E7oscr",
-                  "name": "CTA Column",
-                  "width": 320,
-                  "layout": "vertical",
-                  "gap": 12,
-                  "alignItems": "center",
-                  "children": [
-                    {
-                      "type": "frame",
-                      "id": "E2BZTz",
-                      "name": "Download Btn",
-                      "width": "fill_container",
-                      "fill": "$color-primary",
-                      "cornerRadius": 10,
-                      "gap": 8,
-                      "padding": [
-                        14,
-                        28
-                      ],
-                      "justifyContent": "center",
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "icon",
-                          "id": "j0m9s8",
-                          "name": "I",
-                          "width": 18,
-                          "height": 18,
-                          "icon": "download",
-                          "library": "lucide",
-                          "fill": "$color-white"
-                        },
-                        {
-                          "type": "text",
-                          "id": "e6XMMw",
-                          "name": "L",
-                          "fill": "$color-white",
-                          "content": "Descargar Normativa – PDF (1.8 MB)",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 14,
-                          "fontWeight": "500"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "frame",
-                      "id": "O7S80",
-                      "name": "View Btn",
-                      "width": "fill_container",
-                      "cornerRadius": 8,
-                      "gap": 6,
-                      "padding": [
-                        10,
-                        20
-                      ],
-                      "justifyContent": "center",
-                      "alignItems": "center",
-                      "children": [
-                        {
-                          "type": "icon",
-                          "id": "k9bkU",
-                          "name": "I",
-                          "width": 14,
-                          "height": 14,
-                          "icon": "eye",
-                          "library": "lucide",
-                          "fill": "$color-primary-medium"
-                        },
-                        {
-                          "type": "text",
-                          "id": "ZaSHg",
-                          "name": "L",
-                          "fill": "$color-primary-medium",
-                          "content": "Ver en línea",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 13,
-                          "fontWeight": "normal"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "type": "text",
               "id": "S9t91",
               "name": "Description",
               "fill": "$color-text",
               "textGrowth": "fixed-width",
               "width": "fill_container",
-              "content": "Establece las normas operativas para el intercambio y la compensación de cheques entre las entidades participantes de la CCE: plazos, responsabilidades y procedimientos de presentación y devolución.",
+              "content": "Resumen de los cambios operativos y normativos aplicables a partir de mayo de 2026. Incluye ajustes en horarios de procesamiento, actualizaciones de formatos de intercambio y modificaciones a los procedimientos de compensación vigentes.",
               "lineHeight": 1.6,
               "fontFamily": "IBM Plex Sans",
               "fontSize": 14,
@@ -72758,10 +70215,97 @@
               "fontWeight": "normal"
             },
             {
+              "type": "frame",
+              "id": "CkFb4",
+              "name": "Login Banner",
+              "width": "fill_container",
+              "fill": "$color-background",
+              "cornerRadius": 10,
+              "stroke": "$color-primary-pale",
+              "strokeWidth": 1,
+              "strokeAlignment": "inner",
+              "gap": 14,
+              "padding": 16,
+              "alignItems": "center",
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "Y7Lpgp",
+                  "name": "Icon Bg",
+                  "width": 36,
+                  "height": 36,
+                  "fill": "$color-primary-pale",
+                  "cornerRadius": 18,
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "icon",
+                      "id": "xmnHp",
+                      "name": "I",
+                      "width": 18,
+                      "height": 18,
+                      "icon": "lock",
+                      "library": "lucide",
+                      "fill": "$color-primary"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "PuDpd",
+                  "name": "Text",
+                  "width": "fill_container",
+                  "layout": "vertical",
+                  "gap": 4,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "Q5DTT",
+                      "name": "Msg",
+                      "fill": "$color-text",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container",
+                      "content": "Inicia sesión con tu cuenta de entidad para acceder a la documentación completa y descargar el documento oficial.",
+                      "lineHeight": 1.4,
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "Jn5Vt",
+                  "name": "Btn",
+                  "fill": "$color-primary",
+                  "cornerRadius": 8,
+                  "padding": [
+                    8,
+                    20
+                  ],
+                  "justifyContent": "center",
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "BPll8",
+                      "name": "L",
+                      "fill": "$color-white",
+                      "content": "Iniciar sesión",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "500"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "type": "rectangle",
               "id": "yjiI5",
               "name": "Div1",
-              "fill": "#E2E8F0",
+              "fill": "$color-primary-dark",
               "width": "fill_container",
               "height": 1
             },
@@ -72787,6 +70331,7 @@
                   "id": "eRKuC",
                   "name": "Reglamento de Interc",
                   "width": "fill_container",
+                  "fill": "$color-background",
                   "gap": 12,
                   "padding": [
                     14,
@@ -72867,7 +70412,7 @@
               "type": "rectangle",
               "id": "prZm3",
               "name": "Div2",
-              "fill": "#E2E8F0",
+              "fill": "$color-primary-dark",
               "width": "fill_container",
               "height": 1
             },
@@ -72884,8 +70429,15 @@
                   "ref": "hOdP2",
                   "name": "Micro Feedback",
                   "descendants": {
+                    "cBYd6": {
+                      "fill": "$color-primary-dark"
+                    },
+                    "d3i9V": {
+                      "fill": "$color-primary-dark"
+                    },
                     "K6t29h": {
-                      "content": "¿Este documento estuvo vigente y accesible?"
+                      "content": "¿Este documento estuvo vigente y accesible?",
+                      "fill": "$color-primary-dark"
                     }
                   }
                 }
@@ -72957,7 +70509,7 @@
               "name": "FAB",
               "layoutPosition": "absolute",
               "x": 1110,
-              "y": 1468
+              "y": 1116
             }
           ]
         },
@@ -101186,6 +98738,24 @@
           "fill": "#000000"
         }
       ]
+    },
+    {
+      "type": "context",
+      "id": "XcCIN",
+      "x": 3901,
+      "y": 8419,
+      "width": 250,
+      "height": 219,
+      "content": "Nuevas pantallas: Detalle de nueva categoría Comunicaciones CCE y Detalle de un artículo de esa categoría (genérico)"
+    },
+    {
+      "type": "context",
+      "id": "PYDI7",
+      "x": 3855,
+      "y": 7966,
+      "width": 250,
+      "height": 219,
+      "content": "Nueva categoría agregada al grid de categorías, llamada Comunicaciones CCE"
     }
   ],
   "variables": {
