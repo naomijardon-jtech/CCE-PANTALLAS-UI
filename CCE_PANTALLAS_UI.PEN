@@ -1,5 +1,5 @@
 {
-  "version": "2.14",
+  "version": "2.18",
   "children": [
     {
       "type": "frame",
@@ -45,26 +45,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "fneRs",
+                  "id": "v5UhCz",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
-                  "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "p4PuB",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
+                  "width": 201,
+                  "height": 34
                 }
               ]
             },
@@ -211,6 +201,7 @@
                 "left": 1
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "gap": 10,
               "padding": [
                 0,
@@ -595,6 +586,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -721,6 +713,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -927,6 +920,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -1133,6 +1127,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -1339,6 +1334,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -1545,6 +1541,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -1751,6 +1748,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -1957,6 +1955,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -2163,6 +2162,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -2369,6 +2369,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -2575,6 +2576,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -2781,6 +2783,7 @@
                     "top": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "padding": [
                     12,
                     20
@@ -2933,7 +2936,7 @@
             },
             "colors": [
               {
-                "color": "#00509d",
+                "color": "#1075FF",
                 "position": 0
               },
               {
@@ -3227,7 +3230,7 @@
                           "type": "rectangle",
                           "cornerRadius": 8,
                           "id": "kNkac",
-                          "fill": "#003A75",
+                          "fill": "#003b75ff",
                           "width": "fill_container",
                           "height": 80,
                           "stroke": "#00000015",
@@ -4016,6 +4019,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         16,
                         24
@@ -4071,6 +4075,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         16,
                         24
@@ -4126,6 +4131,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         16,
                         24
@@ -4181,6 +4187,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         16,
                         24
@@ -4236,6 +4243,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         16,
                         24
@@ -4291,6 +4299,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         16,
                         24
@@ -4346,6 +4355,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         16,
                         24
@@ -4401,6 +4411,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         16,
                         24
@@ -7520,6 +7531,7 @@
                         "left": 4
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 12,
                       "padding": [
                         14,
@@ -7577,6 +7589,7 @@
                         "left": 4
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 12,
                       "padding": [
                         14,
@@ -7634,6 +7647,7 @@
                         "left": 4
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 12,
                       "padding": [
                         14,
@@ -7691,6 +7705,7 @@
                         "left": 4
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 12,
                       "padding": [
                         14,
@@ -7994,14 +8009,15 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "DktyZ",
+                      "id": "h7SvwJ",
+                      "name": "Logo CCE",
                       "fill": {
                         "type": "image",
                         "enabled": true,
-                        "url": "../../../../Downloads/CCE%20UI/LOGO%20NOMBRE%20CCE%20-%20NEGRO.png",
+                        "url": "CCE%20Logo%20Azul.png",
                         "mode": "fill"
                       },
-                      "width": 150,
+                      "width": 237,
                       "height": 40
                     },
                     {
@@ -8150,7 +8166,7 @@
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
-                                "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                                "url": "../../../Downloads/CCE%20UI/LOGO%20CCE.png",
                                 "mode": "fill"
                               },
                               "width": 50,
@@ -8349,24 +8365,16 @@
                               "children": [
                                 {
                                   "type": "rectangle",
-                                  "id": "HdPPK",
+                                  "id": "VQeut",
+                                  "name": "Logo CCE",
                                   "fill": {
                                     "type": "image",
                                     "enabled": true,
-                                    "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                                    "url": "CCE%20Logo%20Blanco.png",
                                     "mode": "fill"
                                   },
-                                  "width": 50,
+                                  "width": 266,
                                   "height": 45
-                                },
-                                {
-                                  "type": "text",
-                                  "id": "YllAc",
-                                  "fill": "#FFFFFF",
-                                  "content": "Cámara de \nCompensación Electrónica",
-                                  "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 14,
-                                  "fontWeight": "500"
                                 }
                               ]
                             },
@@ -8605,6 +8613,7 @@
                         "bottom": 2
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "children": [
                         {
                           "type": "frame",
@@ -8614,6 +8623,7 @@
                             "bottom": 2
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "padding": [
                             12,
                             20
@@ -9576,6 +9586,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         14,
                         20
@@ -9682,6 +9693,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "children": [
                         {
                           "type": "frame",
@@ -9943,6 +9955,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "alignItems": "center",
                       "children": [
                         {
@@ -10173,6 +10186,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "alignItems": "center",
                       "children": [
                         {
@@ -10403,6 +10417,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "alignItems": "center",
                       "children": [
                         {
@@ -10633,6 +10648,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "alignItems": "center",
                       "children": [
                         {
@@ -11090,6 +11106,7 @@
                         "top": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         12,
                         20
@@ -11335,6 +11352,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "padding": [
                             20,
                             24
@@ -11500,6 +11518,7 @@
                             "top": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 12,
                           "padding": [
                             16,
@@ -11577,6 +11596,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "padding": [
                             20,
                             24
@@ -11667,6 +11687,7 @@
                             "top": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 12,
                           "padding": [
                             16,
@@ -11820,24 +11841,16 @@
                           "children": [
                             {
                               "type": "rectangle",
-                              "id": "DQGc9",
+                              "id": "CNZCb",
+                              "name": "Logo CCE",
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
-                                "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                                "url": "CCE%20Logo%20Blanco.png",
                                 "mode": "fill"
                               },
-                              "width": 50,
+                              "width": 266,
                               "height": 45
-                            },
-                            {
-                              "type": "text",
-                              "id": "vZXXO",
-                              "fill": "#FFFFFF",
-                              "content": "Cámara de \nCompensación Electrónica",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 14,
-                              "fontWeight": "500"
                             }
                           ]
                         },
@@ -12862,6 +12875,7 @@
                             "left": 4
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 12,
                           "padding": [
                             14,
@@ -12923,6 +12937,7 @@
                             "left": 4
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 12,
                           "padding": 12,
                           "alignItems": "center"
@@ -12962,6 +12977,7 @@
                                 "bottom": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "padding": 12,
                               "justifyContent": "space_between",
                               "children": [
@@ -13021,6 +13037,7 @@
                                 "bottom": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 30,
                               "padding": 12,
                               "justifyContent": "space_between",
@@ -13118,6 +13135,7 @@
                                 "bottom": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 30,
                               "padding": 12,
                               "justifyContent": "space_between",
@@ -13215,6 +13233,7 @@
                                 "bottom": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "padding": 12,
                               "justifyContent": "space_between",
                               "children": [
@@ -13310,6 +13329,7 @@
                                 "bottom": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "padding": 12,
                               "justifyContent": "space_between",
                               "children": [
@@ -13467,24 +13487,16 @@
                           "children": [
                             {
                               "type": "rectangle",
-                              "id": "Egh0M",
+                              "id": "R8xJW",
+                              "name": "Logo CCE",
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
-                                "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                                "url": "CCE%20Logo%20Blanco.png",
                                 "mode": "fill"
                               },
-                              "width": 50,
+                              "width": 266,
                               "height": 45
-                            },
-                            {
-                              "type": "text",
-                              "id": "WKjOq",
-                              "fill": "#FFFFFF",
-                              "content": "Cámara de \nCompensación Electrónica",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 14,
-                              "fontWeight": "500"
                             }
                           ]
                         },
@@ -13712,6 +13724,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "padding": [
                             0,
                             24
@@ -13988,6 +14001,7 @@
                                         "bottom": 1
                                       },
                                       "strokeAlignment": "inner",
+                                      "strokeLinejoin": "round",
                                       "layout": "vertical",
                                       "gap": 4,
                                       "padding": [
@@ -14407,6 +14421,7 @@
                                         "top": 1
                                       },
                                       "strokeAlignment": "inner",
+                                      "strokeLinejoin": "round",
                                       "padding": [
                                         16,
                                         24
@@ -14661,6 +14676,7 @@
                                         "bottom": 1
                                       },
                                       "strokeAlignment": "inner",
+                                      "strokeLinejoin": "round",
                                       "layout": "vertical",
                                       "padding": [
                                         12,
@@ -14699,6 +14715,7 @@
                                         "bottom": 1
                                       },
                                       "strokeAlignment": "inner",
+                                      "strokeLinejoin": "round",
                                       "gap": 8,
                                       "padding": [
                                         10,
@@ -14767,6 +14784,7 @@
                                         "bottom": 1
                                       },
                                       "strokeAlignment": "inner",
+                                      "strokeLinejoin": "round",
                                       "gap": 8,
                                       "padding": [
                                         10,
@@ -14835,6 +14853,7 @@
                                         "bottom": 1
                                       },
                                       "strokeAlignment": "inner",
+                                      "strokeLinejoin": "round",
                                       "gap": 8,
                                       "padding": [
                                         10,
@@ -14903,6 +14922,7 @@
                                         "bottom": 1
                                       },
                                       "strokeAlignment": "inner",
+                                      "strokeLinejoin": "round",
                                       "gap": 8,
                                       "padding": [
                                         10,
@@ -15465,24 +15485,16 @@
                           "children": [
                             {
                               "type": "rectangle",
-                              "id": "V3WAoY",
+                              "id": "N938D0",
+                              "name": "Logo CCE",
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
-                                "url": "../../../../Downloads/CCE%20UI/LOGO%20CCE.png",
+                                "url": "CCE%20Logo%20Blanco.png",
                                 "mode": "fill"
                               },
-                              "width": 50,
+                              "width": 266,
                               "height": 45
-                            },
-                            {
-                              "type": "text",
-                              "id": "O5aLw",
-                              "fill": "#FFFFFF",
-                              "content": "Cámara de \nCompensación Electrónica",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 14,
-                              "fontWeight": "500"
                             }
                           ]
                         },
@@ -15727,6 +15739,7 @@
                             "left": 4
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 12,
                           "padding": [
                             14,
@@ -19970,6 +19983,7 @@
                             "left": 4
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 12,
                           "padding": 12,
                           "alignItems": "center"
@@ -20046,26 +20060,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "PenTH",
+                  "id": "J6kpSZ",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "y2pU8",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -20212,6 +20216,7 @@
                 "left": 1
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "gap": 10,
               "padding": [
                 0,
@@ -20370,6 +20375,7 @@
                 "left": 4
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "gap": 12,
               "padding": [
                 14,
@@ -20424,6 +20430,7 @@
                 "bottom": 2
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "children": [
                 {
                   "type": "frame",
@@ -20433,6 +20440,7 @@
                     "bottom": 2
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "padding": [
                     12,
                     20
@@ -20823,6 +20831,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -20877,6 +20886,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -20934,6 +20944,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -20991,6 +21002,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -21134,6 +21146,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -21176,6 +21189,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -21262,6 +21276,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -21301,6 +21316,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -21455,26 +21471,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "SbQwV",
+                  "id": "gVKZH",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "fkgMd",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -21621,6 +21627,7 @@
                 "left": 1
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "gap": 10,
               "padding": [
                 0,
@@ -21779,6 +21786,7 @@
                 "left": 4
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "gap": 12,
               "padding": [
                 14,
@@ -21833,6 +21841,7 @@
                 "bottom": 2
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "children": [
                 {
                   "type": "frame",
@@ -21842,6 +21851,7 @@
                     "bottom": 2
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "padding": [
                     12,
                     20
@@ -22333,6 +22343,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -22387,6 +22398,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -22444,6 +22456,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -22501,6 +22514,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -22644,6 +22658,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -22698,6 +22713,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -26631,6 +26647,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     12,
@@ -26692,6 +26709,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     12,
@@ -26962,26 +26980,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "Z1C9t",
+                  "id": "a7zCUp",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "Olggp",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -27128,6 +27136,7 @@
                 "left": 1
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "gap": 10,
               "padding": [
                 0,
@@ -27286,6 +27295,7 @@
                 "left": 4
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "gap": 12,
               "padding": [
                 14,
@@ -27341,6 +27351,7 @@
                 "bottom": 2
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "children": [
                 {
                   "type": "frame",
@@ -27350,6 +27361,7 @@
                     "bottom": 2
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "padding": [
                     12,
                     20
@@ -27752,6 +27764,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -27892,6 +27905,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -27934,6 +27948,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -28020,6 +28035,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -28115,26 +28131,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "Eo89X",
+                  "id": "x54rN",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "FD680",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -28281,6 +28287,7 @@
                 "left": 1
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "gap": 10,
               "padding": [
                 0,
@@ -28439,6 +28446,7 @@
                 "left": 4
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "layout": "vertical",
               "gap": 12,
               "padding": [
@@ -28537,6 +28545,7 @@
                 "bottom": 2
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "children": [
                 {
                   "type": "frame",
@@ -28565,6 +28574,7 @@
                     "bottom": 2
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     12,
@@ -28765,7 +28775,8 @@
               "strokeWidth": {
                 "bottom": 2
               },
-              "strokeAlignment": "inner"
+              "strokeAlignment": "inner",
+              "strokeLinejoin": "round"
             },
             {
               "type": "frame",
@@ -29133,26 +29144,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "ZtegU",
+                  "id": "E6YMT",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "LCBmD",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -29299,6 +29300,7 @@
                 "left": 1
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "gap": 10,
               "padding": [
                 0,
@@ -29457,6 +29459,7 @@
                 "left": 4
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "layout": "vertical",
               "gap": 12,
               "padding": [
@@ -29584,6 +29587,7 @@
                 "bottom": 2
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "children": [
                 {
                   "type": "frame",
@@ -29612,6 +29616,7 @@
                     "bottom": 2
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     12,
@@ -29783,7 +29788,8 @@
               "strokeWidth": {
                 "bottom": 2
               },
-              "strokeAlignment": "inner"
+              "strokeAlignment": "inner",
+              "strokeLinejoin": "round"
             },
             {
               "type": "frame",
@@ -30954,26 +30960,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "wLm0N",
+                  "id": "heHmM",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "lglU8",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -31120,6 +31116,7 @@
                 "left": 1
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "gap": 10,
               "padding": [
                 0,
@@ -31281,6 +31278,7 @@
                 "left": 4
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "gap": 12,
               "padding": [
                 14,
@@ -31335,6 +31333,7 @@
                 "bottom": 2
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "children": [
                 {
                   "type": "frame",
@@ -31344,6 +31343,7 @@
                     "bottom": 2
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "padding": [
                     12,
                     20
@@ -31746,6 +31746,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -31800,6 +31801,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -31857,6 +31859,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -31914,6 +31917,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -31971,6 +31975,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -32028,6 +32033,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -32177,6 +32183,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -32219,6 +32226,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -32305,6 +32313,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -32344,6 +32353,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -33263,6 +33273,7 @@
                         "top": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "layout": "vertical",
                       "gap": 8,
                       "padding": [
@@ -33934,6 +33945,7 @@
                         "top": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "layout": "vertical",
                       "gap": 8,
                       "padding": [
@@ -34875,6 +34887,7 @@
                         "top": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "layout": "vertical",
                       "gap": 8,
                       "padding": [
@@ -36364,7 +36377,8 @@
                                   "content": "Cerrar chat",
                                   "textAlign": "center",
                                   "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 12
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             }
@@ -37239,7 +37253,8 @@
                                   "content": "Cerrar chat",
                                   "textAlign": "center",
                                   "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 12
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             }
@@ -37911,7 +37926,8 @@
                               "content": "Cerrar chat",
                               "textAlign": "center",
                               "fontFamily": "IBM Plex Sans",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -38782,7 +38798,8 @@
                                   "content": "Cerrar chat",
                                   "textAlign": "center",
                                   "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 12
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             }
@@ -39446,7 +39463,8 @@
                               "content": "Cerrar chat",
                               "textAlign": "center",
                               "fontFamily": "IBM Plex Sans",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -40082,7 +40100,8 @@
                                           "fill": "$color-primary",
                                           "content": "Sí, gracias",
                                           "fontFamily": "IBM Plex Sans",
-                                          "fontSize": 12
+                                          "fontSize": 12,
+                                          "fontWeight": "normal"
                                         }
                                       ]
                                     },
@@ -41649,6 +41668,7 @@
                         "top": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "layout": "vertical",
                       "gap": 8,
                       "padding": [
@@ -42396,6 +42416,7 @@
                         "top": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "layout": "vertical",
                       "gap": 8,
                       "padding": [
@@ -45566,7 +45587,8 @@
                                   "content": "Cerrar chat",
                                   "textAlign": "center",
                                   "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 12
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             }
@@ -46638,7 +46660,8 @@
                               "content": "Cerrar chat",
                               "textAlign": "center",
                               "fontFamily": "IBM Plex Sans",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -47018,7 +47041,8 @@
                                           "fill": "$color-primary",
                                           "content": "Crear un ticket",
                                           "fontFamily": "IBM Plex Sans",
-                                          "fontSize": 12
+                                          "fontSize": 12,
+                                          "fontWeight": "normal"
                                         }
                                       ]
                                     }
@@ -47237,6 +47261,7 @@
                         "top": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "layout": "vertical",
                       "gap": 8,
                       "padding": [
@@ -47610,7 +47635,8 @@
                                           "fill": "$color-primary",
                                           "content": "Crear un ticket",
                                           "fontFamily": "IBM Plex Sans",
-                                          "fontSize": 12
+                                          "fontSize": 12,
+                                          "fontWeight": "normal"
                                         }
                                       ]
                                     }
@@ -48132,7 +48158,8 @@
                                           "fill": "$color-primary",
                                           "content": "Crear un ticket",
                                           "fontFamily": "IBM Plex Sans",
-                                          "fontSize": 12
+                                          "fontSize": 12,
+                                          "fontWeight": "normal"
                                         }
                                       ]
                                     }
@@ -48757,7 +48784,8 @@
                                           "fill": "$color-primary",
                                           "content": "Crear un ticket",
                                           "fontFamily": "IBM Plex Sans",
-                                          "fontSize": 12
+                                          "fontSize": 12,
+                                          "fontWeight": "normal"
                                         }
                                       ]
                                     }
@@ -49359,7 +49387,8 @@
                                   "content": "Cerrar chat",
                                   "textAlign": "center",
                                   "fontFamily": "IBM Plex Sans",
-                                  "fontSize": 12
+                                  "fontSize": 12,
+                                  "fontWeight": "normal"
                                 }
                               ]
                             }
@@ -49647,7 +49676,8 @@
                                           "fill": "$color-primary",
                                           "content": "Crear un ticket",
                                           "fontFamily": "IBM Plex Sans",
-                                          "fontSize": 12
+                                          "fontSize": 12,
+                                          "fontWeight": "normal"
                                         }
                                       ]
                                     }
@@ -50083,7 +50113,8 @@
                               "content": "Cerrar chat",
                               "textAlign": "center",
                               "fontFamily": "IBM Plex Sans",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         }
@@ -50463,7 +50494,8 @@
                                           "fill": "$color-primary",
                                           "content": "Crear un ticket",
                                           "fontFamily": "IBM Plex Sans",
-                                          "fontSize": 12
+                                          "fontSize": 12,
+                                          "fontWeight": "normal"
                                         }
                                       ]
                                     }
@@ -50495,7 +50527,8 @@
                                           "fill": "$color-primary",
                                           "content": "Seguimiento a ticket",
                                           "fontFamily": "IBM Plex Sans",
-                                          "fontSize": 12
+                                          "fontSize": 12,
+                                          "fontWeight": "normal"
                                         }
                                       ]
                                     },
@@ -50926,7 +50959,8 @@
                                           "fill": "$color-primary",
                                           "content": "Crear un ticket",
                                           "fontFamily": "IBM Plex Sans",
-                                          "fontSize": 12
+                                          "fontSize": 12,
+                                          "fontWeight": "normal"
                                         }
                                       ]
                                     }
@@ -50958,7 +50992,8 @@
                                           "fill": "$color-primary",
                                           "content": "Seguimiento a ticket",
                                           "fontFamily": "IBM Plex Sans",
-                                          "fontSize": 12
+                                          "fontSize": 12,
+                                          "fontWeight": "normal"
                                         }
                                       ]
                                     },
@@ -51602,6 +51637,7 @@
                     "top": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "layout": "vertical",
                   "gap": 8,
                   "padding": [
@@ -52633,6 +52669,7 @@
                     "top": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "layout": "vertical",
                   "gap": 8,
                   "padding": [
@@ -54257,6 +54294,7 @@
                         "top": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "layout": "vertical",
                       "gap": 8,
                       "padding": [
@@ -59290,26 +59328,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "sXF9f",
+                  "id": "O0Ow6C",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "T8Csx9",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -59456,6 +59484,7 @@
                 "left": 1
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "gap": 10,
               "padding": [
                 0,
@@ -59614,6 +59643,7 @@
                 "left": 4
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "layout": "vertical",
               "gap": 12,
               "padding": [
@@ -59741,6 +59771,7 @@
                 "bottom": 2
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "children": [
                 {
                   "type": "frame",
@@ -59750,6 +59781,7 @@
                     "bottom": 2
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "padding": [
                     12,
                     20
@@ -60152,6 +60184,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -60206,6 +60239,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -60263,6 +60297,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -60320,6 +60355,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -60377,6 +60413,7 @@
                             "left": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -60526,6 +60563,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -60568,6 +60606,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -60654,6 +60693,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -60693,6 +60733,7 @@
                             "bottom": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             12,
@@ -60838,7 +60879,7 @@
                     },
                     "colors": [
                       {
-                        "color": "#00509D",
+                        "color": "#1075FF",
                         "position": 0
                       },
                       {
@@ -61577,26 +61618,16 @@
                       "children": [
                         {
                           "type": "rectangle",
-                          "id": "N2W78b",
+                          "id": "PvKL5",
+                          "name": "Logo CCE",
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "LOGO%20CCE%20-%20copia.png",
+                            "url": "CCE%20Logo%20Blanco.png",
                             "mode": "fill"
                           },
-                          "width": 50,
+                          "width": 266,
                           "height": 45
-                        },
-                        {
-                          "type": "text",
-                          "id": "pIiBk",
-                          "fill": "$color-white",
-                          "textGrowth": "fixed-width",
-                          "width": 172,
-                          "content": "Cámara de \nCompensación Electrónica",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 14,
-                          "fontWeight": "500"
                         }
                       ]
                     },
@@ -61615,6 +61646,7 @@
                         "left": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 10,
                       "padding": [
                         10,
@@ -61667,6 +61699,7 @@
                         "left": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 10,
                       "padding": [
                         0,
@@ -62314,26 +62347,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "h2iBeF",
+                  "id": "KOjiS",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "bRVit",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -62457,6 +62480,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -64019,26 +64043,16 @@
                       "children": [
                         {
                           "type": "rectangle",
-                          "id": "U4ZxLx",
+                          "id": "AUQAY",
+                          "name": "Logo CCE",
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "LOGO%20CCE%20-%20copia.png",
+                            "url": "CCE%20Logo%20Blanco.png",
                             "mode": "fill"
                           },
-                          "width": 40,
+                          "width": 207,
                           "height": 35
-                        },
-                        {
-                          "type": "text",
-                          "id": "QKXwl",
-                          "fill": "$color-white",
-                          "textGrowth": "fixed-width",
-                          "width": 172,
-                          "content": "Cámara de \nCompensación Electrónica",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 11,
-                          "fontWeight": "500"
                         }
                       ]
                     },
@@ -65235,26 +65249,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "CSIcv",
+                  "id": "cJg5S",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "dIHi4",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -65433,6 +65437,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -65896,6 +65901,7 @@
                         "left": 3
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         6,
                         10
@@ -66079,6 +66085,7 @@
                         "left": 3
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "layout": "vertical",
                       "gap": 8,
                       "padding": 16,
@@ -66324,6 +66331,7 @@
                         "left": 3
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 12,
                       "padding": 16,
                       "children": [
@@ -66387,6 +66395,7 @@
                         "left": 3
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 12,
                       "padding": 16,
                       "children": [
@@ -66902,26 +66911,16 @@
                       "children": [
                         {
                           "type": "rectangle",
-                          "id": "UK1Py",
+                          "id": "kVVmc",
+                          "name": "Logo CCE",
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "LOGO%20CCE%20-%20copia.png",
+                            "url": "CCE%20Logo%20Blanco.png",
                             "mode": "fill"
                           },
-                          "width": 40,
+                          "width": 207,
                           "height": 35
-                        },
-                        {
-                          "type": "text",
-                          "id": "l0EaVO",
-                          "fill": "$color-white",
-                          "textGrowth": "fixed-width",
-                          "width": 172,
-                          "content": "Cámara de \nCompensación Electrónica",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 11,
-                          "fontWeight": "500"
                         }
                       ]
                     },
@@ -67278,6 +67277,7 @@
                             "top": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 12,
                           "padding": [
                             6,
@@ -67332,6 +67332,7 @@
                             "top": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 12,
                           "padding": [
                             6,
@@ -67386,6 +67387,7 @@
                             "top": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 12,
                           "padding": [
                             6,
@@ -67440,6 +67442,7 @@
                             "top": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 12,
                           "padding": [
                             6,
@@ -67494,6 +67497,7 @@
                             "top": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 12,
                           "padding": [
                             6,
@@ -67548,6 +67552,7 @@
                             "top": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 12,
                           "padding": [
                             6,
@@ -67602,6 +67607,7 @@
                             "top": 1
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 12,
                           "padding": [
                             6,
@@ -68104,26 +68110,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "dtY3V",
+                  "id": "bOctT",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "zmEeY",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -68302,6 +68298,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -68662,6 +68659,7 @@
                 "left": 3
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "gap": 12,
               "padding": 16,
               "children": [
@@ -68733,6 +68731,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 12,
                   "padding": [
                     12,
@@ -70603,26 +70602,16 @@
                       "children": [
                         {
                           "type": "rectangle",
-                          "id": "wkb3M",
+                          "id": "ipseW",
+                          "name": "Logo CCE",
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "LOGO%20CCE%20-%20copia.png",
+                            "url": "CCE%20Logo%20Blanco.png",
                             "mode": "fill"
                           },
-                          "width": 40,
+                          "width": 207,
                           "height": 35
-                        },
-                        {
-                          "type": "text",
-                          "id": "V2Nwr3",
-                          "fill": "$color-white",
-                          "textGrowth": "fixed-width",
-                          "width": 172,
-                          "content": "Cámara de \nCompensación Electrónica",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 11,
-                          "fontWeight": "500"
                         }
                       ]
                     },
@@ -71038,6 +71027,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 8,
                       "padding": [
                         10,
@@ -71864,26 +71854,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "QpUO8",
+                  "id": "L2ewE",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "e6k3kx",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -71988,6 +71968,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -72250,6 +72231,7 @@
                         "left": 3
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "layout": "vertical",
                       "children": [
                         {
@@ -72374,6 +72356,7 @@
                         "left": 3
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "layout": "vertical",
                       "children": [
                         {
@@ -72932,6 +72915,7 @@
                         "left": 3
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         6,
                         10
@@ -73482,26 +73466,16 @@
                       "children": [
                         {
                           "type": "rectangle",
-                          "id": "nyc7t",
+                          "id": "z3G6p",
+                          "name": "Logo CCE",
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "LOGO%20CCE%20-%20copia.png",
+                            "url": "CCE%20Logo%20Blanco.png",
                             "mode": "fill"
                           },
-                          "width": 40,
+                          "width": 207,
                           "height": 35
-                        },
-                        {
-                          "type": "text",
-                          "id": "Y308k",
-                          "fill": "$color-white",
-                          "textGrowth": "fixed-width",
-                          "width": 172,
-                          "content": "Cámara de \nCompensación Electrónica",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 11,
-                          "fontWeight": "500"
                         }
                       ]
                     },
@@ -74325,26 +74299,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "nb44y",
+                  "id": "fqahV",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "dXDBm",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -74449,6 +74413,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -74684,6 +74649,7 @@
                         "left": 3
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 12,
                       "padding": 16,
                       "alignItems": "center",
@@ -74992,6 +74958,7 @@
                                     "left": 3
                                   },
                                   "strokeAlignment": "inner",
+                                  "strokeLinejoin": "round",
                                   "gap": 10,
                                   "padding": 14,
                                   "alignItems": "center",
@@ -75327,6 +75294,7 @@
                                     "left": 3
                                   },
                                   "strokeAlignment": "inner",
+                                  "strokeLinejoin": "round",
                                   "gap": 10,
                                   "padding": 14,
                                   "children": [
@@ -75373,6 +75341,7 @@
                         "left": 3
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 14,
                       "padding": 20,
                       "alignItems": "center",
@@ -75496,6 +75465,7 @@
                         "left": 3
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         6,
                         10
@@ -75961,26 +75931,16 @@
                       "children": [
                         {
                           "type": "rectangle",
-                          "id": "Z0pE3p",
+                          "id": "xfD8G",
+                          "name": "Logo CCE",
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "LOGO%20CCE%20-%20copia.png",
+                            "url": "CCE%20Logo%20Blanco.png",
                             "mode": "fill"
                           },
-                          "width": 40,
+                          "width": 207,
                           "height": 35
-                        },
-                        {
-                          "type": "text",
-                          "id": "e52yG",
-                          "fill": "$color-white",
-                          "textGrowth": "fixed-width",
-                          "width": 172,
-                          "content": "Cámara de \nCompensación Electrónica",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 11,
-                          "fontWeight": "500"
                         }
                       ]
                     },
@@ -76800,26 +76760,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "t17ef",
+                  "id": "a9s0SO",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "Pfnlm",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -76998,6 +76948,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -77616,6 +77567,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "padding": [
                     0,
                     16
@@ -77777,6 +77729,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 12,
                   "padding": [
                     14,
@@ -77861,6 +77814,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 12,
                   "padding": [
                     14,
@@ -77945,6 +77899,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 12,
                   "padding": [
                     14,
@@ -78426,26 +78381,16 @@
                       "children": [
                         {
                           "type": "rectangle",
-                          "id": "y8OoF",
+                          "id": "xzgEd",
+                          "name": "Logo CCE",
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "LOGO%20CCE%20-%20copia.png",
+                            "url": "CCE%20Logo%20Blanco.png",
                             "mode": "fill"
                           },
-                          "width": 40,
+                          "width": 207,
                           "height": 35
-                        },
-                        {
-                          "type": "text",
-                          "id": "eX82c",
-                          "fill": "$color-white",
-                          "textGrowth": "fixed-width",
-                          "width": 172,
-                          "content": "Cámara de \nCompensación Electrónica",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 11,
-                          "fontWeight": "500"
                         }
                       ]
                     },
@@ -78684,6 +78629,7 @@
                     "left": 3
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": 14,
                   "children": [
@@ -78882,6 +78828,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         0,
                         14
@@ -79215,6 +79162,7 @@
         "left": 1
       },
       "strokeAlignment": "inner",
+      "strokeLinejoin": "round",
       "gap": 10,
       "padding": [
         0,
@@ -79285,26 +79233,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "R17H43",
+                  "id": "Tjguu",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "prntv",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -79428,6 +79366,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -79832,26 +79771,16 @@
                       "children": [
                         {
                           "type": "rectangle",
-                          "id": "jAwuh",
+                          "id": "RRL3Z",
+                          "name": "Logo CCE",
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "LOGO%20CCE%20-%20copia.png",
+                            "url": "CCE%20Logo%20Blanco.png",
                             "mode": "fill"
                           },
-                          "width": 40,
+                          "width": 207,
                           "height": 35
-                        },
-                        {
-                          "type": "text",
-                          "id": "t9qtFZ",
-                          "fill": "$color-white",
-                          "textGrowth": "fixed-width",
-                          "width": 172,
-                          "content": "Cámara de \nCompensación Electrónica",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 11,
-                          "fontWeight": "500"
                         }
                       ]
                     },
@@ -80039,26 +79968,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "nnpVO",
+                  "id": "oYJGT",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "BqmDQ",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -80163,6 +80082,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -81468,6 +81388,7 @@
                             "left": 3
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "gap": 8,
                           "padding": [
                             10,
@@ -81792,26 +81713,16 @@
                       "children": [
                         {
                           "type": "rectangle",
-                          "id": "x7lsnd",
+                          "id": "XR3HF",
+                          "name": "Logo CCE",
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "LOGO%20CCE%20-%20copia.png",
+                            "url": "CCE%20Logo%20Blanco.png",
                             "mode": "fill"
                           },
-                          "width": 40,
+                          "width": 207,
                           "height": 35
-                        },
-                        {
-                          "type": "text",
-                          "id": "ZTgH0",
-                          "fill": "$color-white",
-                          "textGrowth": "fixed-width",
-                          "width": 172,
-                          "content": "Cámara de \nCompensación Electrónica",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 11,
-                          "fontWeight": "500"
                         }
                       ]
                     },
@@ -82000,26 +81911,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "ir7yn",
+                  "id": "l7GfK",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "cSMXq",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -82124,6 +82025,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -82589,6 +82491,7 @@
             "top": 2
           },
           "strokeAlignment": "inner",
+          "strokeLinejoin": "round",
           "layout": "vertical",
           "gap": 28,
           "padding": [
@@ -83627,26 +83530,16 @@
                       "children": [
                         {
                           "type": "rectangle",
-                          "id": "FOBxr",
+                          "id": "W7JBMr",
+                          "name": "Logo CCE",
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "LOGO%20CCE%20-%20copia.png",
+                            "url": "CCE%20Logo%20Blanco.png",
                             "mode": "fill"
                           },
-                          "width": 40,
+                          "width": 207,
                           "height": 35
-                        },
-                        {
-                          "type": "text",
-                          "id": "V7dgs9",
-                          "fill": "$color-white",
-                          "textGrowth": "fixed-width",
-                          "width": 172,
-                          "content": "Cámara de \nCompensación Electrónica",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 11,
-                          "fontWeight": "500"
                         }
                       ]
                     },
@@ -83837,26 +83730,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "ydJJU",
+                  "id": "vQbDA",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "yWs8C",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -84003,6 +83886,7 @@
                 "left": 1
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "gap": 10,
               "padding": [
                 0,
@@ -84197,7 +84081,8 @@
                   "strokeWidth": {
                     "bottom": 2
                   },
-                  "strokeAlignment": "inner"
+                  "strokeAlignment": "inner",
+                  "strokeLinejoin": "round"
                 },
                 {
                   "type": "frame",
@@ -84264,6 +84149,7 @@
                 "left": 4
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "gap": 12,
               "padding": [
                 14,
@@ -84318,6 +84204,7 @@
                 "bottom": 2
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "children": [
                 {
                   "type": "frame",
@@ -84346,6 +84233,7 @@
                     "bottom": 2
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     12,
@@ -84546,7 +84434,8 @@
               "strokeWidth": {
                 "bottom": 2
               },
-              "strokeAlignment": "inner"
+              "strokeAlignment": "inner",
+              "strokeLinejoin": "round"
             },
             {
               "type": "frame",
@@ -84684,12 +84573,6 @@
           "clip": true,
           "width": "fill_container",
           "fill": "$color-primary-dark",
-          "cornerRadius": [
-            0,
-            0,
-            10,
-            10
-          ],
           "gap": 4,
           "padding": [
             10,
@@ -84709,26 +84592,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "lwRwJ",
+                  "id": "MUIBn",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "Hkxrt",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -84790,6 +84663,7 @@
                 "left": 1
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "gap": 10,
               "padding": [
                 0,
@@ -84836,7 +84710,7 @@
             },
             "colors": [
               {
-                "color": "#00509D",
+                "color": "#1075FF",
                 "position": 0
               },
               {
@@ -85471,7 +85345,7 @@
                         "position": 1
                       },
                       {
-                        "color": "#00509d",
+                        "color": "#1075FF",
                         "position": 0
                       }
                     ]
@@ -86243,7 +86117,7 @@
             },
             "colors": [
               {
-                "color": "#00509D",
+                "color": "#1075FF",
                 "position": 0
               },
               {
@@ -86390,26 +86264,16 @@
                       "children": [
                         {
                           "type": "rectangle",
-                          "id": "Lunkb",
+                          "id": "Pgw8O",
+                          "name": "Logo CCE",
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "LOGO%20CCE%20-%20copia.png",
+                            "url": "CCE%20Logo%20Blanco.png",
                             "mode": "fill"
                           },
-                          "width": 40,
+                          "width": 207,
                           "height": 35
-                        },
-                        {
-                          "type": "text",
-                          "id": "PN7AB",
-                          "fill": "$color-white",
-                          "textGrowth": "fixed-width",
-                          "width": 172,
-                          "content": "Cámara de \nCompensación Electrónica",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 11,
-                          "fontWeight": "500"
                         }
                       ]
                     },
@@ -86597,26 +86461,16 @@
               "children": [
                 {
                   "type": "rectangle",
-                  "id": "luIjv",
+                  "id": "YMPU7",
+                  "name": "Logo CCE",
                   "fill": {
                     "type": "image",
                     "enabled": true,
-                    "url": "LOGO%20CCE%20-%20copia.png",
+                    "url": "CCE%20Logo%20Blanco.png",
                     "mode": "fill"
                   },
-                  "width": 50,
+                  "width": 266,
                   "height": 45
-                },
-                {
-                  "type": "text",
-                  "id": "wnJA7",
-                  "fill": "$color-white",
-                  "textGrowth": "fixed-width",
-                  "width": 172,
-                  "content": "Cámara de \nCompensación Electrónica",
-                  "fontFamily": "IBM Plex Sans",
-                  "fontSize": 14,
-                  "fontWeight": "500"
                 }
               ]
             },
@@ -86795,6 +86649,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -86975,6 +86830,7 @@
                 "left": 3
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "effect": {
                 "type": "shadow",
                 "shadowType": "outer",
@@ -87142,6 +86998,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "padding": [
                     0,
                     16
@@ -87606,26 +87463,16 @@
                       "children": [
                         {
                           "type": "rectangle",
-                          "id": "LLUC2",
+                          "id": "i2pUE",
+                          "name": "Logo CCE",
                           "fill": {
                             "type": "image",
                             "enabled": true,
-                            "url": "LOGO%20CCE%20-%20copia.png",
+                            "url": "CCE%20Logo%20Blanco.png",
                             "mode": "fill"
                           },
-                          "width": 40,
+                          "width": 207,
                           "height": 35
-                        },
-                        {
-                          "type": "text",
-                          "id": "kRIg0",
-                          "fill": "$color-white",
-                          "textGrowth": "fixed-width",
-                          "width": 172,
-                          "content": "Cámara de \nCompensación Electrónica",
-                          "fontFamily": "IBM Plex Sans",
-                          "fontSize": 11,
-                          "fontWeight": "500"
                         }
                       ]
                     },
@@ -87790,17 +87637,20 @@
           "y": 0,
           "descendants": {
             "fSJxd": {
-              "fill": "$color-primary",
+              "fill": [],
               "cornerRadius": 0,
-              "height": 45
+              "height": 45,
+              "stroke": "$color-white",
+              "strokeWidth": 1.5,
+              "strokeAlignment": "inner"
             },
             "w9VN7": {
               "fill": "$color-background"
             },
             "ly57J": {
-              "fill": "$color-background",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "600"
+              "fontWeight": "700"
             },
             "AFHAB": {
               "cornerRadius": 0,
@@ -87814,9 +87664,9 @@
               "fill": "#8bafd4"
             },
             "gQlUH": {
-              "fill": "#8bafd4",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "400"
+              "fontWeight": "normal"
             },
             "GOEuM": {
               "height": 45,
@@ -89337,17 +89187,20 @@
           "y": 0,
           "descendants": {
             "fSJxd": {
-              "fill": "$color-primary",
+              "fill": [],
               "cornerRadius": 0,
-              "height": 45
+              "height": 45,
+              "stroke": "$color-white",
+              "strokeWidth": 1.5,
+              "strokeAlignment": "inner"
             },
             "w9VN7": {
               "fill": "$color-background"
             },
             "ly57J": {
-              "fill": "$color-background",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "600"
+              "fontWeight": "700"
             },
             "AFHAB": {
               "cornerRadius": 0,
@@ -89361,9 +89214,9 @@
               "fill": "#8bafd4"
             },
             "gQlUH": {
-              "fill": "#8bafd4",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "400"
+              "fontWeight": "normal"
             },
             "GOEuM": {
               "height": 45,
@@ -91193,6 +91046,7 @@
                         "top": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "layout": "vertical",
                       "gap": 8,
                       "padding": [
@@ -91321,9 +91175,9 @@
               "fill": "#8bafd4"
             },
             "ly57J": {
-              "fill": "#8bafd4",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "400"
+              "fontWeight": "normal"
             },
             "AFHAB": {
               "cornerRadius": 0,
@@ -91337,24 +91191,27 @@
               "fill": "#8bafd4"
             },
             "gQlUH": {
-              "fill": "#8bafd4",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "400"
+              "fontWeight": "normal"
             },
             "GOEuM": {
               "height": 45,
-              "fill": "$color-primary",
+              "fill": [],
               "cornerRadius": 0,
-              "x": 545,
-              "y": 9.5
+              "x": 540,
+              "y": 9.5,
+              "stroke": "$color-white",
+              "strokeWidth": 1.5,
+              "strokeAlignment": "inner"
             },
             "L4msDM": {
               "fill": "$color-background"
             },
             "a7pksm": {
-              "fill": "$color-background",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "600"
+              "fontWeight": "700"
             },
             "fQTwV": {
               "fill": "$color-background"
@@ -91965,6 +91822,7 @@
                     "left": 4
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "layout": "vertical",
                   "gap": 6,
                   "padding": [
@@ -92057,6 +91915,7 @@
                     "left": 4
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "layout": "vertical",
                   "gap": 6,
                   "padding": [
@@ -92149,6 +92008,7 @@
                     "left": 4
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "layout": "vertical",
                   "gap": 6,
                   "padding": [
@@ -92241,6 +92101,7 @@
                     "left": 4
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "layout": "vertical",
                   "gap": 6,
                   "padding": [
@@ -92752,6 +92613,7 @@
                           "strokeWidth": {
                             "top": 1
                           },
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             8,
@@ -92854,6 +92716,7 @@
                           "strokeWidth": {
                             "top": 1
                           },
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             8,
@@ -92956,6 +92819,7 @@
                           "strokeWidth": {
                             "top": 1
                           },
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             8,
@@ -93058,6 +92922,7 @@
                           "strokeWidth": {
                             "top": 1
                           },
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             8,
@@ -93160,6 +93025,7 @@
                           "strokeWidth": {
                             "top": 1
                           },
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             8,
@@ -93286,6 +93152,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": 20,
                   "children": [
@@ -93350,6 +93217,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -93440,6 +93308,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -93552,6 +93421,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -93664,6 +93534,7 @@
                     "top": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "padding": [
                     12,
                     20
@@ -93829,9 +93700,9 @@
               "fill": "#8bafd4"
             },
             "ly57J": {
-              "fill": "#8bafd4",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "400"
+              "fontWeight": "normal"
             },
             "AFHAB": {
               "cornerRadius": 0,
@@ -93845,22 +93716,25 @@
               "fill": "#8bafd4"
             },
             "gQlUH": {
-              "fill": "#8bafd4",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "400"
+              "fontWeight": "normal"
             },
             "GOEuM": {
               "height": 45,
-              "fill": "$color-primary",
-              "cornerRadius": 0
+              "fill": [],
+              "cornerRadius": 0,
+              "stroke": "$color-white",
+              "strokeWidth": 1.5,
+              "strokeAlignment": "inner"
             },
             "L4msDM": {
               "fill": "$color-background"
             },
             "a7pksm": {
-              "fill": "$color-background",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "600"
+              "fontWeight": "700"
             },
             "fQTwV": {
               "fill": "$color-background"
@@ -94465,6 +94339,7 @@
                     "left": 4
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "layout": "vertical",
                   "gap": 6,
                   "padding": [
@@ -94557,6 +94432,7 @@
                     "left": 4
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "layout": "vertical",
                   "gap": 6,
                   "padding": [
@@ -94649,6 +94525,7 @@
                     "left": 4
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "layout": "vertical",
                   "gap": 6,
                   "padding": [
@@ -94731,6 +94608,7 @@
                     "left": 4
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "layout": "vertical",
                   "gap": 6,
                   "padding": [
@@ -94877,6 +94755,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 20,
                       "alignItems": "end",
                       "children": [
@@ -95409,6 +95288,7 @@
                           "strokeWidth": {
                             "top": 1
                           },
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             8,
@@ -95490,6 +95370,7 @@
                           "strokeWidth": {
                             "top": 1
                           },
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             8,
@@ -95571,6 +95452,7 @@
                           "strokeWidth": {
                             "top": 1
                           },
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             8,
@@ -95652,6 +95534,7 @@
                           "strokeWidth": {
                             "top": 1
                           },
+                          "strokeLinejoin": "round",
                           "gap": 10,
                           "padding": [
                             8,
@@ -95795,9 +95678,9 @@
               "fill": "#8bafd4"
             },
             "ly57J": {
-              "fill": "#8bafd4",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "400"
+              "fontWeight": "normal"
             },
             "AFHAB": {
               "cornerRadius": 0,
@@ -95811,22 +95694,25 @@
               "fill": "#8bafd4"
             },
             "gQlUH": {
-              "fill": "#8bafd4",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "400"
+              "fontWeight": "normal"
             },
             "GOEuM": {
               "height": 45,
-              "fill": "$color-primary",
-              "cornerRadius": 0
+              "fill": [],
+              "cornerRadius": 0,
+              "stroke": "$color-white",
+              "strokeWidth": 1.5,
+              "strokeAlignment": "inner"
             },
             "L4msDM": {
               "fill": "$color-background"
             },
             "a7pksm": {
-              "fill": "$color-background",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "600"
+              "fontWeight": "700"
             },
             "fQTwV": {
               "fill": "$color-background"
@@ -96424,6 +96310,7 @@
                     "left": 4
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "layout": "vertical",
                   "gap": 6,
                   "padding": [
@@ -96496,6 +96383,7 @@
                     "left": 4
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "layout": "vertical",
                   "gap": 6,
                   "padding": [
@@ -96568,6 +96456,7 @@
                     "left": 4
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "layout": "vertical",
                   "gap": 6,
                   "padding": [
@@ -97009,6 +96898,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": 20,
                   "children": [
@@ -97054,6 +96944,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -97132,6 +97023,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -97233,6 +97125,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -97334,6 +97227,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -97435,6 +97329,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -97536,6 +97431,7 @@
                     "top": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "padding": [
                     12,
                     20
@@ -97996,9 +97892,9 @@
               "fill": "#8bafd4"
             },
             "ly57J": {
-              "fill": "#8bafd4",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "400"
+              "fontWeight": "normal"
             },
             "AFHAB": {
               "cornerRadius": 0,
@@ -98012,9 +97908,9 @@
               "fill": "#8bafd4"
             },
             "gQlUH": {
-              "fill": "#8bafd4",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "400"
+              "fontWeight": "normal"
             },
             "GOEuM": {
               "height": 45,
@@ -98025,9 +97921,9 @@
               "fill": "#8bafd4"
             },
             "a7pksm": {
-              "fill": "#8bafd4",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "400"
+              "fontWeight": "normal"
             },
             "fQTwV": {
               "fill": "#8bafd4"
@@ -98035,9 +97931,12 @@
             "zgoQI": {
               "cornerRadius": 0,
               "height": 45,
-              "fill": "$color-primary",
-              "x": 689,
-              "y": 9.5
+              "fill": [],
+              "x": 683,
+              "y": 9.5,
+              "stroke": "$color-white",
+              "strokeWidth": 1.5,
+              "strokeAlignment": "inner"
             },
             "Py4mS": {
               "fill": "$color-white"
@@ -98045,7 +97944,7 @@
             "x01vF": {
               "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "600"
+              "fontWeight": "700"
             },
             "VExE6": {
               "fill": "$color-white"
@@ -98700,6 +98599,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": 20,
                   "children": [
@@ -98745,6 +98645,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -98823,6 +98724,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -98954,6 +98856,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -99085,6 +98988,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -99216,6 +99120,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -99348,6 +99253,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -99480,6 +99386,7 @@
                     "top": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "padding": [
                     12,
                     20
@@ -99683,9 +99590,9 @@
               "fill": "#8bafd4"
             },
             "ly57J": {
-              "fill": "#8bafd4",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "400"
+              "fontWeight": "normal"
             },
             "AFHAB": {
               "cornerRadius": 0,
@@ -99699,9 +99606,9 @@
               "fill": "#8bafd4"
             },
             "gQlUH": {
-              "fill": "#8bafd4",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "400"
+              "fontWeight": "normal"
             },
             "GOEuM": {
               "height": 45,
@@ -99712,9 +99619,9 @@
               "fill": "#8bafd4"
             },
             "a7pksm": {
-              "fill": "#8bafd4",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "400"
+              "fontWeight": "normal"
             },
             "fQTwV": {
               "fill": "#8bafd4"
@@ -99722,9 +99629,12 @@
             "zgoQI": {
               "cornerRadius": 0,
               "height": 45,
-              "fill": "$color-primary",
-              "x": 689,
-              "y": 9.5
+              "fill": [],
+              "x": 683,
+              "y": 9.5,
+              "stroke": "$color-white",
+              "strokeWidth": 1.5,
+              "strokeAlignment": "inner"
             },
             "Py4mS": {
               "fill": "$color-white"
@@ -99732,7 +99642,7 @@
             "x01vF": {
               "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "600"
+              "fontWeight": "700"
             },
             "VExE6": {
               "fill": "$color-white"
@@ -100300,6 +100210,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": 20,
                   "children": [
@@ -100346,6 +100257,7 @@
                     "left": 3
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     12,
@@ -100411,6 +100323,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     10,
@@ -100468,6 +100381,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     0,
@@ -100551,6 +100465,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     0,
@@ -100634,6 +100549,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     0,
@@ -100717,6 +100633,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     0,
@@ -100800,6 +100717,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     0,
@@ -100883,6 +100801,7 @@
                     "bottom": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 5,
                   "padding": [
                     0,
@@ -100964,6 +100883,7 @@
                     "top": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "padding": [
                     12,
                     20
@@ -101167,9 +101087,9 @@
               "fill": "#8bafd4"
             },
             "ly57J": {
-              "fill": "#8bafd4",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "400"
+              "fontWeight": "normal"
             },
             "AFHAB": {
               "cornerRadius": 0,
@@ -101183,9 +101103,9 @@
               "fill": "#8bafd4"
             },
             "gQlUH": {
-              "fill": "#8bafd4",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "400"
+              "fontWeight": "normal"
             },
             "GOEuM": {
               "height": 45,
@@ -101196,9 +101116,9 @@
               "fill": "#8bafd4"
             },
             "a7pksm": {
-              "fill": "#8bafd4",
+              "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "400"
+              "fontWeight": "normal"
             },
             "fQTwV": {
               "fill": "#8bafd4"
@@ -101206,7 +101126,10 @@
             "zgoQI": {
               "cornerRadius": 0,
               "height": 45,
-              "fill": "$color-primary"
+              "fill": [],
+              "stroke": "$color-white",
+              "strokeWidth": 1.5,
+              "strokeAlignment": "inner"
             },
             "Py4mS": {
               "fill": "$color-white"
@@ -101214,7 +101137,7 @@
             "x01vF": {
               "fill": "$color-white",
               "fontStyle": "normal",
-              "fontWeight": "600"
+              "fontWeight": "700"
             },
             "VExE6": {
               "fill": "$color-white"
@@ -102419,26 +102342,16 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "NvRjA",
+                      "id": "eLWI4",
+                      "name": "Logo CCE",
                       "fill": {
                         "type": "image",
                         "enabled": true,
-                        "url": "LOGO%20CCE%20-%20copia.png",
+                        "url": "CCE%20Logo%20Blanco.png",
                         "mode": "fill"
                       },
-                      "width": 50,
+                      "width": 266,
                       "height": 45
-                    },
-                    {
-                      "type": "text",
-                      "id": "L00ll",
-                      "fill": "$color-white",
-                      "textGrowth": "fixed-width",
-                      "width": 172,
-                      "content": "Cámara de \nCompensación Electrónica",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 14,
-                      "fontWeight": "500"
                     }
                   ]
                 },
@@ -102500,6 +102413,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -102546,7 +102460,7 @@
                 },
                 "colors": [
                   {
-                    "color": "#00509D",
+                    "color": "#1075FF",
                     "position": 0
                   },
                   {
@@ -103181,7 +103095,7 @@
                             "position": 1
                           },
                           {
-                            "color": "#00509d",
+                            "color": "#1075FF",
                             "position": 0
                           }
                         ]
@@ -103953,7 +103867,7 @@
                 },
                 "colors": [
                   {
-                    "color": "#00509D",
+                    "color": "#1075FF",
                     "position": 0
                   },
                   {
@@ -104100,26 +104014,16 @@
                           "children": [
                             {
                               "type": "rectangle",
-                              "id": "y0Ttic",
+                              "id": "QbnYv",
+                              "name": "Logo CCE",
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
-                                "url": "LOGO%20CCE%20-%20copia.png",
+                                "url": "CCE%20Logo%20Blanco.png",
                                 "mode": "fill"
                               },
-                              "width": 40,
+                              "width": 207,
                               "height": 35
-                            },
-                            {
-                              "type": "text",
-                              "id": "r3Mr47",
-                              "fill": "$color-white",
-                              "textGrowth": "fixed-width",
-                              "width": 172,
-                              "content": "Cámara de \nCompensación Electrónica",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 11,
-                              "fontWeight": "500"
                             }
                           ]
                         },
@@ -104318,26 +104222,16 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "MAx4m",
+                      "id": "hx81M",
+                      "name": "Logo CCE",
                       "fill": {
                         "type": "image",
                         "enabled": true,
-                        "url": "LOGO%20CCE%20-%20copia.png",
+                        "url": "CCE%20Logo%20Blanco.png",
                         "mode": "fill"
                       },
-                      "width": 50,
+                      "width": 266,
                       "height": 45
-                    },
-                    {
-                      "type": "text",
-                      "id": "PgmOa",
-                      "fill": "$color-white",
-                      "textGrowth": "fixed-width",
-                      "width": 172,
-                      "content": "Cámara de \nCompensación Electrónica",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 14,
-                      "fontWeight": "500"
                     }
                   ]
                 },
@@ -104442,6 +104336,7 @@
                         "left": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 10,
                       "padding": [
                         0,
@@ -105747,6 +105642,7 @@
                                 "left": 3
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 8,
                               "padding": [
                                 10,
@@ -106071,26 +105967,16 @@
                           "children": [
                             {
                               "type": "rectangle",
-                              "id": "JN0x2",
+                              "id": "Siq5p",
+                              "name": "Logo CCE",
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
-                                "url": "LOGO%20CCE%20-%20copia.png",
+                                "url": "CCE%20Logo%20Blanco.png",
                                 "mode": "fill"
                               },
-                              "width": 40,
+                              "width": 207,
                               "height": 35
-                            },
-                            {
-                              "type": "text",
-                              "id": "B4pasA",
-                              "fill": "$color-white",
-                              "textGrowth": "fixed-width",
-                              "width": 172,
-                              "content": "Cámara de \nCompensación Electrónica",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 11,
-                              "fontWeight": "500"
                             }
                           ]
                         },
@@ -106316,26 +106202,16 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "SmDbt",
+                      "id": "JaUQf",
+                      "name": "Logo CCE",
                       "fill": {
                         "type": "image",
                         "enabled": true,
-                        "url": "LOGO%20CCE%20-%20copia.png",
+                        "url": "CCE%20Logo%20Blanco.png",
                         "mode": "fill"
                       },
-                      "width": 50,
+                      "width": 266,
                       "height": 45
-                    },
-                    {
-                      "type": "text",
-                      "id": "U8Cb1",
-                      "fill": "$color-white",
-                      "textGrowth": "fixed-width",
-                      "width": 172,
-                      "content": "Cámara de \nCompensación Electrónica",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 14,
-                      "fontWeight": "500"
                     }
                   ]
                 },
@@ -106397,6 +106273,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -106443,7 +106320,7 @@
                 },
                 "colors": [
                   {
-                    "color": "#00509D",
+                    "color": "#1075FF",
                     "position": 0
                   },
                   {
@@ -107078,7 +106955,7 @@
                             "position": 1
                           },
                           {
-                            "color": "#00509d",
+                            "color": "#1075FF",
                             "position": 0
                           }
                         ]
@@ -107850,7 +107727,7 @@
                 },
                 "colors": [
                   {
-                    "color": "#00509D",
+                    "color": "#1075FF",
                     "position": 0
                   },
                   {
@@ -107997,26 +107874,16 @@
                           "children": [
                             {
                               "type": "rectangle",
-                              "id": "dl8kp",
+                              "id": "p8LBXU",
+                              "name": "Logo CCE",
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
-                                "url": "LOGO%20CCE%20-%20copia.png",
+                                "url": "CCE%20Logo%20Blanco.png",
                                 "mode": "fill"
                               },
-                              "width": 40,
+                              "width": 207,
                               "height": 35
-                            },
-                            {
-                              "type": "text",
-                              "id": "uNimd",
-                              "fill": "$color-white",
-                              "textGrowth": "fixed-width",
-                              "width": 172,
-                              "content": "Cámara de \nCompensación Electrónica",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 11,
-                              "fontWeight": "500"
                             }
                           ]
                         },
@@ -108204,26 +108071,16 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "c4k7wZ",
+                      "id": "o0DZFS",
+                      "name": "Logo CCE",
                       "fill": {
                         "type": "image",
                         "enabled": true,
-                        "url": "LOGO%20CCE%20-%20copia.png",
+                        "url": "CCE%20Logo%20Blanco.png",
                         "mode": "fill"
                       },
-                      "width": 50,
+                      "width": 266,
                       "height": 45
-                    },
-                    {
-                      "type": "text",
-                      "id": "tntza",
-                      "fill": "$color-white",
-                      "textGrowth": "fixed-width",
-                      "width": 172,
-                      "content": "Cámara de \nCompensación Electrónica",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 14,
-                      "fontWeight": "500"
                     }
                   ]
                 },
@@ -108347,6 +108204,7 @@
                         "left": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 10,
                       "padding": [
                         0,
@@ -109909,26 +109767,16 @@
                           "children": [
                             {
                               "type": "rectangle",
-                              "id": "ajrW3",
+                              "id": "OGFDD",
+                              "name": "Logo CCE",
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
-                                "url": "LOGO%20CCE%20-%20copia.png",
+                                "url": "CCE%20Logo%20Blanco.png",
                                 "mode": "fill"
                               },
-                              "width": 40,
+                              "width": 207,
                               "height": 35
-                            },
-                            {
-                              "type": "text",
-                              "id": "r33Etv",
-                              "fill": "$color-white",
-                              "textGrowth": "fixed-width",
-                              "width": 172,
-                              "content": "Cámara de \nCompensación Electrónica",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 11,
-                              "fontWeight": "500"
                             }
                           ]
                         },
@@ -110546,26 +110394,16 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "w6TIB",
+                      "id": "Ypltt",
+                      "name": "Logo CCE",
                       "fill": {
                         "type": "image",
                         "enabled": true,
-                        "url": "LOGO%20CCE%20-%20copia.png",
+                        "url": "CCE%20Logo%20Blanco.png",
                         "mode": "fill"
                       },
-                      "width": 50,
+                      "width": 266,
                       "height": 45
-                    },
-                    {
-                      "type": "text",
-                      "id": "P4aG5f",
-                      "fill": "$color-white",
-                      "textGrowth": "fixed-width",
-                      "width": 172,
-                      "content": "Cámara de \nCompensación Electrónica",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 14,
-                      "fontWeight": "500"
                     }
                   ]
                 },
@@ -110670,6 +110508,7 @@
                         "left": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 10,
                       "padding": [
                         0,
@@ -111975,6 +111814,7 @@
                                 "left": 3
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 8,
                               "padding": [
                                 10,
@@ -112299,26 +112139,16 @@
                           "children": [
                             {
                               "type": "rectangle",
-                              "id": "nqvO1",
+                              "id": "MAmeA",
+                              "name": "Logo CCE",
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
-                                "url": "LOGO%20CCE%20-%20copia.png",
+                                "url": "CCE%20Logo%20Blanco.png",
                                 "mode": "fill"
                               },
-                              "width": 40,
+                              "width": 207,
                               "height": 35
-                            },
-                            {
-                              "type": "text",
-                              "id": "B1dQOd",
-                              "fill": "$color-white",
-                              "textGrowth": "fixed-width",
-                              "width": 172,
-                              "content": "Cámara de \nCompensación Electrónica",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 11,
-                              "fontWeight": "500"
                             }
                           ]
                         },
@@ -112506,26 +112336,16 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "PKNkT",
+                      "id": "dj6hS",
+                      "name": "Logo CCE",
                       "fill": {
                         "type": "image",
                         "enabled": true,
-                        "url": "LOGO%20CCE%20-%20copia.png",
+                        "url": "CCE%20Logo%20Blanco.png",
                         "mode": "fill"
                       },
-                      "width": 50,
+                      "width": 266,
                       "height": 45
-                    },
-                    {
-                      "type": "text",
-                      "id": "BT6QA",
-                      "fill": "$color-white",
-                      "textGrowth": "fixed-width",
-                      "width": 172,
-                      "content": "Cámara de \nCompensación Electrónica",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 14,
-                      "fontWeight": "500"
                     }
                   ]
                 },
@@ -112630,6 +112450,7 @@
                         "left": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 10,
                       "padding": [
                         0,
@@ -112892,6 +112713,7 @@
                             "left": 3
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "layout": "vertical",
                           "children": [
                             {
@@ -113016,6 +112838,7 @@
                             "left": 3
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "layout": "vertical",
                           "children": [
                             {
@@ -113574,6 +113397,7 @@
                             "left": 3
                           },
                           "strokeAlignment": "inner",
+                          "strokeLinejoin": "round",
                           "padding": [
                             6,
                             10
@@ -114124,26 +113948,16 @@
                           "children": [
                             {
                               "type": "rectangle",
-                              "id": "IAyoi",
+                              "id": "ZpqIz",
+                              "name": "Logo CCE",
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
-                                "url": "LOGO%20CCE%20-%20copia.png",
+                                "url": "CCE%20Logo%20Blanco.png",
                                 "mode": "fill"
                               },
-                              "width": 40,
+                              "width": 207,
                               "height": 35
-                            },
-                            {
-                              "type": "text",
-                              "id": "jdK1u",
-                              "fill": "$color-white",
-                              "textGrowth": "fixed-width",
-                              "width": 172,
-                              "content": "Cámara de \nCompensación Electrónica",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 11,
-                              "fontWeight": "500"
                             }
                           ]
                         },
@@ -114624,26 +114438,16 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "IoxfW",
+                      "id": "NG8nx",
+                      "name": "Logo CCE",
                       "fill": {
                         "type": "image",
                         "enabled": true,
-                        "url": "LOGO%20CCE%20-%20copia.png",
+                        "url": "CCE%20Logo%20Blanco.png",
                         "mode": "fill"
                       },
-                      "width": 50,
+                      "width": 266,
                       "height": 45
-                    },
-                    {
-                      "type": "text",
-                      "id": "d7Iy5",
-                      "fill": "$color-white",
-                      "textGrowth": "fixed-width",
-                      "width": 172,
-                      "content": "Cámara de \nCompensación Electrónica",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 14,
-                      "fontWeight": "500"
                     }
                   ]
                 },
@@ -114705,6 +114509,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -114751,7 +114556,7 @@
                 },
                 "colors": [
                   {
-                    "color": "#00509D",
+                    "color": "#1075FF",
                     "position": 0
                   },
                   {
@@ -115386,7 +115191,7 @@
                             "position": 1
                           },
                           {
-                            "color": "#00509d",
+                            "color": "#1075FF",
                             "position": 0
                           }
                         ]
@@ -116158,7 +115963,7 @@
                 },
                 "colors": [
                   {
-                    "color": "#00509D",
+                    "color": "#1075FF",
                     "position": 0
                   },
                   {
@@ -116305,26 +116110,16 @@
                           "children": [
                             {
                               "type": "rectangle",
-                              "id": "O21hHZ",
+                              "id": "sLo5K",
+                              "name": "Logo CCE",
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
-                                "url": "LOGO%20CCE%20-%20copia.png",
+                                "url": "CCE%20Logo%20Blanco.png",
                                 "mode": "fill"
                               },
-                              "width": 40,
+                              "width": 207,
                               "height": 35
-                            },
-                            {
-                              "type": "text",
-                              "id": "eEny0",
-                              "fill": "$color-white",
-                              "textGrowth": "fixed-width",
-                              "width": 172,
-                              "content": "Cámara de \nCompensación Electrónica",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 11,
-                              "fontWeight": "500"
                             }
                           ]
                         },
@@ -116705,6 +116500,7 @@
                 "top": 1
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "layout": "vertical",
               "gap": 8,
               "padding": [
@@ -117157,26 +116953,16 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "C9oFzB",
+                      "id": "NCHdI",
+                      "name": "Logo CCE",
                       "fill": {
                         "type": "image",
                         "enabled": true,
-                        "url": "LOGO%20CCE%20-%20copia.png",
+                        "url": "CCE%20Logo%20Blanco.png",
                         "mode": "fill"
                       },
-                      "width": 50,
+                      "width": 266,
                       "height": 45
-                    },
-                    {
-                      "type": "text",
-                      "id": "kBBdh",
-                      "fill": "$color-white",
-                      "textGrowth": "fixed-width",
-                      "width": 172,
-                      "content": "Cámara de \nCompensación Electrónica",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 14,
-                      "fontWeight": "500"
                     }
                   ]
                 },
@@ -117323,6 +117109,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -117707,6 +117494,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 5,
                       "padding": [
                         10,
@@ -117833,6 +117621,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 5,
                       "padding": [
                         10,
@@ -118039,6 +117828,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 5,
                       "padding": [
                         10,
@@ -118245,6 +118035,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 5,
                       "padding": [
                         10,
@@ -118451,6 +118242,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 5,
                       "padding": [
                         10,
@@ -118657,6 +118449,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 5,
                       "padding": [
                         10,
@@ -118863,6 +118656,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 5,
                       "padding": [
                         10,
@@ -119069,6 +118863,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 5,
                       "padding": [
                         10,
@@ -119275,6 +119070,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 5,
                       "padding": [
                         10,
@@ -119481,6 +119277,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 5,
                       "padding": [
                         10,
@@ -119687,6 +119484,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 5,
                       "padding": [
                         10,
@@ -119893,6 +119691,7 @@
                         "top": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         12,
                         20
@@ -122448,6 +122247,7 @@
                         "left": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 10,
                       "padding": [
                         12,
@@ -122509,6 +122309,7 @@
                         "left": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 10,
                       "padding": [
                         12,
@@ -123066,26 +122867,16 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "W5BWb4",
+                      "id": "qcGBG",
+                      "name": "Logo CCE",
                       "fill": {
                         "type": "image",
                         "enabled": true,
-                        "url": "LOGO%20CCE%20-%20copia.png",
+                        "url": "CCE%20Logo%20Blanco.png",
                         "mode": "fill"
                       },
-                      "width": 50,
+                      "width": 266,
                       "height": 45
-                    },
-                    {
-                      "type": "text",
-                      "id": "NNVqw",
-                      "fill": "$color-white",
-                      "textGrowth": "fixed-width",
-                      "width": 172,
-                      "content": "Cámara de \nCompensación Electrónica",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 14,
-                      "fontWeight": "500"
                     }
                   ]
                 },
@@ -123232,6 +123023,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -123616,6 +123408,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 5,
                       "padding": [
                         10,
@@ -123742,6 +123535,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 5,
                       "padding": [
                         10,
@@ -123948,6 +123742,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 5,
                       "padding": [
                         10,
@@ -124154,6 +123949,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 5,
                       "padding": [
                         10,
@@ -124360,6 +124156,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 5,
                       "padding": [
                         10,
@@ -124566,6 +124363,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 5,
                       "padding": [
                         10,
@@ -124785,6 +124583,7 @@
                         "top": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         12,
                         20
@@ -124932,26 +124731,16 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "iUtuq",
+                      "id": "uSBzF",
+                      "name": "Logo CCE",
                       "fill": {
                         "type": "image",
                         "enabled": true,
-                        "url": "LOGO%20CCE%20-%20copia.png",
+                        "url": "CCE%20Logo%20Blanco.png",
                         "mode": "fill"
                       },
-                      "width": 50,
+                      "width": 266,
                       "height": 45
-                    },
-                    {
-                      "type": "text",
-                      "id": "g6PXjU",
-                      "fill": "$color-white",
-                      "textGrowth": "fixed-width",
-                      "width": 172,
-                      "content": "Cámara de \nCompensación Electrónica",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 14,
-                      "fontWeight": "500"
                     }
                   ]
                 },
@@ -125098,6 +124887,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -125256,6 +125046,7 @@
                     "left": 4
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 12,
                   "padding": [
                     14,
@@ -125310,6 +125101,7 @@
                     "bottom": 2
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "children": [
                     {
                       "type": "frame",
@@ -125319,6 +125111,7 @@
                         "bottom": 2
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         12,
                         20
@@ -125709,6 +125502,7 @@
                                 "left": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -125763,6 +125557,7 @@
                                 "left": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -125820,6 +125615,7 @@
                                 "left": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -125877,6 +125673,7 @@
                                 "left": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -126020,6 +125817,7 @@
                                 "bottom": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -126062,6 +125860,7 @@
                                 "bottom": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -126148,6 +125947,7 @@
                                 "bottom": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -126187,6 +125987,7 @@
                                 "bottom": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -126777,26 +126578,16 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "CDe2n",
+                      "id": "h7JXDS",
+                      "name": "Logo CCE",
                       "fill": {
                         "type": "image",
                         "enabled": true,
-                        "url": "LOGO%20CCE%20-%20copia.png",
+                        "url": "CCE%20Logo%20Blanco.png",
                         "mode": "fill"
                       },
-                      "width": 50,
+                      "width": 266,
                       "height": 45
-                    },
-                    {
-                      "type": "text",
-                      "id": "f5Bxa",
-                      "fill": "$color-white",
-                      "textGrowth": "fixed-width",
-                      "width": 172,
-                      "content": "Cámara de \nCompensación Electrónica",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 14,
-                      "fontWeight": "500"
                     }
                   ]
                 },
@@ -126943,6 +126734,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -127101,6 +126893,7 @@
                     "left": 4
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "layout": "vertical",
                   "gap": 12,
                   "padding": [
@@ -127228,6 +127021,7 @@
                     "bottom": 2
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "children": [
                     {
                       "type": "frame",
@@ -127237,6 +127031,7 @@
                         "bottom": 2
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         12,
                         20
@@ -127639,6 +127434,7 @@
                                 "left": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -127693,6 +127489,7 @@
                                 "left": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -127750,6 +127547,7 @@
                                 "left": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -127807,6 +127605,7 @@
                                 "left": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -127864,6 +127663,7 @@
                                 "left": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -128013,6 +127813,7 @@
                                 "bottom": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -128055,6 +127856,7 @@
                                 "bottom": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -128141,6 +127943,7 @@
                                 "bottom": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -128180,6 +127983,7 @@
                                 "bottom": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -128802,26 +128606,16 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "bR3Tc",
+                      "id": "cmEjp",
+                      "name": "Logo CCE",
                       "fill": {
                         "type": "image",
                         "enabled": true,
-                        "url": "LOGO%20CCE%20-%20copia.png",
+                        "url": "CCE%20Logo%20Blanco.png",
                         "mode": "fill"
                       },
-                      "width": 50,
+                      "width": 266,
                       "height": 45
-                    },
-                    {
-                      "type": "text",
-                      "id": "j26gdj",
-                      "fill": "$color-white",
-                      "textGrowth": "fixed-width",
-                      "width": 172,
-                      "content": "Cámara de \nCompensación Electrónica",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 14,
-                      "fontWeight": "500"
                     }
                   ]
                 },
@@ -128968,6 +128762,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -129129,6 +128924,7 @@
                     "left": 4
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 12,
                   "padding": [
                     14,
@@ -129183,6 +128979,7 @@
                     "bottom": 2
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "children": [
                     {
                       "type": "frame",
@@ -129192,6 +128989,7 @@
                         "bottom": 2
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         12,
                         20
@@ -129594,6 +129392,7 @@
                                 "left": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -129648,6 +129447,7 @@
                                 "left": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -129705,6 +129505,7 @@
                                 "left": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -129762,6 +129563,7 @@
                                 "left": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -129819,6 +129621,7 @@
                                 "left": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -129876,6 +129679,7 @@
                                 "left": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -130025,6 +129829,7 @@
                                 "bottom": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -130067,6 +129872,7 @@
                                 "bottom": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -130153,6 +129959,7 @@
                                 "bottom": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -130192,6 +129999,7 @@
                                 "bottom": 1
                               },
                               "strokeAlignment": "inner",
+                              "strokeLinejoin": "round",
                               "gap": 10,
                               "padding": [
                                 12,
@@ -130706,26 +130514,16 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "qshkY",
+                      "id": "w20TIJ",
+                      "name": "Logo CCE",
                       "fill": {
                         "type": "image",
                         "enabled": true,
-                        "url": "LOGO%20CCE%20-%20copia.png",
+                        "url": "CCE%20Logo%20Blanco.png",
                         "mode": "fill"
                       },
-                      "width": 50,
+                      "width": 266,
                       "height": 45
-                    },
-                    {
-                      "type": "text",
-                      "id": "M0WCC",
-                      "fill": "$color-white",
-                      "textGrowth": "fixed-width",
-                      "width": 172,
-                      "content": "Cámara de \nCompensación Electrónica",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 14,
-                      "fontWeight": "500"
                     }
                   ]
                 },
@@ -130787,6 +130585,7 @@
                     "left": 1
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "gap": 10,
                   "padding": [
                     0,
@@ -130833,7 +130632,7 @@
                 },
                 "colors": [
                   {
-                    "color": "#00509D",
+                    "color": "#1075FF",
                     "position": 0
                   },
                   {
@@ -131468,7 +131267,7 @@
                             "position": 1
                           },
                           {
-                            "color": "#00509d",
+                            "color": "#1075FF",
                             "position": 0
                           }
                         ]
@@ -132240,7 +132039,7 @@
                 },
                 "colors": [
                   {
-                    "color": "#00509D",
+                    "color": "#1075FF",
                     "position": 0
                   },
                   {
@@ -132387,26 +132186,16 @@
                           "children": [
                             {
                               "type": "rectangle",
-                              "id": "w6BVeo",
+                              "id": "u5sGHw",
+                              "name": "Logo CCE",
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
-                                "url": "LOGO%20CCE%20-%20copia.png",
+                                "url": "CCE%20Logo%20Blanco.png",
                                 "mode": "fill"
                               },
-                              "width": 40,
+                              "width": 207,
                               "height": 35
-                            },
-                            {
-                              "type": "text",
-                              "id": "jg0yb",
-                              "fill": "$color-white",
-                              "textGrowth": "fixed-width",
-                              "width": 172,
-                              "content": "Cámara de \nCompensación Electrónica",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 11,
-                              "fontWeight": "500"
                             }
                           ]
                         },
@@ -132595,26 +132384,16 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "VnjnK",
+                      "id": "wBCBS",
+                      "name": "Logo CCE",
                       "fill": {
                         "type": "image",
                         "enabled": true,
-                        "url": "LOGO%20CCE%20-%20copia.png",
+                        "url": "CCE%20Logo%20Blanco.png",
                         "mode": "fill"
                       },
-                      "width": 50,
+                      "width": 266,
                       "height": 45
-                    },
-                    {
-                      "type": "text",
-                      "id": "wUsDH",
-                      "fill": "$color-white",
-                      "textGrowth": "fixed-width",
-                      "width": 172,
-                      "content": "Cámara de \nCompensación Electrónica",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 14,
-                      "fontWeight": "500"
                     }
                   ]
                 },
@@ -132719,6 +132498,7 @@
                         "left": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 10,
                       "padding": [
                         0,
@@ -133184,6 +132964,7 @@
                 "top": 2
               },
               "strokeAlignment": "inner",
+              "strokeLinejoin": "round",
               "layout": "vertical",
               "gap": 28,
               "padding": [
@@ -134222,26 +134003,16 @@
                           "children": [
                             {
                               "type": "rectangle",
-                              "id": "uM3dq",
+                              "id": "JzUuX",
+                              "name": "Logo CCE",
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
-                                "url": "LOGO%20CCE%20-%20copia.png",
+                                "url": "CCE%20Logo%20Blanco.png",
                                 "mode": "fill"
                               },
-                              "width": 40,
+                              "width": 207,
                               "height": 35
-                            },
-                            {
-                              "type": "text",
-                              "id": "adzfE",
-                              "fill": "$color-white",
-                              "textGrowth": "fixed-width",
-                              "width": 172,
-                              "content": "Cámara de \nCompensación Electrónica",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 11,
-                              "fontWeight": "500"
                             }
                           ]
                         },
@@ -134440,26 +134211,16 @@
                   "children": [
                     {
                       "type": "rectangle",
-                      "id": "x48YF0",
+                      "id": "r9t0M",
+                      "name": "Logo CCE",
                       "fill": {
                         "type": "image",
                         "enabled": true,
-                        "url": "LOGO%20CCE%20-%20copia.png",
+                        "url": "CCE%20Logo%20Blanco.png",
                         "mode": "fill"
                       },
-                      "width": 50,
+                      "width": 266,
                       "height": 45
-                    },
-                    {
-                      "type": "text",
-                      "id": "t03Rt",
-                      "fill": "$color-white",
-                      "textGrowth": "fixed-width",
-                      "width": 172,
-                      "content": "Cámara de \nCompensación Electrónica",
-                      "fontFamily": "IBM Plex Sans",
-                      "fontSize": 14,
-                      "fontWeight": "500"
                     }
                   ]
                 },
@@ -134638,6 +134399,7 @@
                         "left": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "gap": 10,
                       "padding": [
                         0,
@@ -134818,6 +134580,7 @@
                     "left": 3
                   },
                   "strokeAlignment": "inner",
+                  "strokeLinejoin": "round",
                   "effect": {
                     "type": "shadow",
                     "shadowType": "outer",
@@ -134985,6 +134748,7 @@
                         "bottom": 1
                       },
                       "strokeAlignment": "inner",
+                      "strokeLinejoin": "round",
                       "padding": [
                         0,
                         16
@@ -135449,26 +135213,16 @@
                           "children": [
                             {
                               "type": "rectangle",
-                              "id": "pLm6X",
+                              "id": "WQwHJ",
+                              "name": "Logo CCE",
                               "fill": {
                                 "type": "image",
                                 "enabled": true,
-                                "url": "LOGO%20CCE%20-%20copia.png",
+                                "url": "CCE%20Logo%20Blanco.png",
                                 "mode": "fill"
                               },
-                              "width": 40,
+                              "width": 207,
                               "height": 35
-                            },
-                            {
-                              "type": "text",
-                              "id": "UtQGp",
-                              "fill": "$color-white",
-                              "textGrowth": "fixed-width",
-                              "width": 172,
-                              "content": "Cámara de \nCompensación Electrónica",
-                              "fontFamily": "IBM Plex Sans",
-                              "fontSize": 11,
-                              "fontWeight": "500"
                             }
                           ]
                         },
@@ -135760,15 +135514,18 @@
               "fill": {
                 "type": "image",
                 "enabled": true,
-                "url": "LOGO%20CCE%20-%20copia.png",
+                "url": "CCE%20Logo%20Blanco.png",
                 "mode": "fill"
               },
-              "width": 40,
+              "width": 207,
               "height": 35
             },
             {
               "type": "text",
               "id": "ozV8x",
+              "x": 45,
+              "y": 0,
+              "enabled": false,
               "fill": "$color-white",
               "textGrowth": "fixed-width",
               "width": 172,
@@ -135815,7 +135572,7 @@
               "type": "text",
               "id": "ly57J",
               "name": "Label",
-              "fill": "#8BAFD4",
+              "fill": "$color-white",
               "content": "Inicio",
               "fontFamily": "IBM Plex Sans",
               "fontSize": 12,
@@ -135852,7 +135609,7 @@
               "type": "text",
               "id": "OHJbL",
               "name": "Label",
-              "fill": "#8BAFD4",
+              "fill": "$color-white",
               "content": "Tickets",
               "fontFamily": "IBM Plex Sans",
               "fontSize": 12,
@@ -135865,7 +135622,10 @@
           "id": "x5jvar",
           "name": "Nav/Help Center",
           "height": 45,
-          "fill": "$color-primary-medium",
+          "fill": "#00000000",
+          "stroke": "$color-white",
+          "strokeWidth": 1.5,
+          "strokeAlignment": "inner",
           "gap": 6,
           "padding": [
             0,
@@ -135892,7 +135652,7 @@
               "content": "Help Center",
               "fontFamily": "IBM Plex Sans",
               "fontSize": 12,
-              "fontWeight": "600"
+              "fontWeight": "700"
             }
           ]
         },
@@ -135925,7 +135685,7 @@
               "type": "text",
               "id": "a7pksm",
               "name": "Label",
-              "fill": "#8BAFD4",
+              "fill": "$color-white",
               "content": "Información",
               "fontFamily": "IBM Plex Sans",
               "fontSize": 12,
@@ -135972,7 +135732,7 @@
               "type": "text",
               "id": "x01vF",
               "name": "Label",
-              "fill": "#8BAFD4",
+              "fill": "$color-white",
               "content": "Herramientas",
               "fontFamily": "IBM Plex Sans",
               "fontSize": 12,
@@ -136162,6 +135922,7 @@
             "bottom": 1
           },
           "strokeAlignment": "inner",
+          "strokeLinejoin": "round",
           "padding": [
             20,
             24
@@ -136232,6 +135993,7 @@
             "bottom": 1
           },
           "strokeAlignment": "inner",
+          "strokeLinejoin": "round",
           "padding": [
             10,
             24
@@ -136292,6 +136054,7 @@
             "bottom": 1
           },
           "strokeAlignment": "inner",
+          "strokeLinejoin": "round",
           "gap": 8,
           "padding": [
             8,
@@ -136410,6 +136173,7 @@
             "bottom": 1
           },
           "strokeAlignment": "inner",
+          "strokeLinejoin": "round",
           "gap": 8,
           "padding": [
             8,
@@ -136531,6 +136295,7 @@
             "bottom": 1
           },
           "strokeAlignment": "inner",
+          "strokeLinejoin": "round",
           "gap": 8,
           "padding": [
             0,
@@ -136644,6 +136409,7 @@
             "bottom": 1
           },
           "strokeAlignment": "inner",
+          "strokeLinejoin": "round",
           "gap": 8,
           "padding": [
             0,
@@ -136757,6 +136523,7 @@
             "bottom": 1
           },
           "strokeAlignment": "inner",
+          "strokeLinejoin": "round",
           "gap": 8,
           "padding": [
             0,
@@ -136883,6 +136650,7 @@
             "bottom": 1
           },
           "strokeAlignment": "inner",
+          "strokeLinejoin": "round",
           "gap": 8,
           "padding": [
             8,
@@ -137018,6 +136786,7 @@
             "bottom": 1
           },
           "strokeAlignment": "inner",
+          "strokeLinejoin": "round",
           "gap": 8,
           "padding": [
             0,
@@ -137145,6 +136914,7 @@
             "bottom": 1
           },
           "strokeAlignment": "inner",
+          "strokeLinejoin": "round",
           "gap": 8,
           "padding": [
             0,
@@ -137272,6 +137042,7 @@
             "bottom": 1
           },
           "strokeAlignment": "inner",
+          "strokeLinejoin": "round",
           "gap": 8,
           "padding": [
             0,
@@ -137397,6 +137168,7 @@
             "top": 1
           },
           "strokeAlignment": "inner",
+          "strokeLinejoin": "round",
           "padding": [
             16,
             24
@@ -137571,7 +137343,7 @@
     },
     "color-primary-dark": {
       "type": "color",
-      "value": "#003A75"
+      "value": "#1075FF"
     },
     "color-primary-light": {
       "type": "color",
