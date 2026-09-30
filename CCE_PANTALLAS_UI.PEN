@@ -5,10 +5,10 @@
       "type": "frame",
       "id": "bi8Au",
       "x": 2905,
-      "y": 0,
+      "y": -558,
       "name": "Mis tickets",
       "width": 1200,
-      "height": 800,
+      "height": 1150,
       "fill": "$color-background",
       "layout": "none",
       "children": [
@@ -2966,14 +2966,195 @@
               ]
             }
           ]
+        },
+        {
+          "type": "frame",
+          "id": "h3xZKA",
+          "x": 0,
+          "y": 874,
+          "name": "Footer",
+          "width": "fill_container(1200)",
+          "fill": "$color-background",
+          "layout": "vertical",
+          "gap": 28,
+          "padding": [
+            40,
+            120
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "EYxKW",
+              "name": "Top",
+              "width": "fill_container",
+              "gap": 80,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "D9sMGF",
+                  "name": "Frame 41",
+                  "layout": "vertical",
+                  "gap": 5,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "M69vj",
+                      "gap": 5,
+                      "padding": [
+                        0,
+                        5
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "rectangle",
+                          "id": "aiSwx",
+                          "name": "Logo CCE",
+                          "fill": {
+                            "type": "image",
+                            "enabled": true,
+                            "url": "CCE%20Logo%20Azul%202026.png",
+                            "mode": "cover"
+                          },
+                          "width": 207,
+                          "height": 35
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "lcwAu",
+                  "name": "Categorías",
+                  "layout": "vertical",
+                  "gap": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "YTKF8",
+                      "name": "H",
+                      "opacity": 0.5,
+                      "fill": "$color-primary",
+                      "content": "Categorías",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "h3j8k",
+                      "name": "General",
+                      "fill": "$color-primary",
+                      "content": "General",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "U8CCL",
+                      "name": "IPS",
+                      "fill": "$color-primary",
+                      "content": "IPS",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "qyLF3",
+                      "name": "BPS",
+                      "fill": "$color-primary",
+                      "content": "BPS",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "a6FczY",
+                      "name": "Incorporación",
+                      "fill": "$color-primary",
+                      "content": "Incorporación",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "KZCPc",
+                  "name": "Soporte",
+                  "layout": "vertical",
+                  "gap": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "kLnsX",
+                      "name": "H",
+                      "opacity": 0.5,
+                      "fill": "$color-primary",
+                      "content": "Soporte",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "O18VJl",
+                      "name": "T1",
+                      "fill": "$color-primary",
+                      "content": "Crear un ticket",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "gjnqF",
+                      "name": "T2",
+                      "opacity": 0.7,
+                      "fill": "$color-primary",
+                      "content": "Horario: Lun–Vie, 9:00–18:00",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "rectangle",
+              "id": "Ec9HM",
+              "name": "Div",
+              "opacity": 0.12,
+              "fill": "$color-primary",
+              "width": "fill_container",
+              "height": 1
+            },
+            {
+              "type": "text",
+              "id": "oTsCp",
+              "name": "Legal",
+              "opacity": 0.5,
+              "fill": "$color-primary",
+              "content": "© 2026 Cámara de Compensación Electrónica S.A. Todos los derechos reservados.",
+              "fontFamily": "IBM Plex Sans",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            }
+          ]
         }
       ]
     },
     {
       "type": "frame",
       "id": "grQfe",
-      "x": -93,
-      "y": 0,
+      "x": -874,
+      "y": -558,
       "name": "Design System",
       "fill": "#ffffff",
       "layout": "vertical",
@@ -8455,10 +8636,10 @@
       "type": "frame",
       "id": "xsZ6Z",
       "x": 4223,
-      "y": 0,
+      "y": -558,
       "name": "Detalle de ticket - En proceso (Datos) (CoDi)",
       "width": 1200,
-      "height": 970,
+      "height": 1320,
       "fill": "$color-background",
       "layout": "none",
       "children": [
@@ -9918,6 +10099,187 @@
               ]
             }
           ]
+        },
+        {
+          "type": "frame",
+          "id": "rnX4n",
+          "x": 0,
+          "y": 1044,
+          "name": "Footer",
+          "width": "fill_container(1200)",
+          "fill": "$color-background",
+          "layout": "vertical",
+          "gap": 28,
+          "padding": [
+            40,
+            120
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "RDYhS",
+              "name": "Top",
+              "width": "fill_container",
+              "gap": 80,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "A9YHG6",
+                  "name": "Frame 41",
+                  "layout": "vertical",
+                  "gap": 5,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "iaW89",
+                      "gap": 5,
+                      "padding": [
+                        0,
+                        5
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "rectangle",
+                          "id": "A4JbOK",
+                          "name": "Logo CCE",
+                          "fill": {
+                            "type": "image",
+                            "enabled": true,
+                            "url": "CCE%20Logo%20Azul%202026.png",
+                            "mode": "cover"
+                          },
+                          "width": 207,
+                          "height": 35
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "aBqDi",
+                  "name": "Categorías",
+                  "layout": "vertical",
+                  "gap": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "asSS5",
+                      "name": "H",
+                      "opacity": 0.5,
+                      "fill": "$color-primary",
+                      "content": "Categorías",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "Anerz",
+                      "name": "General",
+                      "fill": "$color-primary",
+                      "content": "General",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "Y4y9C",
+                      "name": "IPS",
+                      "fill": "$color-primary",
+                      "content": "IPS",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "txbUZ",
+                      "name": "BPS",
+                      "fill": "$color-primary",
+                      "content": "BPS",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "dPNGJ",
+                      "name": "Incorporación",
+                      "fill": "$color-primary",
+                      "content": "Incorporación",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "B4x0cH",
+                  "name": "Soporte",
+                  "layout": "vertical",
+                  "gap": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "Q3M6f",
+                      "name": "H",
+                      "opacity": 0.5,
+                      "fill": "$color-primary",
+                      "content": "Soporte",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "vpPPF",
+                      "name": "T1",
+                      "fill": "$color-primary",
+                      "content": "Crear un ticket",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "X2Vc5",
+                      "name": "T2",
+                      "opacity": 0.7,
+                      "fill": "$color-primary",
+                      "content": "Horario: Lun–Vie, 9:00–18:00",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "rectangle",
+              "id": "wgbKa",
+              "name": "Div",
+              "opacity": 0.12,
+              "fill": "$color-primary",
+              "width": "fill_container",
+              "height": 1
+            },
+            {
+              "type": "text",
+              "id": "KJdYx",
+              "name": "Legal",
+              "opacity": 0.5,
+              "fill": "$color-primary",
+              "content": "© 2026 Cámara de Compensación Electrónica S.A. Todos los derechos reservados.",
+              "fontFamily": "IBM Plex Sans",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            }
+          ]
         }
       ]
     },
@@ -9925,10 +10287,10 @@
       "type": "frame",
       "id": "F834WH",
       "x": 5627,
-      "y": 0,
+      "y": -558,
       "name": "Detalle de ticket - En proceso (Datos) (SPEI)",
       "width": 1200,
-      "height": 1070,
+      "height": 1320,
       "fill": "$color-background",
       "layout": "none",
       "children": [
@@ -11374,6 +11736,187 @@
               ]
             }
           ]
+        },
+        {
+          "type": "frame",
+          "id": "CIpGX",
+          "x": 0,
+          "y": 1044,
+          "name": "Footer",
+          "width": "fill_container(1200)",
+          "fill": "$color-background",
+          "layout": "vertical",
+          "gap": 28,
+          "padding": [
+            40,
+            120
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "gL2wx",
+              "name": "Top",
+              "width": "fill_container",
+              "gap": 80,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "H2oDF",
+                  "name": "Frame 41",
+                  "layout": "vertical",
+                  "gap": 5,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "ZGfF5",
+                      "gap": 5,
+                      "padding": [
+                        0,
+                        5
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "rectangle",
+                          "id": "H1zrec",
+                          "name": "Logo CCE",
+                          "fill": {
+                            "type": "image",
+                            "enabled": true,
+                            "url": "CCE%20Logo%20Azul%202026.png",
+                            "mode": "cover"
+                          },
+                          "width": 207,
+                          "height": 35
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "pupAS",
+                  "name": "Categorías",
+                  "layout": "vertical",
+                  "gap": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "SsbVW",
+                      "name": "H",
+                      "opacity": 0.5,
+                      "fill": "$color-primary",
+                      "content": "Categorías",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "ILBum",
+                      "name": "General",
+                      "fill": "$color-primary",
+                      "content": "General",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "TozCm",
+                      "name": "IPS",
+                      "fill": "$color-primary",
+                      "content": "IPS",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "Slw11",
+                      "name": "BPS",
+                      "fill": "$color-primary",
+                      "content": "BPS",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "yLNqC",
+                      "name": "Incorporación",
+                      "fill": "$color-primary",
+                      "content": "Incorporación",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "jRf4V",
+                  "name": "Soporte",
+                  "layout": "vertical",
+                  "gap": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "l9Av5D",
+                      "name": "H",
+                      "opacity": 0.5,
+                      "fill": "$color-primary",
+                      "content": "Soporte",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "HnBqj",
+                      "name": "T1",
+                      "fill": "$color-primary",
+                      "content": "Crear un ticket",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "PNKBU",
+                      "name": "T2",
+                      "opacity": 0.7,
+                      "fill": "$color-primary",
+                      "content": "Horario: Lun–Vie, 9:00–18:00",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "rectangle",
+              "id": "rupUk",
+              "name": "Div",
+              "opacity": 0.12,
+              "fill": "$color-primary",
+              "width": "fill_container",
+              "height": 1
+            },
+            {
+              "type": "text",
+              "id": "h48iD0",
+              "name": "Legal",
+              "opacity": 0.5,
+              "fill": "$color-primary",
+              "content": "© 2026 Cámara de Compensación Electrónica S.A. Todos los derechos reservados.",
+              "fontFamily": "IBM Plex Sans",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            }
+          ]
         }
       ]
     },
@@ -11381,7 +11924,7 @@
       "type": "frame",
       "id": "QE1kB",
       "x": 7018,
-      "y": 0,
+      "y": -558,
       "name": "Modal Crear nuevo ticket (SPEI)",
       "width": 750,
       "fill": "$color-white",
@@ -12345,7 +12888,7 @@
       "type": "frame",
       "id": "W027iV",
       "x": 8515,
-      "y": 0,
+      "y": -558,
       "name": "Modal Crear nuevo ticket (CoDi)",
       "width": 750,
       "fill": "$color-white",
@@ -13245,7 +13788,7 @@
       "type": "frame",
       "id": "rlXbE",
       "x": 7938,
-      "y": 0,
+      "y": -558,
       "width": 200,
       "fill": "$color-white",
       "cornerRadius": 8,
@@ -13329,7 +13872,7 @@
       "type": "frame",
       "id": "U1bJ5t",
       "x": 7938,
-      "y": 120,
+      "y": -438,
       "width": 200,
       "fill": "$color-white",
       "cornerRadius": 8,
@@ -13413,7 +13956,7 @@
       "type": "frame",
       "id": "V9m9o",
       "x": 7938,
-      "y": 248,
+      "y": -310,
       "width": 200,
       "fill": "$color-white",
       "cornerRadius": 8,
@@ -13497,7 +14040,7 @@
       "type": "frame",
       "id": "iCLLb",
       "x": 7938,
-      "y": 379,
+      "y": -179,
       "width": 200,
       "fill": "$color-white",
       "cornerRadius": 8,
@@ -13581,7 +14124,7 @@
       "type": "frame",
       "id": "u6bx9B",
       "x": 7938,
-      "y": 502,
+      "y": -56,
       "width": 200,
       "fill": "$color-white",
       "cornerRadius": 8,
@@ -13665,7 +14208,7 @@
       "type": "frame",
       "id": "n7UcM",
       "x": 7938,
-      "y": 633,
+      "y": 75,
       "width": 200,
       "fill": "$color-white",
       "cornerRadius": 8,
@@ -13749,7 +14292,7 @@
       "type": "frame",
       "id": "wFbFT",
       "x": 8170,
-      "y": 0,
+      "y": -558,
       "width": 200,
       "fill": "$color-white",
       "cornerRadius": 8,
@@ -13833,7 +14376,7 @@
       "type": "frame",
       "id": "LKZvG",
       "x": 8170,
-      "y": 128,
+      "y": -430,
       "width": 200,
       "fill": "$color-white",
       "cornerRadius": 8,
@@ -13917,7 +14460,7 @@
       "type": "frame",
       "id": "Fknt5",
       "x": 8170,
-      "y": 259,
+      "y": -299,
       "width": 200,
       "fill": "$color-white",
       "cornerRadius": 8,
@@ -14001,7 +14544,7 @@
       "type": "frame",
       "id": "QaTPC",
       "x": 8170,
-      "y": 382,
+      "y": -176,
       "width": 200,
       "fill": "$color-white",
       "cornerRadius": 8,
@@ -14085,7 +14628,7 @@
       "type": "frame",
       "id": "A7JXcW",
       "x": 8170,
-      "y": 633,
+      "y": 75,
       "width": 200,
       "fill": "$color-white",
       "cornerRadius": 8,
@@ -14169,7 +14712,7 @@
       "type": "frame",
       "id": "N6L0D5",
       "x": 8170,
-      "y": 513,
+      "y": -45,
       "width": 200,
       "fill": "$color-white",
       "cornerRadius": 8,
@@ -14253,7 +14796,7 @@
       "type": "frame",
       "id": "RuD34",
       "x": 9373,
-      "y": 0,
+      "y": -558,
       "name": "Modal Crear nuevo ticket (Otro)",
       "width": 750,
       "fill": "$color-white",
@@ -15004,7 +15547,7 @@
       "type": "frame",
       "id": "xI1YR",
       "x": 10271,
-      "y": 0,
+      "y": -558,
       "name": "Modal éxito ticket creado",
       "width": 450,
       "fill": "$color-white",
@@ -15484,10 +16027,10 @@
       "type": "frame",
       "id": "oBFgw",
       "x": 10911,
-      "y": 0,
+      "y": -558,
       "name": "Detalle de ticket - Nuevo (Datos)",
       "width": 1200,
-      "height": 920,
+      "height": 1320,
       "fill": "$color-background",
       "layout": "none",
       "children": [
@@ -16687,6 +17230,187 @@
               ]
             }
           ]
+        },
+        {
+          "type": "frame",
+          "id": "n8bipN",
+          "x": 0,
+          "y": 1044,
+          "name": "Footer",
+          "width": "fill_container(1200)",
+          "fill": "$color-background",
+          "layout": "vertical",
+          "gap": 28,
+          "padding": [
+            40,
+            120
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "X9no0",
+              "name": "Top",
+              "width": "fill_container",
+              "gap": 80,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "V8zI2",
+                  "name": "Frame 41",
+                  "layout": "vertical",
+                  "gap": 5,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "wXVgB",
+                      "gap": 5,
+                      "padding": [
+                        0,
+                        5
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "rectangle",
+                          "id": "bkcdL",
+                          "name": "Logo CCE",
+                          "fill": {
+                            "type": "image",
+                            "enabled": true,
+                            "url": "CCE%20Logo%20Azul%202026.png",
+                            "mode": "cover"
+                          },
+                          "width": 207,
+                          "height": 35
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "xfWKd",
+                  "name": "Categorías",
+                  "layout": "vertical",
+                  "gap": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "x611TA",
+                      "name": "H",
+                      "opacity": 0.5,
+                      "fill": "$color-primary",
+                      "content": "Categorías",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "k8TB7s",
+                      "name": "General",
+                      "fill": "$color-primary",
+                      "content": "General",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "e16KHm",
+                      "name": "IPS",
+                      "fill": "$color-primary",
+                      "content": "IPS",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "rJNse",
+                      "name": "BPS",
+                      "fill": "$color-primary",
+                      "content": "BPS",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "lktfX",
+                      "name": "Incorporación",
+                      "fill": "$color-primary",
+                      "content": "Incorporación",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "sa1om",
+                  "name": "Soporte",
+                  "layout": "vertical",
+                  "gap": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "S6mqQ",
+                      "name": "H",
+                      "opacity": 0.5,
+                      "fill": "$color-primary",
+                      "content": "Soporte",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "ru3Wl",
+                      "name": "T1",
+                      "fill": "$color-primary",
+                      "content": "Crear un ticket",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "XGbvH",
+                      "name": "T2",
+                      "opacity": 0.7,
+                      "fill": "$color-primary",
+                      "content": "Horario: Lun–Vie, 9:00–18:00",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "rectangle",
+              "id": "ryOSv",
+              "name": "Div",
+              "opacity": 0.12,
+              "fill": "$color-primary",
+              "width": "fill_container",
+              "height": 1
+            },
+            {
+              "type": "text",
+              "id": "IU6qb",
+              "name": "Legal",
+              "opacity": 0.5,
+              "fill": "$color-primary",
+              "content": "© 2026 Cámara de Compensación Electrónica S.A. Todos los derechos reservados.",
+              "fontFamily": "IBM Plex Sans",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            }
+          ]
         }
       ]
     },
@@ -16694,10 +17418,10 @@
       "type": "frame",
       "id": "ALxJS",
       "x": 12264,
-      "y": 0,
+      "y": -558,
       "name": "Detalle de ticket - Pdte Respuesta (Comentarios)",
       "width": 1200,
-      "height": 1282,
+      "height": 1732,
       "fill": "$color-background",
       "layout": "none",
       "children": [
@@ -17759,6 +18483,187 @@
               ]
             }
           ]
+        },
+        {
+          "type": "frame",
+          "id": "N46T9",
+          "x": 0,
+          "y": 1456,
+          "name": "Footer",
+          "width": "fill_container(1200)",
+          "fill": "$color-background",
+          "layout": "vertical",
+          "gap": 28,
+          "padding": [
+            40,
+            120
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "Y3G4b",
+              "name": "Top",
+              "width": "fill_container",
+              "gap": 80,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "VzoGn",
+                  "name": "Frame 41",
+                  "layout": "vertical",
+                  "gap": 5,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "VFwHl",
+                      "gap": 5,
+                      "padding": [
+                        0,
+                        5
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "rectangle",
+                          "id": "Onkeq",
+                          "name": "Logo CCE",
+                          "fill": {
+                            "type": "image",
+                            "enabled": true,
+                            "url": "CCE%20Logo%20Azul%202026.png",
+                            "mode": "cover"
+                          },
+                          "width": 207,
+                          "height": 35
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "CGa6g",
+                  "name": "Categorías",
+                  "layout": "vertical",
+                  "gap": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "VxfuD",
+                      "name": "H",
+                      "opacity": 0.5,
+                      "fill": "$color-primary",
+                      "content": "Categorías",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "XJlPa",
+                      "name": "General",
+                      "fill": "$color-primary",
+                      "content": "General",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "QxsUl",
+                      "name": "IPS",
+                      "fill": "$color-primary",
+                      "content": "IPS",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "WNLGu",
+                      "name": "BPS",
+                      "fill": "$color-primary",
+                      "content": "BPS",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "neo5e",
+                      "name": "Incorporación",
+                      "fill": "$color-primary",
+                      "content": "Incorporación",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "ZUXch",
+                  "name": "Soporte",
+                  "layout": "vertical",
+                  "gap": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "twFEU",
+                      "name": "H",
+                      "opacity": 0.5,
+                      "fill": "$color-primary",
+                      "content": "Soporte",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "gqztp",
+                      "name": "T1",
+                      "fill": "$color-primary",
+                      "content": "Crear un ticket",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "z7vAo",
+                      "name": "T2",
+                      "opacity": 0.7,
+                      "fill": "$color-primary",
+                      "content": "Horario: Lun–Vie, 9:00–18:00",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "rectangle",
+              "id": "EkX5d",
+              "name": "Div",
+              "opacity": 0.12,
+              "fill": "$color-primary",
+              "width": "fill_container",
+              "height": 1
+            },
+            {
+              "type": "text",
+              "id": "UBF9h",
+              "name": "Legal",
+              "opacity": 0.5,
+              "fill": "$color-primary",
+              "content": "© 2026 Cámara de Compensación Electrónica S.A. Todos los derechos reservados.",
+              "fontFamily": "IBM Plex Sans",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            }
+          ]
         }
       ]
     },
@@ -17766,10 +18671,10 @@
       "type": "frame",
       "id": "Y8LFwy",
       "x": 13637,
-      "y": 0,
+      "y": -558,
       "name": "Detalle de ticket - Resuelto (Comentarios)",
       "width": 1200,
-      "height": 1995,
+      "height": 2421,
       "fill": "$color-background",
       "layout": "none",
       "children": [
@@ -19107,6 +20012,187 @@
               ]
             }
           ]
+        },
+        {
+          "type": "frame",
+          "id": "cUphv",
+          "x": 0,
+          "y": 2145,
+          "name": "Footer",
+          "width": "fill_container(1200)",
+          "fill": "$color-background",
+          "layout": "vertical",
+          "gap": 28,
+          "padding": [
+            40,
+            120
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "dGH6y",
+              "name": "Top",
+              "width": "fill_container",
+              "gap": 80,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "HkhvH",
+                  "name": "Frame 41",
+                  "layout": "vertical",
+                  "gap": 5,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "l7jur",
+                      "gap": 5,
+                      "padding": [
+                        0,
+                        5
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "rectangle",
+                          "id": "BZYEv",
+                          "name": "Logo CCE",
+                          "fill": {
+                            "type": "image",
+                            "enabled": true,
+                            "url": "CCE%20Logo%20Azul%202026.png",
+                            "mode": "cover"
+                          },
+                          "width": 207,
+                          "height": 35
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "B9GdXi",
+                  "name": "Categorías",
+                  "layout": "vertical",
+                  "gap": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "LROw0",
+                      "name": "H",
+                      "opacity": 0.5,
+                      "fill": "$color-primary",
+                      "content": "Categorías",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "IAdzd",
+                      "name": "General",
+                      "fill": "$color-primary",
+                      "content": "General",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "R1nJvW",
+                      "name": "IPS",
+                      "fill": "$color-primary",
+                      "content": "IPS",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "ZmVZ3",
+                      "name": "BPS",
+                      "fill": "$color-primary",
+                      "content": "BPS",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "mWLSJ",
+                      "name": "Incorporación",
+                      "fill": "$color-primary",
+                      "content": "Incorporación",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "L19Ch2",
+                  "name": "Soporte",
+                  "layout": "vertical",
+                  "gap": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "R2Mvi",
+                      "name": "H",
+                      "opacity": 0.5,
+                      "fill": "$color-primary",
+                      "content": "Soporte",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "XRgXp",
+                      "name": "T1",
+                      "fill": "$color-primary",
+                      "content": "Crear un ticket",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "vigDr",
+                      "name": "T2",
+                      "opacity": 0.7,
+                      "fill": "$color-primary",
+                      "content": "Horario: Lun–Vie, 9:00–18:00",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "rectangle",
+              "id": "Hagrq",
+              "name": "Div",
+              "opacity": 0.12,
+              "fill": "$color-primary",
+              "width": "fill_container",
+              "height": 1
+            },
+            {
+              "type": "text",
+              "id": "NsEFa",
+              "name": "Legal",
+              "opacity": 0.5,
+              "fill": "$color-primary",
+              "content": "© 2026 Cámara de Compensación Electrónica S.A. Todos los derechos reservados.",
+              "fontFamily": "IBM Plex Sans",
+              "fontSize": 11,
+              "fontWeight": "normal"
+            }
+          ]
         }
       ]
     },
@@ -19114,7 +20200,7 @@
       "type": "frame",
       "id": "o2hY3",
       "x": 16363,
-      "y": 0,
+      "y": -558,
       "name": "Modal Reabrir ticket",
       "width": 450,
       "fill": "$color-white",
@@ -19393,7 +20479,7 @@
       "type": "frame",
       "id": "qdwu4",
       "x": 16992,
-      "y": 0,
+      "y": -558,
       "name": "Modal Ticket reabierto",
       "width": 450,
       "fill": "$color-white",
@@ -19641,10 +20727,10 @@
       "type": "frame",
       "id": "AErjV",
       "x": 17620,
-      "y": 0,
+      "y": -558,
       "name": "Detalle de ticket - Abierto (Datos)",
       "width": 1200,
-      "height": 1120,
+      "height": 1511,
       "fill": "$color-background",
       "layout": "none",
       "children": [
@@ -21180,6 +22266,187 @@
                   "fill": "$color-white"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "c3TX3",
+          "x": 0,
+          "y": 1235,
+          "name": "Footer",
+          "width": "fill_container(1200)",
+          "fill": "$color-background",
+          "layout": "vertical",
+          "gap": 28,
+          "padding": [
+            40,
+            120
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "pX8WZ",
+              "name": "Top",
+              "width": "fill_container",
+              "gap": 80,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "U3sKv7",
+                  "name": "Frame 41",
+                  "layout": "vertical",
+                  "gap": 5,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "FW5lB",
+                      "gap": 5,
+                      "padding": [
+                        0,
+                        5
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "rectangle",
+                          "id": "POa36",
+                          "name": "Logo CCE",
+                          "fill": {
+                            "type": "image",
+                            "enabled": true,
+                            "url": "CCE%20Logo%20Azul%202026.png",
+                            "mode": "cover"
+                          },
+                          "width": 207,
+                          "height": 35
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "y4XSo",
+                  "name": "Categorías",
+                  "layout": "vertical",
+                  "gap": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "p2hOh",
+                      "name": "H",
+                      "opacity": 0.5,
+                      "fill": "$color-primary",
+                      "content": "Categorías",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "ecVbU",
+                      "name": "General",
+                      "fill": "$color-primary",
+                      "content": "General",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "E9NOU9",
+                      "name": "IPS",
+                      "fill": "$color-primary",
+                      "content": "IPS",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "b6tDn",
+                      "name": "BPS",
+                      "fill": "$color-primary",
+                      "content": "BPS",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "YrW35",
+                      "name": "Incorporación",
+                      "fill": "$color-primary",
+                      "content": "Incorporación",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "f251zZ",
+                  "name": "Soporte",
+                  "layout": "vertical",
+                  "gap": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "CL0bx",
+                      "name": "H",
+                      "opacity": 0.5,
+                      "fill": "$color-primary",
+                      "content": "Soporte",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "Gu2kA",
+                      "name": "T1",
+                      "fill": "$color-primary",
+                      "content": "Crear un ticket",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "vABwu",
+                      "name": "T2",
+                      "opacity": 0.7,
+                      "fill": "$color-primary",
+                      "content": "Horario: Lun–Vie, 9:00–18:00",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "rectangle",
+              "id": "ApFo6",
+              "name": "Div",
+              "opacity": 0.12,
+              "fill": "$color-primary",
+              "width": "fill_container",
+              "height": 1
+            },
+            {
+              "type": "text",
+              "id": "cxDM3",
+              "name": "Legal",
+              "opacity": 0.5,
+              "fill": "$color-primary",
+              "content": "© 2026 Cámara de Compensación Electrónica S.A. Todos los derechos reservados.",
+              "fontFamily": "IBM Plex Sans",
+              "fontSize": 11,
+              "fontWeight": "normal"
             }
           ]
         }
@@ -38979,10 +40246,10 @@
       "type": "frame",
       "id": "nyWTo",
       "x": 15027,
-      "y": 0,
+      "y": -558,
       "name": "Detalle de ticket - Resuelto (Datos)",
       "width": 1200,
-      "height": 1120,
+      "height": 1511,
       "fill": "$color-background",
       "layout": "none",
       "children": [
@@ -40530,6 +41797,187 @@
                   "fill": "$color-white"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "wKZrX",
+          "x": 0,
+          "y": 1235,
+          "name": "Footer",
+          "width": "fill_container(1200)",
+          "fill": "$color-background",
+          "layout": "vertical",
+          "gap": 28,
+          "padding": [
+            40,
+            120
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "DwXWw",
+              "name": "Top",
+              "width": "fill_container",
+              "gap": 80,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "gt8cG",
+                  "name": "Frame 41",
+                  "layout": "vertical",
+                  "gap": 5,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "yrrsd",
+                      "gap": 5,
+                      "padding": [
+                        0,
+                        5
+                      ],
+                      "alignItems": "center",
+                      "children": [
+                        {
+                          "type": "rectangle",
+                          "id": "vJB9u",
+                          "name": "Logo CCE",
+                          "fill": {
+                            "type": "image",
+                            "enabled": true,
+                            "url": "CCE%20Logo%20Azul%202026.png",
+                            "mode": "cover"
+                          },
+                          "width": 207,
+                          "height": 35
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "nbLVv",
+                  "name": "Categorías",
+                  "layout": "vertical",
+                  "gap": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "P7w94",
+                      "name": "H",
+                      "opacity": 0.5,
+                      "fill": "$color-primary",
+                      "content": "Categorías",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "l7witi",
+                      "name": "General",
+                      "fill": "$color-primary",
+                      "content": "General",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "PgmWM",
+                      "name": "IPS",
+                      "fill": "$color-primary",
+                      "content": "IPS",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "Wuoz7",
+                      "name": "BPS",
+                      "fill": "$color-primary",
+                      "content": "BPS",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "UqZQz",
+                      "name": "Incorporación",
+                      "fill": "$color-primary",
+                      "content": "Incorporación",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "OZkJ0",
+                  "name": "Soporte",
+                  "layout": "vertical",
+                  "gap": 10,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "W3rTM",
+                      "name": "H",
+                      "opacity": 0.5,
+                      "fill": "$color-primary",
+                      "content": "Soporte",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "aYr51",
+                      "name": "T1",
+                      "fill": "$color-primary",
+                      "content": "Crear un ticket",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    },
+                    {
+                      "type": "text",
+                      "id": "qDROM",
+                      "name": "T2",
+                      "opacity": 0.7,
+                      "fill": "$color-primary",
+                      "content": "Horario: Lun–Vie, 9:00–18:00",
+                      "fontFamily": "IBM Plex Sans",
+                      "fontSize": 13,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "rectangle",
+              "id": "Czb3w",
+              "name": "Div",
+              "opacity": 0.12,
+              "fill": "$color-primary",
+              "width": "fill_container",
+              "height": 1
+            },
+            {
+              "type": "text",
+              "id": "U2W3eJ",
+              "name": "Legal",
+              "opacity": 0.5,
+              "fill": "$color-primary",
+              "content": "© 2026 Cámara de Compensación Electrónica S.A. Todos los derechos reservados.",
+              "fontFamily": "IBM Plex Sans",
+              "fontSize": 11,
+              "fontWeight": "normal"
             }
           ]
         }
@@ -53550,7 +54998,7 @@
       "type": "frame",
       "id": "Jp7Gk",
       "x": 18837,
-      "y": -404,
+      "y": -962,
       "width": 160,
       "height": "fill_container(45)",
       "stroke": "#8bafd4",
